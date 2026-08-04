@@ -1,0 +1,354 @@
+# South Australia — Australia Administrative Divisions
+
+> 69 local government areas
+> Code: AU05
+> Coordinates: -29.468, 135.915
+> Last updated: 2026-08-04. License: CC-BY-4.0.
+
+## Local Government Areas
+
+### Adelaide
+
+Code: AU05L016, Coordinates: -34.923, 138.598
+
+
+### Adelaide Hills
+
+Code: AU05L034, Coordinates: -34.873, 138.865
+
+
+### Alexandrina
+
+Code: AU05L020, Coordinates: -35.364, 138.885
+
+
+### Anangu Pitjantjatjara
+
+Code: AU05L065, Coordinates: -27.058, 131.173
+
+
+### Barossa
+
+Code: AU05L017, Coordinates: -34.648, 139.005
+
+
+### Barunga West
+
+Code: AU05L019, Coordinates: -33.763, 137.941
+
+
+### Berri and Barmera
+
+Code: AU05L011, Coordinates: -34.223, 140.459
+
+
+### Burnside
+
+Code: AU05L004, Coordinates: -34.949, 138.656
+
+
+### Ceduna
+
+Code: AU05L010, Coordinates: -32.063, 133.882
+
+
+### Charles Sturt
+
+Code: AU05L047, Coordinates: -34.892, 138.528
+
+
+### Clare and Gilbert Valleys
+
+Code: AU05L001, Coordinates: -34.04, 138.754
+
+
+### Cleve
+
+Code: AU05L030, Coordinates: -33.674, 136.205
+
+
+### Coober Pedy
+
+Code: AU05L062, Coordinates: -29.015, 134.752
+
+
+### Copper Coast
+
+Code: AU05L064, Coordinates: -33.988, 137.729
+
+
+### Elliston
+
+Code: AU05L037, Coordinates: -33.637, 135.395
+
+
+### Flinders Ranges
+
+Code: AU05L031, Coordinates: -32.03, 138.273
+
+
+### Franklin Harbour
+
+Code: AU05L013, Coordinates: -33.528, 136.896
+
+
+### Gawler
+
+Code: AU05L006, Coordinates: -34.629, 138.73
+
+
+### Goyder
+
+Code: AU05L063, Coordinates: -33.554, 139.033
+
+
+### Grant
+
+Code: AU05L040, Coordinates: -37.885, 140.618
+
+
+### Holdfast Bay
+
+Code: AU05L045, Coordinates: -35.002, 138.521
+
+
+### Kangaroo Island
+
+Code: AU05L038, Coordinates: -35.791, 137.294
+
+
+### Karoonda East Murray
+
+Code: AU05L061, Coordinates: -34.95, 140.02
+
+
+### Kimba
+
+Code: AU05L069, Coordinates: -33.102, 136.256
+
+
+### Kingston
+
+Code: AU05L041, Coordinates: -36.662, 140.052
+
+
+### Light
+
+Code: AU05L046, Coordinates: -34.438, 138.851
+
+
+### Lower Eyre Peninsula
+
+Code: AU05L058, Coordinates: -34.403, 135.589
+
+
+### Loxton Waikerie
+
+Code: AU05L056, Coordinates: -34.693, 140.638
+
+
+### Mallala
+
+Code: AU05L009, Coordinates: -34.476, 138.451
+
+
+### Maralinga Tjarutja
+
+Code: AU05L029, Coordinates: -29.19, 130.645
+
+
+### Marion
+
+Code: AU05L035, Coordinates: -35.065, 138.528
+
+
+### Mid Murray
+
+Code: AU05L033, Coordinates: -34.654, 139.425
+
+
+### Mitcham
+
+Code: AU05L068, Coordinates: -34.999, 138.617
+
+
+### Mount Barker
+
+Code: AU05L027, Coordinates: -35.104, 138.829
+
+
+### Mount Gambier
+
+Code: AU05L007, Coordinates: -37.826, 140.782
+
+
+### Mount Remarkable
+
+Code: AU05L036, Coordinates: -32.763, 138.2
+
+
+### Murray Bridge
+
+Code: AU05L005, Coordinates: -35.131, 139.231
+
+
+### Naracoorte and Lucindale
+
+Code: AU05L048, Coordinates: -36.957, 140.494
+
+
+### Northern Areas
+
+Code: AU05L053, Coordinates: -33.302, 138.517
+
+
+### Norwood Payneham St Peters
+
+Code: AU05L021, Coordinates: -34.902, 138.637
+
+
+### Onkaparinga
+
+Code: AU05L002, Coordinates: -35.176, 138.56
+
+
+### Orroroo/Carrieton
+
+Code: AU05L060, Coordinates: -32.55, 138.657
+
+
+### Peterborough
+
+Code: AU05L049, Coordinates: -32.873, 139.086
+
+
+### Playford
+
+Code: AU05L066, Coordinates: -34.667, 138.66
+
+
+### Port Adelaide Enfield
+
+Code: AU05L022, Coordinates: -34.851, 138.576
+
+
+### Port Augusta
+
+Code: AU05L008, Coordinates: -32.602, 137.694
+
+
+### Port Lincoln
+
+Code: AU05L023, Coordinates: -34.73, 135.845
+
+
+### Port Pirie City and Dists
+
+Code: AU05L051, Coordinates: -33.324, 138.077
+
+
+### Prospect
+
+Code: AU05L026, Coordinates: -34.886, 138.594
+
+
+### Renmark Paringa
+
+Code: AU05L014, Coordinates: -34.223, 140.855
+
+
+### Robe
+
+Code: AU05L028, Coordinates: -37.177, 139.934
+
+
+### Roxby Downs
+
+Code: AU05L039, Coordinates: -30.554, 136.882
+
+
+### Salisbury
+
+Code: AU05L018, Coordinates: -34.781, 138.605
+
+
+### Southern Mallee
+
+Code: AU05L042, Coordinates: -35.4, 140.58
+
+
+### Streaky Bay
+
+Code: AU05L044, Coordinates: -32.712, 134.558
+
+
+### Tatiara
+
+Code: AU05L024, Coordinates: -36.26, 140.639
+
+
+### Tea Tree Gully
+
+Code: AU05L055, Coordinates: -34.813, 138.713
+
+
+### The Coorong
+
+Code: AU05L025, Coordinates: -35.697, 139.74
+
+
+### Tumby Bay
+
+Code: AU05L050, Coordinates: -34.199, 135.984
+
+
+### Unley
+
+Code: AU05L003, Coordinates: -34.953, 138.604
+
+
+### Victor Harbor
+
+Code: AU05L059, Coordinates: -35.502, 138.557
+
+
+### Wakefield
+
+Code: AU05L052, Coordinates: -33.986, 138.357
+
+
+### Walkerville
+
+Code: AU05L043, Coordinates: -34.89, 138.619
+
+
+### Wattle Range
+
+Code: AU05L012, Coordinates: -37.527, 140.435
+
+
+### West Torrens
+
+Code: AU05L067, Coordinates: -34.943, 138.547
+
+
+### Whyalla
+
+Code: AU05L015, Coordinates: -33.033, 137.445
+
+
+### Wudinna
+
+Code: AU05L032, Coordinates: -32.978, 135.279
+
+
+### Yankalilla
+
+Code: AU05L057, Coordinates: -35.551, 138.341
+
+
+### Yorke Peninsula
+
+Code: AU05L054, Coordinates: -34.32, 137.722
+
+

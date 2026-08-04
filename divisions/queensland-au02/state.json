@@ -1,0 +1,33 @@
+{
+  "id": "AU02",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "Queensland",
+    "en": "Queensland",
+    "slug": "queensland-au02"
+  },
+  "code": {
+    "id": "AU02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.034",
+    "lon": "144.417"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/queensland-au02/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

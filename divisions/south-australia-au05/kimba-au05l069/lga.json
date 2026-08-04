@@ -1,0 +1,45 @@
+{
+  "id": "AU05L069",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kimba",
+    "en": "Kimba",
+    "slug": "kimba-au05l069"
+  },
+  "code": {
+    "id": "AU05L069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-33.102",
+    "lon": "136.256"
+  },
+  "metadata": {},
+  "source": {}
+}

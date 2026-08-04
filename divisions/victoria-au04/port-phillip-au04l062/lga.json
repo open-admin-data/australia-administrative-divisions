@@ -1,0 +1,45 @@
+{
+  "id": "AU04L062",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Port Phillip",
+    "en": "Port Phillip",
+    "slug": "port-phillip-au04l062"
+  },
+  "code": {
+    "id": "AU04L062",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.845",
+    "lon": "144.967"
+  },
+  "metadata": {},
+  "source": {}
+}

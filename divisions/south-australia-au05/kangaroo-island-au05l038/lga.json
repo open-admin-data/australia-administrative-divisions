@@ -1,0 +1,45 @@
+{
+  "id": "AU05L038",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kangaroo Island",
+    "en": "Kangaroo Island",
+    "slug": "kangaroo-island-au05l038"
+  },
+  "code": {
+    "id": "AU05L038",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-35.791",
+    "lon": "137.294"
+  },
+  "metadata": {},
+  "source": {}
+}

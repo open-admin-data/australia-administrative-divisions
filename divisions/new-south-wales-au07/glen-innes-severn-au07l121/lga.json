@@ -1,0 +1,45 @@
+{
+  "id": "AU07L121",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Glen Innes Severn",
+    "en": "Glen Innes Severn",
+    "slug": "glen-innes-severn-au07l121"
+  },
+  "code": {
+    "id": "AU07L121",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.714",
+    "lon": "151.903"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,154 @@
+# Tasmania — Australia Administrative Divisions
+
+> 29 local government areas
+> Code: AU08
+> Coordinates: -42.098, 146.565
+> Last updated: 2026-08-04. License: CC-BY-4.0.
+
+## Local Government Areas
+
+### Break O&#39;Day
+
+Code: AU08L029, Coordinates: -41.441, 148.012
+
+
+### Brighton
+
+Code: AU08L020, Coordinates: -42.706, 147.301
+
+
+### Burnie
+
+Code: AU08L023, Coordinates: -41.223, 145.809
+
+
+### Central Coast
+
+Code: AU08L025, Coordinates: -41.269, 146.053
+
+
+### Central Highlands
+
+Code: AU08L001, Coordinates: -42.196, 146.658
+
+
+### Circular Head
+
+Code: AU08L028, Coordinates: -41.101, 145.054
+
+
+### Clarence
+
+Code: AU08L010, Coordinates: -42.839, 147.42
+
+
+### Derwent Valley
+
+Code: AU08L002, Coordinates: -42.835, 146.258
+
+
+### Devonport
+
+Code: AU08L012, Coordinates: -41.221, 146.303
+
+
+### Dorset
+
+Code: AU08L005, Coordinates: -41.092, 147.7
+
+
+### Flinders
+
+Code: AU08L021, Coordinates: -40.004, 148.061
+
+
+### George Town
+
+Code: AU08L022, Coordinates: -41.104, 147.042
+
+
+### Glamorgan/Spring Bay
+
+Code: AU08L011, Coordinates: -41.98, 147.983
+
+
+### Glenorchy
+
+Code: AU08L014, Coordinates: -42.841, 147.221
+
+
+### Hobart
+
+Code: AU08L015, Coordinates: -42.895, 147.293
+
+
+### Huon Valley
+
+Code: AU08L009, Coordinates: -43.235, 146.696
+
+
+### Kentish
+
+Code: AU08L019, Coordinates: -41.383, 146.292
+
+
+### King Island
+
+Code: AU08L007, Coordinates: -39.865, 143.986
+
+
+### Kingborough
+
+Code: AU08L013, Coordinates: -43.387, 147.283
+
+
+### Latrobe
+
+Code: AU08L006, Coordinates: -41.236, 146.488
+
+
+### Launceston
+
+Code: AU08L024, Coordinates: -41.396, 147.306
+
+
+### Meander Valley
+
+Code: AU08L003, Coordinates: -41.531, 146.673
+
+
+### Northern Midlands
+
+Code: AU08L017, Coordinates: -41.826, 147.471
+
+
+### Sorell
+
+Code: AU08L004, Coordinates: -42.779, 147.692
+
+
+### Southern Midlands
+
+Code: AU08L018, Coordinates: -42.449, 147.401
+
+
+### Tasman
+
+Code: AU08L008, Coordinates: -43.115, 147.799
+
+
+### Waratah/Wynyard
+
+Code: AU08L016, Coordinates: -41.451, 145.425
+
+
+### West Coast
+
+Code: AU08L027, Coordinates: -42.2, 145.749
+
+
+### West Tamar
+
+Code: AU08L026, Coordinates: -41.299, 146.864
+
+

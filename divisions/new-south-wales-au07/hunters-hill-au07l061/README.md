@@ -1,0 +1,21 @@
+# Hunters Hill
+
+[Home](../../../) &gt; [New South Wales](../) > **Hunters Hill**
+
+Hunters Hill is a local government area in Australia, under New South Wales.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | AU07L061 |
+| Coordinates | -33.831, 151.137 |
+| Parent | New South Wales |
+
+## Data Files
+
+- [lga.json](lga.json) — Local Government Area metadata
+
+---
+
+<- Back to [New South Wales](../)

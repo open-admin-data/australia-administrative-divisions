@@ -1,0 +1,21 @@
+# Newcastle
+
+[Home](../../../) &gt; [New South Wales](../) > **Newcastle**
+
+Newcastle is a local government area in Australia, under New South Wales.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | AU07L065 |
+| Coordinates | -32.886, 151.677 |
+| Parent | New South Wales |
+
+## Data Files
+
+- [lga.json](lga.json) — Local Government Area metadata
+
+---
+
+<- Back to [New South Wales](../)

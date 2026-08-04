@@ -1,0 +1,45 @@
+{
+  "id": "AU07L054",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kyogle",
+    "en": "Kyogle",
+    "slug": "kyogle-au07l054"
+  },
+  "code": {
+    "id": "AU07L054",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.623",
+    "lon": "152.714"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU07L052",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Clarence Valley",
+    "en": "Clarence Valley",
+    "slug": "clarence-valley-au07l052"
+  },
+  "code": {
+    "id": "AU07L052",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.717",
+    "lon": "152.76"
+  },
+  "metadata": {},
+  "source": {}
+}

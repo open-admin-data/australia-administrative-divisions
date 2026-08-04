@@ -1,0 +1,70 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+AU05L016,Adelaide,Adelaide,adelaide-au05l016,AU05L016,-34.923,138.598
+AU05L034,Adelaide Hills,Adelaide Hills,adelaide-hills-au05l034,AU05L034,-34.873,138.865
+AU05L020,Alexandrina,Alexandrina,alexandrina-au05l020,AU05L020,-35.364,138.885
+AU05L065,Anangu Pitjantjatjara,Anangu Pitjantjatjara,anangu-pitjantjatjara-au05l065,AU05L065,-27.058,131.173
+AU05L017,Barossa,Barossa,barossa-au05l017,AU05L017,-34.648,139.005
+AU05L019,Barunga West,Barunga West,barunga-west-au05l019,AU05L019,-33.763,137.941
+AU05L011,Berri and Barmera,Berri and Barmera,berri-and-barmera-au05l011,AU05L011,-34.223,140.459
+AU05L004,Burnside,Burnside,burnside-au05l004,AU05L004,-34.949,138.656
+AU05L010,Ceduna,Ceduna,ceduna-au05l010,AU05L010,-32.063,133.882
+AU05L047,Charles Sturt,Charles Sturt,charles-sturt-au05l047,AU05L047,-34.892,138.528
+AU05L001,Clare and Gilbert Valleys,Clare and Gilbert Valleys,clare-and-gilbert-valleys-au05l001,AU05L001,-34.04,138.754
+AU05L030,Cleve,Cleve,cleve-au05l030,AU05L030,-33.674,136.205
+AU05L062,Coober Pedy,Coober Pedy,coober-pedy-au05l062,AU05L062,-29.015,134.752
+AU05L064,Copper Coast,Copper Coast,copper-coast-au05l064,AU05L064,-33.988,137.729
+AU05L037,Elliston,Elliston,elliston-au05l037,AU05L037,-33.637,135.395
+AU05L031,Flinders Ranges,Flinders Ranges,flinders-ranges-au05l031,AU05L031,-32.03,138.273
+AU05L013,Franklin Harbour,Franklin Harbour,franklin-harbour-au05l013,AU05L013,-33.528,136.896
+AU05L006,Gawler,Gawler,gawler-au05l006,AU05L006,-34.629,138.73
+AU05L063,Goyder,Goyder,goyder-au05l063,AU05L063,-33.554,139.033
+AU05L040,Grant,Grant,grant-au05l040,AU05L040,-37.885,140.618
+AU05L045,Holdfast Bay,Holdfast Bay,holdfast-bay-au05l045,AU05L045,-35.002,138.521
+AU05L038,Kangaroo Island,Kangaroo Island,kangaroo-island-au05l038,AU05L038,-35.791,137.294
+AU05L061,Karoonda East Murray,Karoonda East Murray,karoonda-east-murray-au05l061,AU05L061,-34.95,140.02
+AU05L069,Kimba,Kimba,kimba-au05l069,AU05L069,-33.102,136.256
+AU05L041,Kingston,Kingston,kingston-au05l041,AU05L041,-36.662,140.052
+AU05L046,Light,Light,light-au05l046,AU05L046,-34.438,138.851
+AU05L058,Lower Eyre Peninsula,Lower Eyre Peninsula,lower-eyre-peninsula-au05l058,AU05L058,-34.403,135.589
+AU05L056,Loxton Waikerie,Loxton Waikerie,loxton-waikerie-au05l056,AU05L056,-34.693,140.638
+AU05L009,Mallala,Mallala,mallala-au05l009,AU05L009,-34.476,138.451
+AU05L029,Maralinga Tjarutja,Maralinga Tjarutja,maralinga-tjarutja-au05l029,AU05L029,-29.19,130.645
+AU05L035,Marion,Marion,marion-au05l035,AU05L035,-35.065,138.528
+AU05L033,Mid Murray,Mid Murray,mid-murray-au05l033,AU05L033,-34.654,139.425
+AU05L068,Mitcham,Mitcham,mitcham-au05l068,AU05L068,-34.999,138.617
+AU05L027,Mount Barker,Mount Barker,mount-barker-au05l027,AU05L027,-35.104,138.829
+AU05L007,Mount Gambier,Mount Gambier,mount-gambier-au05l007,AU05L007,-37.826,140.782
+AU05L036,Mount Remarkable,Mount Remarkable,mount-remarkable-au05l036,AU05L036,-32.763,138.2
+AU05L005,Murray Bridge,Murray Bridge,murray-bridge-au05l005,AU05L005,-35.131,139.231
+AU05L048,Naracoorte and Lucindale,Naracoorte and Lucindale,naracoorte-and-lucindale-au05l048,AU05L048,-36.957,140.494
+AU05L053,Northern Areas,Northern Areas,northern-areas-au05l053,AU05L053,-33.302,138.517
+AU05L021,Norwood Payneham St Peters,Norwood Payneham St Peters,norwood-payneham-st-peters-au05l021,AU05L021,-34.902,138.637
+AU05L002,Onkaparinga,Onkaparinga,onkaparinga-au05l002,AU05L002,-35.176,138.56
+AU05L060,Orroroo/Carrieton,Orroroo/Carrieton,orroroo-carrieton-au05l060,AU05L060,-32.55,138.657
+AU05L049,Peterborough,Peterborough,peterborough-au05l049,AU05L049,-32.873,139.086
+AU05L066,Playford,Playford,playford-au05l066,AU05L066,-34.667,138.66
+AU05L022,Port Adelaide Enfield,Port Adelaide Enfield,port-adelaide-enfield-au05l022,AU05L022,-34.851,138.576
+AU05L008,Port Augusta,Port Augusta,port-augusta-au05l008,AU05L008,-32.602,137.694
+AU05L023,Port Lincoln,Port Lincoln,port-lincoln-au05l023,AU05L023,-34.73,135.845
+AU05L051,Port Pirie City and Dists,Port Pirie City and Dists,port-pirie-city-and-dists-au05l051,AU05L051,-33.324,138.077
+AU05L026,Prospect,Prospect,prospect-au05l026,AU05L026,-34.886,138.594
+AU05L014,Renmark Paringa,Renmark Paringa,renmark-paringa-au05l014,AU05L014,-34.223,140.855
+AU05L028,Robe,Robe,robe-au05l028,AU05L028,-37.177,139.934
+AU05L039,Roxby Downs,Roxby Downs,roxby-downs-au05l039,AU05L039,-30.554,136.882
+AU05L018,Salisbury,Salisbury,salisbury-au05l018,AU05L018,-34.781,138.605
+AU05L042,Southern Mallee,Southern Mallee,southern-mallee-au05l042,AU05L042,-35.4,140.58
+AU05L044,Streaky Bay,Streaky Bay,streaky-bay-au05l044,AU05L044,-32.712,134.558
+AU05L024,Tatiara,Tatiara,tatiara-au05l024,AU05L024,-36.26,140.639
+AU05L055,Tea Tree Gully,Tea Tree Gully,tea-tree-gully-au05l055,AU05L055,-34.813,138.713
+AU05L025,The Coorong,The Coorong,the-coorong-au05l025,AU05L025,-35.697,139.74
+AU05L050,Tumby Bay,Tumby Bay,tumby-bay-au05l050,AU05L050,-34.199,135.984
+AU05L003,Unley,Unley,unley-au05l003,AU05L003,-34.953,138.604
+AU05L059,Victor Harbor,Victor Harbor,victor-harbor-au05l059,AU05L059,-35.502,138.557
+AU05L052,Wakefield,Wakefield,wakefield-au05l052,AU05L052,-33.986,138.357
+AU05L043,Walkerville,Walkerville,walkerville-au05l043,AU05L043,-34.89,138.619
+AU05L012,Wattle Range,Wattle Range,wattle-range-au05l012,AU05L012,-37.527,140.435
+AU05L067,West Torrens,West Torrens,west-torrens-au05l067,AU05L067,-34.943,138.547
+AU05L015,Whyalla,Whyalla,whyalla-au05l015,AU05L015,-33.033,137.445
+AU05L032,Wudinna,Wudinna,wudinna-au05l032,AU05L032,-32.978,135.279
+AU05L057,Yankalilla,Yankalilla,yankalilla-au05l057,AU05L057,-35.551,138.341
+AU05L054,Yorke Peninsula,Yorke Peninsula,yorke-peninsula-au05l054,AU05L054,-34.32,137.722

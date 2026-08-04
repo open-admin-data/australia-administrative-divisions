@@ -1,0 +1,33 @@
+{
+  "id": "AU06",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "Northern Territory",
+    "en": "Northern Territory",
+    "slug": "northern-territory-au06"
+  },
+  "code": {
+    "id": "AU06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.488",
+    "lon": "133.439"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/northern-territory-au06/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

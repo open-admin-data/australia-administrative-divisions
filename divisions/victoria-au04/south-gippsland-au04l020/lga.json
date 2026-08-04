@@ -1,0 +1,45 @@
+{
+  "id": "AU04L020",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "South Gippsland",
+    "en": "South Gippsland",
+    "slug": "south-gippsland-au04l020"
+  },
+  "code": {
+    "id": "AU04L020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.57",
+    "lon": "146.038"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU06L007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Tiwi Islands",
+    "en": "Tiwi Islands",
+    "slug": "tiwi-islands-au06l007"
+  },
+  "code": {
+    "id": "AU06L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU06",
+    "level": 1,
+    "name": {
+      "local": "Northern Territory",
+      "en": "Northern Territory",
+      "slug": "northern-territory-au06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.59",
+    "lon": "131.048"
+  },
+  "metadata": {},
+  "source": {}
+}

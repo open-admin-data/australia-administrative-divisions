@@ -1,0 +1,45 @@
+{
+  "id": "AU04L067",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Greater Geelong",
+    "en": "Greater Geelong",
+    "slug": "greater-geelong-au04l067"
+  },
+  "code": {
+    "id": "AU04L067",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.959",
+    "lon": "144.357"
+  },
+  "metadata": {},
+  "source": {}
+}

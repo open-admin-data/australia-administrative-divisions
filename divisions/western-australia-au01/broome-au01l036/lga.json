@@ -1,0 +1,45 @@
+{
+  "id": "AU01L036",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Broome",
+    "en": "Broome",
+    "slug": "broome-au01l036"
+  },
+  "code": {
+    "id": "AU01L036",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU01",
+    "level": 1,
+    "name": {
+      "local": "Western Australia",
+      "en": "Western Australia",
+      "slug": "western-australia-au01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.942",
+    "lon": "122.633"
+  },
+  "metadata": {},
+  "source": {}
+}

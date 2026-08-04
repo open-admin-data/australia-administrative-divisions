@@ -1,0 +1,45 @@
+{
+  "id": "AU05L022",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Port Adelaide Enfield",
+    "en": "Port Adelaide Enfield",
+    "slug": "port-adelaide-enfield-au05l022"
+  },
+  "code": {
+    "id": "AU05L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-34.851",
+    "lon": "138.576"
+  },
+  "metadata": {},
+  "source": {}
+}

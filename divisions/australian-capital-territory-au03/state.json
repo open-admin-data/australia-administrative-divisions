@@ -1,0 +1,33 @@
+{
+  "id": "AU03",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "Australian Capital Territory",
+    "en": "Australian Capital Territory",
+    "slug": "australian-capital-territory-au03"
+  },
+  "code": {
+    "id": "AU03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-35.47",
+    "lon": "148.955"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/australian-capital-territory-au03/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

@@ -1,0 +1,21 @@
+# Berrigan
+
+[Home](../../../) &gt; [New South Wales](../) > **Berrigan**
+
+Berrigan is a local government area in Australia, under New South Wales.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | AU07L049 |
+| Coordinates | -35.752, 145.779 |
+| Parent | New South Wales |
+
+## Data Files
+
+- [lga.json](lga.json) — Local Government Area metadata
+
+---
+
+<- Back to [New South Wales](../)

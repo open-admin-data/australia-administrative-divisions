@@ -1,0 +1,722 @@
+[
+  {
+    "id": "AU06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Alice Springs",
+      "en": "Alice Springs",
+      "slug": "alice-springs-au06l002"
+    },
+    "code": {
+      "id": "AU06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.731",
+      "lon": "133.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Barkly",
+      "en": "Barkly",
+      "slug": "barkly-au06l006"
+    },
+    "code": {
+      "id": "AU06L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.26",
+      "lon": "135.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Belyuen",
+      "en": "Belyuen",
+      "slug": "belyuen-au06l008"
+    },
+    "code": {
+      "id": "AU06L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.538",
+      "lon": "130.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Central Desert",
+      "en": "Central Desert",
+      "slug": "central-desert-au06l010"
+    },
+    "code": {
+      "id": "AU06L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.49",
+      "lon": "130.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Coomalie",
+      "en": "Coomalie",
+      "slug": "coomalie-au06l001"
+    },
+    "code": {
+      "id": "AU06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.027",
+      "lon": "131.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Darwin",
+      "en": "Darwin",
+      "slug": "darwin-au06l014"
+    },
+    "code": {
+      "id": "AU06L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.396",
+      "lon": "130.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "East Arnhem",
+      "en": "East Arnhem",
+      "slug": "east-arnhem-au06l011"
+    },
+    "code": {
+      "id": "AU06L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.866",
+      "lon": "135.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Katherine",
+      "en": "Katherine",
+      "slug": "katherine-au06l015"
+    },
+    "code": {
+      "id": "AU06L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.75",
+      "lon": "132.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Litchfield",
+      "en": "Litchfield",
+      "slug": "litchfield-au06l012"
+    },
+    "code": {
+      "id": "AU06L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.555",
+      "lon": "131.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "MacDonnell",
+      "en": "MacDonnell",
+      "slug": "macdonnell-au06l005"
+    },
+    "code": {
+      "id": "AU06L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.509",
+      "lon": "132.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Palmerston",
+      "en": "Palmerston",
+      "slug": "palmerston-au06l003"
+    },
+    "code": {
+      "id": "AU06L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.508",
+      "lon": "130.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Roper Gulf",
+      "en": "Roper Gulf",
+      "slug": "roper-gulf-au06l004"
+    },
+    "code": {
+      "id": "AU06L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.274",
+      "lon": "134.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tiwi Islands",
+      "en": "Tiwi Islands",
+      "slug": "tiwi-islands-au06l007"
+    },
+    "code": {
+      "id": "AU06L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.59",
+      "lon": "131.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Victoria-Daly",
+      "en": "Victoria-Daly",
+      "slug": "victoria-daly-au06l013"
+    },
+    "code": {
+      "id": "AU06L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.334",
+      "lon": "130.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wagait",
+      "en": "Wagait",
+      "slug": "wagait-au06l016"
+    },
+    "code": {
+      "id": "AU06L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.434",
+      "lon": "130.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU06L009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "West Arnhem",
+      "en": "West Arnhem",
+      "slug": "west-arnhem-au06l009"
+    },
+    "code": {
+      "id": "AU06L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU06",
+        "level": 1,
+        "name": {
+          "local": "Northern Territory",
+          "en": "Northern Territory",
+          "slug": "northern-territory-au06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.43",
+      "lon": "133.24"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

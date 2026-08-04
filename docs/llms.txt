@@ -1,0 +1,66 @@
+# Australia Administrative Divisions
+
+> Open dataset of Australia's administrative hierarchy:
+> 8 state/territorys, 550 local government areas.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total state/territorys: 8
+- Total local government areas: 550
+- Coordinates: included (all levels)
+- Last updated: 2026-08-04
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All state/territorys (JSON)](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/data/all-state.json)
+- [All local government areas (JSON)](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/data/all-lga.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/data/schema.json)
+
+## Browse by State/Territory
+
+- [Western Australia](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/western-australia-au01/) — 136 local government areas
+- [Queensland](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/queensland-au02/) — 72 local government areas
+- [Australian Capital Territory](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/australian-capital-territory-au03/) — 0 local government areas
+- [Victoria](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/victoria-au04/) — 77 local government areas
+- [South Australia](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/south-australia-au05/) — 69 local government areas
+- [Northern Territory](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/northern-territory-au06/) — 16 local government areas
+- [New South Wales](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/new-south-wales-au07/) — 151 local government areas
+- [Tasmania](https://github.com/open-admin-data/australia-administrative-divisions/tree/main/divisions/tasmania-au08/) — 29 local government areas
+
+## Per-State/Territory Full Data
+
+- [Western Australia](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/western-australia-au01.txt)
+- [Queensland](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/queensland-au02.txt)
+- [Australian Capital Territory](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/australian-capital-territory-au03.txt)
+- [Victoria](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/victoria-au04.txt)
+- [South Australia](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/south-australia-au05.txt)
+- [Northern Territory](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/northern-territory-au06.txt)
+- [New South Wales](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/new-south-wales-au07.txt)
+- [Tasmania](https://raw.githubusercontent.com/open-admin-data/australia-administrative-divisions/main/docs/llms-full/tasmania-au08.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (state/territory), 2 (local government area)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Australia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/australia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

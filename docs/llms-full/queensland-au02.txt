@@ -1,0 +1,369 @@
+# Queensland — Australia Administrative Divisions
+
+> 72 local government areas
+> Code: AU02
+> Coordinates: -23.034, 144.417
+> Last updated: 2026-08-04. License: CC-BY-4.0.
+
+## Local Government Areas
+
+### Aurukun
+
+Code: AU02L020, Coordinates: -13.584, 141.774
+
+
+### Balonne
+
+Code: AU02L070, Coordinates: -28.327, 148.116
+
+
+### Banana
+
+Code: AU02L045, Coordinates: -25.017, 150.046
+
+
+### Barcaldine
+
+Code: AU02L022, Coordinates: -23.107, 145.666
+
+
+### Barcoo
+
+Code: AU02L053, Coordinates: -24.993, 142.417
+
+
+### Blackall Tambo
+
+Code: AU02L046, Coordinates: -24.801, 145.701
+
+
+### Boulia
+
+Code: AU02L026, Coordinates: -22.582, 138.727
+
+
+### Brisbane
+
+Code: AU02L069, Coordinates: -27.466, 152.925
+
+
+### Bulloo
+
+Code: AU02L064, Coordinates: -27.882, 142.056
+
+
+### Bundaberg
+
+Code: AU02L017, Coordinates: -24.984, 152.153
+
+
+### Burdekin
+
+Code: AU02L030, Coordinates: -19.747, 147.27
+
+
+### Burke
+
+Code: AU02L025, Coordinates: -18.347, 139.301
+
+
+### Cairns
+
+Code: AU02L029, Coordinates: -16.16, 145.27
+
+
+### Carpentaria
+
+Code: AU02L066, Coordinates: -16.538, 141.925
+
+
+### Cassowary Coast
+
+Code: AU02L047, Coordinates: -17.902, 145.889
+
+
+### Charters Towers
+
+Code: AU02L035, Coordinates: -20.032, 145.789
+
+
+### Cherbourg
+
+Code: AU02L019, Coordinates: -26.29, 151.935
+
+
+### Cloncurry
+
+Code: AU02L028, Coordinates: -21.062, 140.266
+
+
+### Cook
+
+Code: AU02L059, Coordinates: -14.436, 142.915
+
+
+### Croydon
+
+Code: AU02L018, Coordinates: -18.223, 141.919
+
+
+### Diamantina
+
+Code: AU02L011, Coordinates: -24.836, 139.564
+
+
+### Doomadgee
+
+Code: AU02L012, Coordinates: -17.71, 138.741
+
+
+### Etheridge
+
+Code: AU02L049, Coordinates: -18.459, 143.661
+
+
+### Fraser Coast
+
+Code: AU02L065, Coordinates: -25.609, 152.539
+
+
+### Gladstone
+
+Code: AU02L067, Coordinates: -24.149, 151.183
+
+
+### Gold Coast
+
+Code: AU02L057, Coordinates: -28.058, 153.334
+
+
+### Goondiwindi
+
+Code: AU02L008, Coordinates: -28.213, 150.456
+
+
+### Gympie
+
+Code: AU02L062, Coordinates: -26.166, 152.414
+
+
+### Hinchinbrook
+
+Code: AU02L014, Coordinates: -18.682, 146.04
+
+
+### Hope Vale
+
+Code: AU02L061, Coordinates: -15.222, 145.164
+
+
+### Ipswich
+
+Code: AU02L007, Coordinates: -27.645, 152.67
+
+
+### Isaac
+
+Code: AU02L054, Coordinates: -22.022, 148.227
+
+
+### Kowanyama
+
+Code: AU02L034, Coordinates: -15.348, 141.752
+
+
+### Lockhart River
+
+Code: AU02L071, Coordinates: -13.003, 143.245
+
+
+### Lockyer Valley
+
+Code: AU02L038, Coordinates: -27.621, 152.235
+
+
+### Logan
+
+Code: AU02L015, Coordinates: -27.778, 153.037
+
+
+### Longreach
+
+Code: AU02L063, Coordinates: -23.47, 143.96
+
+
+### Mackay
+
+Code: AU02L021, Coordinates: -21.098, 148.731
+
+
+### Mapoon
+
+Code: AU02L036, Coordinates: -12.116, 141.855
+
+
+### Maranoa
+
+Code: AU02L041, Coordinates: -26.635, 148.26
+
+
+### McKinlay
+
+Code: AU02L068, Coordinates: -20.465, 141.698
+
+
+### Moreton Bay
+
+Code: AU02L044, Coordinates: -27.119, 152.885
+
+
+### Mornington
+
+Code: AU02L010, Coordinates: -16.553, 139.345
+
+
+### Mount Isa
+
+Code: AU02L042, Coordinates: -20.033, 138.768
+
+
+### Murweh
+
+Code: AU02L016, Coordinates: -26.257, 146.51
+
+
+### Napranum
+
+Code: AU02L050, Coordinates: -12.541, 142.269
+
+
+### North Burnett
+
+Code: AU02L040, Coordinates: -25.429, 151.139
+
+
+### Northern Peninsula Area
+
+Code: AU02L031, Coordinates: -11.052, 142.267
+
+
+### Palm Island
+
+Code: AU02L023, Coordinates: -18.733, 146.607
+
+
+### Paroo
+
+Code: AU02L013, Coordinates: -28.029, 145.771
+
+
+### Pormpuraaw
+
+Code: AU02L055, Coordinates: -14.728, 141.802
+
+
+### Quilpie
+
+Code: AU02L058, Coordinates: -26.445, 143.921
+
+
+### Redland
+
+Code: AU02L006, Coordinates: -27.533, 153.453
+
+
+### Richmond
+
+Code: AU02L039, Coordinates: -20.483, 142.917
+
+
+### Rockhampton
+
+Code: AU02L024, Coordinates: -23.103, 150.252
+
+
+### Scenic Rim
+
+Code: AU02L032, Coordinates: -28.096, 152.788
+
+
+### Somerset
+
+Code: AU02L051, Coordinates: -26.993, 152.432
+
+
+### South Burnett
+
+Code: AU02L027, Coordinates: -26.352, 151.559
+
+
+### Southern Downs
+
+Code: AU02L033, Coordinates: -28.268, 151.941
+
+
+### Sunshine Coast
+
+Code: AU02L052, Coordinates: -26.649, 152.913
+
+
+### Tablelands
+
+Code: AU02L005, Coordinates: -17.175, 144.595
+
+
+### Toowoomba
+
+Code: AU02L056, Coordinates: -27.625, 151.586
+
+
+### Torres
+
+Code: AU02L043, Coordinates: -10.953, 142.568
+
+
+### Torres Strait Island
+
+Code: AU02L002, Coordinates: -10.182, 142.266
+
+
+### Townsville
+
+Code: AU02L003, Coordinates: -19.5, 146.798
+
+
+### Weipa
+
+Code: AU02L004, Coordinates: -12.635, 141.871
+
+
+### Western Downs
+
+Code: AU02L001, Coordinates: -26.879, 150.435
+
+
+### Whitsunday
+
+Code: AU02L072, Coordinates: -20.701, 147.697
+
+
+### Winton
+
+Code: AU02L060, Coordinates: -22.596, 142.273
+
+
+### Woorabinda
+
+Code: AU02L048, Coordinates: -24.144, 149.454
+
+
+### Wujal Wujal
+
+Code: AU02L009, Coordinates: -15.974, 145.308
+
+
+### Yarrabah
+
+Code: AU02L037, Coordinates: -16.936, 145.896
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "AU04",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "Victoria",
+    "en": "Victoria",
+    "slug": "victoria-au04"
+  },
+  "code": {
+    "id": "AU04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 77
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.014",
+    "lon": "143.48"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/victoria-au04/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

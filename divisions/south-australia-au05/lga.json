@@ -1,0 +1,3107 @@
+[
+  {
+    "id": "AU05L016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Adelaide",
+      "en": "Adelaide",
+      "slug": "adelaide-au05l016"
+    },
+    "code": {
+      "id": "AU05L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.923",
+      "lon": "138.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L034",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Adelaide Hills",
+      "en": "Adelaide Hills",
+      "slug": "adelaide-hills-au05l034"
+    },
+    "code": {
+      "id": "AU05L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.873",
+      "lon": "138.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Alexandrina",
+      "en": "Alexandrina",
+      "slug": "alexandrina-au05l020"
+    },
+    "code": {
+      "id": "AU05L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.364",
+      "lon": "138.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L065",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Anangu Pitjantjatjara",
+      "en": "Anangu Pitjantjatjara",
+      "slug": "anangu-pitjantjatjara-au05l065"
+    },
+    "code": {
+      "id": "AU05L065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.058",
+      "lon": "131.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Barossa",
+      "en": "Barossa",
+      "slug": "barossa-au05l017"
+    },
+    "code": {
+      "id": "AU05L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.648",
+      "lon": "139.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Barunga West",
+      "en": "Barunga West",
+      "slug": "barunga-west-au05l019"
+    },
+    "code": {
+      "id": "AU05L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.763",
+      "lon": "137.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Berri and Barmera",
+      "en": "Berri and Barmera",
+      "slug": "berri-and-barmera-au05l011"
+    },
+    "code": {
+      "id": "AU05L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.223",
+      "lon": "140.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Burnside",
+      "en": "Burnside",
+      "slug": "burnside-au05l004"
+    },
+    "code": {
+      "id": "AU05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.949",
+      "lon": "138.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ceduna",
+      "en": "Ceduna",
+      "slug": "ceduna-au05l010"
+    },
+    "code": {
+      "id": "AU05L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.063",
+      "lon": "133.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L047",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Charles Sturt",
+      "en": "Charles Sturt",
+      "slug": "charles-sturt-au05l047"
+    },
+    "code": {
+      "id": "AU05L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.892",
+      "lon": "138.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Clare and Gilbert Valleys",
+      "en": "Clare and Gilbert Valleys",
+      "slug": "clare-and-gilbert-valleys-au05l001"
+    },
+    "code": {
+      "id": "AU05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.04",
+      "lon": "138.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L030",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cleve",
+      "en": "Cleve",
+      "slug": "cleve-au05l030"
+    },
+    "code": {
+      "id": "AU05L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.674",
+      "lon": "136.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L062",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Coober Pedy",
+      "en": "Coober Pedy",
+      "slug": "coober-pedy-au05l062"
+    },
+    "code": {
+      "id": "AU05L062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.015",
+      "lon": "134.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L064",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Copper Coast",
+      "en": "Copper Coast",
+      "slug": "copper-coast-au05l064"
+    },
+    "code": {
+      "id": "AU05L064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.988",
+      "lon": "137.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L037",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Elliston",
+      "en": "Elliston",
+      "slug": "elliston-au05l037"
+    },
+    "code": {
+      "id": "AU05L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.637",
+      "lon": "135.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L031",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Flinders Ranges",
+      "en": "Flinders Ranges",
+      "slug": "flinders-ranges-au05l031"
+    },
+    "code": {
+      "id": "AU05L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.03",
+      "lon": "138.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Franklin Harbour",
+      "en": "Franklin Harbour",
+      "slug": "franklin-harbour-au05l013"
+    },
+    "code": {
+      "id": "AU05L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.528",
+      "lon": "136.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gawler",
+      "en": "Gawler",
+      "slug": "gawler-au05l006"
+    },
+    "code": {
+      "id": "AU05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.629",
+      "lon": "138.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L063",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Goyder",
+      "en": "Goyder",
+      "slug": "goyder-au05l063"
+    },
+    "code": {
+      "id": "AU05L063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.554",
+      "lon": "139.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L040",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Grant",
+      "en": "Grant",
+      "slug": "grant-au05l040"
+    },
+    "code": {
+      "id": "AU05L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.885",
+      "lon": "140.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L045",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Holdfast Bay",
+      "en": "Holdfast Bay",
+      "slug": "holdfast-bay-au05l045"
+    },
+    "code": {
+      "id": "AU05L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.002",
+      "lon": "138.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L038",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kangaroo Island",
+      "en": "Kangaroo Island",
+      "slug": "kangaroo-island-au05l038"
+    },
+    "code": {
+      "id": "AU05L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.791",
+      "lon": "137.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L061",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Karoonda East Murray",
+      "en": "Karoonda East Murray",
+      "slug": "karoonda-east-murray-au05l061"
+    },
+    "code": {
+      "id": "AU05L061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.95",
+      "lon": "140.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L069",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kimba",
+      "en": "Kimba",
+      "slug": "kimba-au05l069"
+    },
+    "code": {
+      "id": "AU05L069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.102",
+      "lon": "136.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L041",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kingston",
+      "en": "Kingston",
+      "slug": "kingston-au05l041"
+    },
+    "code": {
+      "id": "AU05L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.662",
+      "lon": "140.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L046",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Light",
+      "en": "Light",
+      "slug": "light-au05l046"
+    },
+    "code": {
+      "id": "AU05L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.438",
+      "lon": "138.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L058",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lower Eyre Peninsula",
+      "en": "Lower Eyre Peninsula",
+      "slug": "lower-eyre-peninsula-au05l058"
+    },
+    "code": {
+      "id": "AU05L058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.403",
+      "lon": "135.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L056",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Loxton Waikerie",
+      "en": "Loxton Waikerie",
+      "slug": "loxton-waikerie-au05l056"
+    },
+    "code": {
+      "id": "AU05L056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.693",
+      "lon": "140.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mallala",
+      "en": "Mallala",
+      "slug": "mallala-au05l009"
+    },
+    "code": {
+      "id": "AU05L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.476",
+      "lon": "138.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maralinga Tjarutja",
+      "en": "Maralinga Tjarutja",
+      "slug": "maralinga-tjarutja-au05l029"
+    },
+    "code": {
+      "id": "AU05L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.19",
+      "lon": "130.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L035",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Marion",
+      "en": "Marion",
+      "slug": "marion-au05l035"
+    },
+    "code": {
+      "id": "AU05L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.065",
+      "lon": "138.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L033",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mid Murray",
+      "en": "Mid Murray",
+      "slug": "mid-murray-au05l033"
+    },
+    "code": {
+      "id": "AU05L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.654",
+      "lon": "139.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L068",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mitcham",
+      "en": "Mitcham",
+      "slug": "mitcham-au05l068"
+    },
+    "code": {
+      "id": "AU05L068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.999",
+      "lon": "138.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mount Barker",
+      "en": "Mount Barker",
+      "slug": "mount-barker-au05l027"
+    },
+    "code": {
+      "id": "AU05L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.104",
+      "lon": "138.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mount Gambier",
+      "en": "Mount Gambier",
+      "slug": "mount-gambier-au05l007"
+    },
+    "code": {
+      "id": "AU05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.826",
+      "lon": "140.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L036",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mount Remarkable",
+      "en": "Mount Remarkable",
+      "slug": "mount-remarkable-au05l036"
+    },
+    "code": {
+      "id": "AU05L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.763",
+      "lon": "138.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Murray Bridge",
+      "en": "Murray Bridge",
+      "slug": "murray-bridge-au05l005"
+    },
+    "code": {
+      "id": "AU05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.131",
+      "lon": "139.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L048",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Naracoorte and Lucindale",
+      "en": "Naracoorte and Lucindale",
+      "slug": "naracoorte-and-lucindale-au05l048"
+    },
+    "code": {
+      "id": "AU05L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.957",
+      "lon": "140.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L053",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Northern Areas",
+      "en": "Northern Areas",
+      "slug": "northern-areas-au05l053"
+    },
+    "code": {
+      "id": "AU05L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.302",
+      "lon": "138.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Norwood Payneham St Peters",
+      "en": "Norwood Payneham St Peters",
+      "slug": "norwood-payneham-st-peters-au05l021"
+    },
+    "code": {
+      "id": "AU05L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.902",
+      "lon": "138.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Onkaparinga",
+      "en": "Onkaparinga",
+      "slug": "onkaparinga-au05l002"
+    },
+    "code": {
+      "id": "AU05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.176",
+      "lon": "138.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L060",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Orroroo/Carrieton",
+      "en": "Orroroo/Carrieton",
+      "slug": "orroroo-carrieton-au05l060"
+    },
+    "code": {
+      "id": "AU05L060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.55",
+      "lon": "138.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L049",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Peterborough",
+      "en": "Peterborough",
+      "slug": "peterborough-au05l049"
+    },
+    "code": {
+      "id": "AU05L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.873",
+      "lon": "139.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L066",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Playford",
+      "en": "Playford",
+      "slug": "playford-au05l066"
+    },
+    "code": {
+      "id": "AU05L066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.667",
+      "lon": "138.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Adelaide Enfield",
+      "en": "Port Adelaide Enfield",
+      "slug": "port-adelaide-enfield-au05l022"
+    },
+    "code": {
+      "id": "AU05L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.851",
+      "lon": "138.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Augusta",
+      "en": "Port Augusta",
+      "slug": "port-augusta-au05l008"
+    },
+    "code": {
+      "id": "AU05L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.602",
+      "lon": "137.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Lincoln",
+      "en": "Port Lincoln",
+      "slug": "port-lincoln-au05l023"
+    },
+    "code": {
+      "id": "AU05L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.73",
+      "lon": "135.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L051",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Pirie City and Dists",
+      "en": "Port Pirie City and Dists",
+      "slug": "port-pirie-city-and-dists-au05l051"
+    },
+    "code": {
+      "id": "AU05L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.324",
+      "lon": "138.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Prospect",
+      "en": "Prospect",
+      "slug": "prospect-au05l026"
+    },
+    "code": {
+      "id": "AU05L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.886",
+      "lon": "138.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Renmark Paringa",
+      "en": "Renmark Paringa",
+      "slug": "renmark-paringa-au05l014"
+    },
+    "code": {
+      "id": "AU05L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.223",
+      "lon": "140.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Robe",
+      "en": "Robe",
+      "slug": "robe-au05l028"
+    },
+    "code": {
+      "id": "AU05L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.177",
+      "lon": "139.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L039",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Roxby Downs",
+      "en": "Roxby Downs",
+      "slug": "roxby-downs-au05l039"
+    },
+    "code": {
+      "id": "AU05L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.554",
+      "lon": "136.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Salisbury",
+      "en": "Salisbury",
+      "slug": "salisbury-au05l018"
+    },
+    "code": {
+      "id": "AU05L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.781",
+      "lon": "138.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L042",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Southern Mallee",
+      "en": "Southern Mallee",
+      "slug": "southern-mallee-au05l042"
+    },
+    "code": {
+      "id": "AU05L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.4",
+      "lon": "140.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L044",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Streaky Bay",
+      "en": "Streaky Bay",
+      "slug": "streaky-bay-au05l044"
+    },
+    "code": {
+      "id": "AU05L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.712",
+      "lon": "134.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tatiara",
+      "en": "Tatiara",
+      "slug": "tatiara-au05l024"
+    },
+    "code": {
+      "id": "AU05L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.26",
+      "lon": "140.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L055",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tea Tree Gully",
+      "en": "Tea Tree Gully",
+      "slug": "tea-tree-gully-au05l055"
+    },
+    "code": {
+      "id": "AU05L055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.813",
+      "lon": "138.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "The Coorong",
+      "en": "The Coorong",
+      "slug": "the-coorong-au05l025"
+    },
+    "code": {
+      "id": "AU05L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.697",
+      "lon": "139.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L050",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tumby Bay",
+      "en": "Tumby Bay",
+      "slug": "tumby-bay-au05l050"
+    },
+    "code": {
+      "id": "AU05L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.199",
+      "lon": "135.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Unley",
+      "en": "Unley",
+      "slug": "unley-au05l003"
+    },
+    "code": {
+      "id": "AU05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.953",
+      "lon": "138.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L059",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Victor Harbor",
+      "en": "Victor Harbor",
+      "slug": "victor-harbor-au05l059"
+    },
+    "code": {
+      "id": "AU05L059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.502",
+      "lon": "138.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L052",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wakefield",
+      "en": "Wakefield",
+      "slug": "wakefield-au05l052"
+    },
+    "code": {
+      "id": "AU05L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.986",
+      "lon": "138.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L043",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Walkerville",
+      "en": "Walkerville",
+      "slug": "walkerville-au05l043"
+    },
+    "code": {
+      "id": "AU05L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.89",
+      "lon": "138.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wattle Range",
+      "en": "Wattle Range",
+      "slug": "wattle-range-au05l012"
+    },
+    "code": {
+      "id": "AU05L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.527",
+      "lon": "140.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L067",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "West Torrens",
+      "en": "West Torrens",
+      "slug": "west-torrens-au05l067"
+    },
+    "code": {
+      "id": "AU05L067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.943",
+      "lon": "138.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Whyalla",
+      "en": "Whyalla",
+      "slug": "whyalla-au05l015"
+    },
+    "code": {
+      "id": "AU05L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.033",
+      "lon": "137.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L032",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wudinna",
+      "en": "Wudinna",
+      "slug": "wudinna-au05l032"
+    },
+    "code": {
+      "id": "AU05L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.978",
+      "lon": "135.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L057",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yankalilla",
+      "en": "Yankalilla",
+      "slug": "yankalilla-au05l057"
+    },
+    "code": {
+      "id": "AU05L057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.551",
+      "lon": "138.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU05L054",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yorke Peninsula",
+      "en": "Yorke Peninsula",
+      "slug": "yorke-peninsula-au05l054"
+    },
+    "code": {
+      "id": "AU05L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU05",
+        "level": 1,
+        "name": {
+          "local": "South Australia",
+          "en": "South Australia",
+          "slug": "south-australia-au05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.32",
+      "lon": "137.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

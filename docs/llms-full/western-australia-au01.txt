@@ -1,0 +1,689 @@
+# Western Australia — Australia Administrative Divisions
+
+> 136 local government areas
+> Code: AU01
+> Coordinates: -26.472, 122.066
+> Last updated: 2026-08-04. License: CC-BY-4.0.
+
+## Local Government Areas
+
+### Albany
+
+Code: AU01L029, Coordinates: -34.801, 118.183
+
+
+### Armadale
+
+Code: AU01L056, Coordinates: -32.166, 116.175
+
+
+### Ashburton
+
+Code: AU01L023, Coordinates: -22.441, 116.773
+
+
+### Augusta-Margaret River
+
+Code: AU01L007, Coordinates: -34.031, 115.194
+
+
+### Bassendean
+
+Code: AU01L045, Coordinates: -31.904, 115.945
+
+
+### Bayswater
+
+Code: AU01L061, Coordinates: -31.906, 115.908
+
+
+### Belmont
+
+Code: AU01L089, Coordinates: -31.957, 115.949
+
+
+### Beverley
+
+Code: AU01L070, Coordinates: -32.127, 116.932
+
+
+### Boddington
+
+Code: AU01L125, Coordinates: -32.82, 116.4
+
+
+### Boyup Brook
+
+Code: AU01L055, Coordinates: -33.876, 116.546
+
+
+### Bridgetown-Greenbushes
+
+Code: AU01L093, Coordinates: -34.009, 116.187
+
+
+### Brookton
+
+Code: AU01L064, Coordinates: -32.357, 116.948
+
+
+### Broome
+
+Code: AU01L036, Coordinates: -18.942, 122.633
+
+
+### Broomehill-Tambellup
+
+Code: AU01L014, Coordinates: -33.979, 117.655
+
+
+### Bruce Rock
+
+Code: AU01L097, Coordinates: -31.995, 118.057
+
+
+### Bunbury
+
+Code: AU01L021, Coordinates: -33.355, 115.664
+
+
+### Busselton
+
+Code: AU01L022, Coordinates: -33.737, 115.343
+
+
+### Cambridge
+
+Code: AU01L068, Coordinates: -31.936, 115.778
+
+
+### Canning
+
+Code: AU01L074, Coordinates: -32.05, 115.907
+
+
+### Capel
+
+Code: AU01L054, Coordinates: -33.534, 115.633
+
+
+### Carnamah
+
+Code: AU01L066, Coordinates: -29.827, 115.537
+
+
+### Carnarvon
+
+Code: AU01L059, Coordinates: -24.259, 114.226
+
+
+### Chapman Valley
+
+Code: AU01L136, Coordinates: -28.41, 114.989
+
+
+### Chittering
+
+Code: AU01L018, Coordinates: -31.238, 116.144
+
+
+### Claremont
+
+Code: AU01L086, Coordinates: -31.979, 115.781
+
+
+### Cockburn
+
+Code: AU01L107, Coordinates: -32.128, 115.829
+
+
+### Collie
+
+Code: AU01L030, Coordinates: -33.351, 116.232
+
+
+### Coolgardie
+
+Code: AU01L133, Coordinates: -31.151, 120.728
+
+
+### Coorow
+
+Code: AU01L020, Coordinates: -30.047, 115.631
+
+
+### Corrigin
+
+Code: AU01L010, Coordinates: -32.376, 117.791
+
+
+### Cottesloe
+
+Code: AU01L049, Coordinates: -31.992, 115.758
+
+
+### Cranbrook
+
+Code: AU01L072, Coordinates: -34.277, 117.296
+
+
+### Cuballing
+
+Code: AU01L016, Coordinates: -32.732, 117.159
+
+
+### Cue
+
+Code: AU01L121, Coordinates: -27.352, 117.955
+
+
+### Cunderdin
+
+Code: AU01L077, Coordinates: -31.595, 117.151
+
+
+### Dalwallinu
+
+Code: AU01L071, Coordinates: -30.173, 116.932
+
+
+### Dandaragan
+
+Code: AU01L117, Coordinates: -30.547, 115.539
+
+
+### Dardanup
+
+Code: AU01L099, Coordinates: -33.419, 115.849
+
+
+### Denmark
+
+Code: AU01L004, Coordinates: -34.899, 117.119
+
+
+### Derby-West Kimberley
+
+Code: AU01L044, Coordinates: -17.804, 124.947
+
+
+### Donnybrook-Balingup
+
+Code: AU01L079, Coordinates: -33.656, 115.956
+
+
+### Dowerin
+
+Code: AU01L112, Coordinates: -31.105, 117.108
+
+
+### Dumbleyung
+
+Code: AU01L047, Coordinates: -33.222, 117.964
+
+
+### Dundas
+
+Code: AU01L039, Coordinates: -32.159, 124.481
+
+
+### East Fremantle
+
+Code: AU01L043, Coordinates: -32.039, 115.769
+
+
+### East Pilbara
+
+Code: AU01L088, Coordinates: -21.63, 123.166
+
+
+### Esperance
+
+Code: AU01L082, Coordinates: -33.238, 122.399
+
+
+### Exmouth
+
+Code: AU01L103, Coordinates: -22.572, 113.93
+
+
+### Fremantle
+
+Code: AU01L040, Coordinates: -32.061, 115.767
+
+
+### Gingin
+
+Code: AU01L127, Coordinates: -31.229, 115.731
+
+
+### Gnowangerup
+
+Code: AU01L078, Coordinates: -34.067, 118.28
+
+
+### Goomalling
+
+Code: AU01L102, Coordinates: -31.238, 116.785
+
+
+### Gosnells
+
+Code: AU01L087, Coordinates: -32.063, 115.979
+
+
+### Greater Geraldton
+
+Code: AU01L035, Coordinates: -28.576, 115.571
+
+
+### Halls Creek
+
+Code: AU01L094, Coordinates: -19.284, 127.772
+
+
+### Harvey
+
+Code: AU01L129, Coordinates: -33.096, 115.857
+
+
+### Irwin
+
+Code: AU01L041, Coordinates: -29.288, 115.096
+
+
+### Jerramungup
+
+Code: AU01L134, Coordinates: -34.087, 119.109
+
+
+### Joondalup
+
+Code: AU01L002, Coordinates: -31.785, 115.766
+
+
+### Kalamunda
+
+Code: AU01L067, Coordinates: -32.011, 116.12
+
+
+### Kalgoorlie/Boulder
+
+Code: AU01L123, Coordinates: -30.778, 125.05
+
+
+### Katanning
+
+Code: AU01L060, Coordinates: -33.629, 117.741
+
+
+### Kellerberrin
+
+Code: AU01L024, Coordinates: -31.581, 117.791
+
+
+### Kent
+
+Code: AU01L031, Coordinates: -33.558, 118.572
+
+
+### Kojonup
+
+Code: AU01L032, Coordinates: -33.908, 117.048
+
+
+### Kondinin
+
+Code: AU01L090, Coordinates: -32.397, 119.167
+
+
+### Koorda
+
+Code: AU01L034, Coordinates: -30.586, 117.426
+
+
+### Kulin
+
+Code: AU01L119, Coordinates: -32.767, 118.176
+
+
+### Kwinana
+
+Code: AU01L096, Coordinates: -32.226, 115.827
+
+
+### Lake Grace
+
+Code: AU01L053, Coordinates: -33.085, 119.382
+
+
+### Laverton
+
+Code: AU01L026, Coordinates: -27.889, 125.401
+
+
+### Leonora
+
+Code: AU01L109, Coordinates: -28.008, 121.028
+
+
+### Mandurah
+
+Code: AU01L001, Coordinates: -32.695, 115.639
+
+
+### Manjimup
+
+Code: AU01L075, Coordinates: -34.554, 116.326
+
+
+### Meekatharra
+
+Code: AU01L124, Coordinates: -25.17, 118.899
+
+
+### Melville
+
+Code: AU01L052, Coordinates: -32.05, 115.833
+
+
+### Menzies
+
+Code: AU01L050, Coordinates: -29.588, 123.98
+
+
+### Merredin
+
+Code: AU01L128, Coordinates: -31.49, 118.296
+
+
+### Mingenew
+
+Code: AU01L038, Coordinates: -29.147, 115.479
+
+
+### Moora
+
+Code: AU01L069, Coordinates: -30.492, 116.186
+
+
+### Morawa
+
+Code: AU01L100, Coordinates: -29.075, 116.009
+
+
+### Mosman Park
+
+Code: AU01L114, Coordinates: -32.014, 115.764
+
+
+### Mount Magnet
+
+Code: AU01L135, Coordinates: -28.257, 117.961
+
+
+### Mount Marshall
+
+Code: AU01L046, Coordinates: -30.103, 117.902
+
+
+### Mukinbudin
+
+Code: AU01L048, Coordinates: -30.647, 118.33
+
+
+### Mundaring
+
+Code: AU01L110, Coordinates: -31.916, 116.255
+
+
+### Murchison
+
+Code: AU01L116, Coordinates: -26.584, 116.275
+
+
+### Nannup
+
+Code: AU01L104, Coordinates: -34.126, 115.657
+
+
+### Narembeen
+
+Code: AU01L005, Coordinates: -32.014, 118.645
+
+
+### Narrogin
+
+Code: AU01L051, Coordinates: -32.938, 117.172
+
+
+### Nedlands
+
+Code: AU01L122, Coordinates: -31.982, 115.803
+
+
+### Ngaanyatjarraku
+
+Code: AU01L033, Coordinates: -25.089, 126.834
+
+
+### Northam
+
+Code: AU01L015, Coordinates: -31.666, 116.632
+
+
+### Northampton
+
+Code: AU01L008, Coordinates: -27.759, 114.637
+
+
+### Nungarin
+
+Code: AU01L073, Coordinates: -31.148, 118.18
+
+
+### Peppermint Grove
+
+Code: AU01L101, Coordinates: -31.999, 115.767
+
+
+### Perenjori
+
+Code: AU01L108, Coordinates: -29.493, 116.602
+
+
+### Perth
+
+Code: AU01L062, Coordinates: -31.954, 115.844
+
+
+### Pingelly
+
+Code: AU01L042, Coordinates: -32.502, 117.229
+
+
+### Plantagenet
+
+Code: AU01L095, Coordinates: -34.627, 117.643
+
+
+### Port Hedland
+
+Code: AU01L058, Coordinates: -20.688, 118.472
+
+
+### Quairading
+
+Code: AU01L111, Coordinates: -32.017, 117.418
+
+
+### Ravensthorpe
+
+Code: AU01L019, Coordinates: -33.595, 120.138
+
+
+### Rockingham
+
+Code: AU01L106, Coordinates: -32.342, 115.796
+
+
+### Roebourne
+
+Code: AU01L011, Coordinates: -20.963, 116.846
+
+
+### Sandstone
+
+Code: AU01L009, Coordinates: -28.498, 119.19
+
+
+### Serpentine-Jarrahdale
+
+Code: AU01L120, Coordinates: -32.335, 116.009
+
+
+### Shark Bay
+
+Code: AU01L037, Coordinates: -26.641, 114.743
+
+
+### South Perth
+
+Code: AU01L115, Coordinates: -31.999, 115.87
+
+
+### Stirling
+
+Code: AU01L017, Coordinates: -31.88, 115.813
+
+
+### Subiaco
+
+Code: AU01L105, Coordinates: -31.953, 115.817
+
+
+### Swan
+
+Code: AU01L131, Coordinates: -31.719, 116.085
+
+
+### Tammin
+
+Code: AU01L083, Coordinates: -31.607, 117.495
+
+
+### Three Springs
+
+Code: AU01L130, Coordinates: -29.543, 115.57
+
+
+### Toodyay
+
+Code: AU01L006, Coordinates: -31.476, 116.385
+
+
+### Trayning
+
+Code: AU01L013, Coordinates: -31.146, 117.807
+
+
+### Upper Gascoyne
+
+Code: AU01L092, Coordinates: -24.734, 116.326
+
+
+### Victoria Park
+
+Code: AU01L027, Coordinates: -31.98, 115.906
+
+
+### Victoria Plains
+
+Code: AU01L080, Coordinates: -30.99, 116.344
+
+
+### Vincent
+
+Code: AU01L012, Coordinates: -31.931, 115.85
+
+
+### Wagin
+
+Code: AU01L081, Coordinates: -33.27, 117.376
+
+
+### Wandering
+
+Code: AU01L076, Coordinates: -32.643, 116.713
+
+
+### Wanneroo
+
+Code: AU01L057, Coordinates: -31.604, 115.766
+
+
+### Waroona
+
+Code: AU01L025, Coordinates: -32.865, 115.92
+
+
+### West Arthur
+
+Code: AU01L065, Coordinates: -33.468, 116.747
+
+
+### Westonia
+
+Code: AU01L113, Coordinates: -30.967, 118.679
+
+
+### Wickepin
+
+Code: AU01L028, Coordinates: -32.782, 117.705
+
+
+### Williams
+
+Code: AU01L084, Coordinates: -33.059, 116.786
+
+
+### Wiluna
+
+Code: AU01L118, Coordinates: -25.133, 122.024
+
+
+### Wongan-Ballidu
+
+Code: AU01L091, Coordinates: -30.743, 116.809
+
+
+### Woodanilling
+
+Code: AU01L003, Coordinates: -33.544, 117.368
+
+
+### Wyalkatchem
+
+Code: AU01L126, Coordinates: -31.178, 117.435
+
+
+### Wyndham-East Kimberley
+
+Code: AU01L085, Coordinates: -15.305, 126.912
+
+
+### Yalgoo
+
+Code: AU01L063, Coordinates: -28.323, 116.752
+
+
+### Yilgarn
+
+Code: AU01L132, Coordinates: -31.249, 119.432
+
+
+### York
+
+Code: AU01L098, Coordinates: -31.894, 116.742
+
+

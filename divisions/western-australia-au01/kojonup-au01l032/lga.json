@@ -1,0 +1,45 @@
+{
+  "id": "AU01L032",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kojonup",
+    "en": "Kojonup",
+    "slug": "kojonup-au01l032"
+  },
+  "code": {
+    "id": "AU01L032",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU01",
+    "level": 1,
+    "name": {
+      "local": "Western Australia",
+      "en": "Western Australia",
+      "slug": "western-australia-au01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-33.908",
+    "lon": "117.048"
+  },
+  "metadata": {},
+  "source": {}
+}

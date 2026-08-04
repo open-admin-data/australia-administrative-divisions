@@ -1,0 +1,45 @@
+{
+  "id": "AU02L041",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Maranoa",
+    "en": "Maranoa",
+    "slug": "maranoa-au02l041"
+  },
+  "code": {
+    "id": "AU02L041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.635",
+    "lon": "148.26"
+  },
+  "metadata": {},
+  "source": {}
+}

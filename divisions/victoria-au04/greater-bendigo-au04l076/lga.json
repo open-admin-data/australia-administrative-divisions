@@ -1,0 +1,45 @@
+{
+  "id": "AU04L076",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Greater Bendigo",
+    "en": "Greater Bendigo",
+    "slug": "greater-bendigo-au04l076"
+  },
+  "code": {
+    "id": "AU04L076",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-36.754",
+    "lon": "144.325"
+  },
+  "metadata": {},
+  "source": {}
+}

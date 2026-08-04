@@ -1,0 +1,45 @@
+{
+  "id": "AU01L067",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kalamunda",
+    "en": "Kalamunda",
+    "slug": "kalamunda-au01l067"
+  },
+  "code": {
+    "id": "AU01L067",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU01",
+    "level": 1,
+    "name": {
+      "local": "Western Australia",
+      "en": "Western Australia",
+      "slug": "western-australia-au01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-32.011",
+    "lon": "116.12"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU04L069",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Glenelg",
+    "en": "Glenelg",
+    "slug": "glenelg-au04l069"
+  },
+  "code": {
+    "id": "AU04L069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.886",
+    "lon": "141.377"
+  },
+  "metadata": {},
+  "source": {}
+}

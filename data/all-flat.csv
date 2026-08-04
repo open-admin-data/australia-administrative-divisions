@@ -1,0 +1,10 @@
+# Data from Open Admin Data (https://openadmindata.org/au/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/australia-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.state,children_count.lga,zip_codes,geo.lat,geo.lon,source_url
+AU01,1,State/Territory,State/Territory,Western Australia,Western Australia,western-australia-au01,AU01,,,,,,136,,-26.472,122.066,https://openadmindata.org/au/states/western-australia-au01/
+AU02,1,State/Territory,State/Territory,Queensland,Queensland,queensland-au02,AU02,,,,,,72,,-23.034,144.417,https://openadmindata.org/au/states/queensland-au02/
+AU03,1,State/Territory,State/Territory,Australian Capital Territory,Australian Capital Territory,australian-capital-territory-au03,AU03,,,,,,0,,-35.47,148.955,https://openadmindata.org/au/states/australian-capital-territory-au03/
+AU04,1,State/Territory,State/Territory,Victoria,Victoria,victoria-au04,AU04,,,,,,77,,-37.014,143.48,https://openadmindata.org/au/states/victoria-au04/
+AU05,1,State/Territory,State/Territory,South Australia,South Australia,south-australia-au05,AU05,,,,,,69,,-29.468,135.915,https://openadmindata.org/au/states/south-australia-au05/
+AU06,1,State/Territory,State/Territory,Northern Territory,Northern Territory,northern-territory-au06,AU06,,,,,,16,,-19.488,133.439,https://openadmindata.org/au/states/northern-territory-au06/
+AU07,1,State/Territory,State/Territory,New South Wales,New South Wales,new-south-wales-au07,AU07,,,,,,151,,-32.495,146.587,https://openadmindata.org/au/states/new-south-wales-au07/
+AU08,1,State/Territory,State/Territory,Tasmania,Tasmania,tasmania-au08,AU08,,,,,,29,,-42.098,146.565,https://openadmindata.org/au/states/tasmania-au08/

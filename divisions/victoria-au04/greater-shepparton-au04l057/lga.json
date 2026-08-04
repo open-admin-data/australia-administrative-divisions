@@ -1,0 +1,45 @@
+{
+  "id": "AU04L057",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Greater Shepparton",
+    "en": "Greater Shepparton",
+    "slug": "greater-shepparton-au04l057"
+  },
+  "code": {
+    "id": "AU04L057",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-36.378",
+    "lon": "145.386"
+  },
+  "metadata": {},
+  "source": {}
+}

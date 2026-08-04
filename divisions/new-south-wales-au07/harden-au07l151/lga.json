@@ -1,0 +1,45 @@
+{
+  "id": "AU07L151",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Harden",
+    "en": "Harden",
+    "slug": "harden-au07l151"
+  },
+  "code": {
+    "id": "AU07L151",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-34.603",
+    "lon": "148.411"
+  },
+  "metadata": {},
+  "source": {}
+}

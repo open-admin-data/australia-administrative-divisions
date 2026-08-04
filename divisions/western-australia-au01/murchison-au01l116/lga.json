@@ -1,0 +1,45 @@
+{
+  "id": "AU01L116",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Murchison",
+    "en": "Murchison",
+    "slug": "murchison-au01l116"
+  },
+  "code": {
+    "id": "AU01L116",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU01",
+    "level": 1,
+    "name": {
+      "local": "Western Australia",
+      "en": "Western Australia",
+      "slug": "western-australia-au01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.584",
+    "lon": "116.275"
+  },
+  "metadata": {},
+  "source": {}
+}

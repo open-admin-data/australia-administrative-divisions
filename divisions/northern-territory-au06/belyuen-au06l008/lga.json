@@ -1,0 +1,45 @@
+{
+  "id": "AU06L008",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Belyuen",
+    "en": "Belyuen",
+    "slug": "belyuen-au06l008"
+  },
+  "code": {
+    "id": "AU06L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU06",
+    "level": 1,
+    "name": {
+      "local": "Northern Territory",
+      "en": "Northern Territory",
+      "slug": "northern-territory-au06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.538",
+    "lon": "130.683"
+  },
+  "metadata": {},
+  "source": {}
+}

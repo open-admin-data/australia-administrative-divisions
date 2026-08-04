@@ -1,0 +1,45 @@
+{
+  "id": "AU02L004",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Weipa",
+    "en": "Weipa",
+    "slug": "weipa-au02l004"
+  },
+  "code": {
+    "id": "AU02L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.635",
+    "lon": "141.871"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "AU05",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "South Australia",
+    "en": "South Australia",
+    "slug": "south-australia-au05"
+  },
+  "code": {
+    "id": "AU05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.468",
+    "lon": "135.915"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/south-australia-au05/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

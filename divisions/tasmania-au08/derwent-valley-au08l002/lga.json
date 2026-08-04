@@ -1,0 +1,45 @@
+{
+  "id": "AU08L002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Derwent Valley",
+    "en": "Derwent Valley",
+    "slug": "derwent-valley-au08l002"
+  },
+  "code": {
+    "id": "AU08L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU08",
+    "level": 1,
+    "name": {
+      "local": "Tasmania",
+      "en": "Tasmania",
+      "slug": "tasmania-au08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-42.835",
+    "lon": "146.258"
+  },
+  "metadata": {},
+  "source": {}
+}

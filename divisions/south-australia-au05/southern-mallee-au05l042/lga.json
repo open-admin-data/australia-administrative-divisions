@@ -1,0 +1,45 @@
+{
+  "id": "AU05L042",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Southern Mallee",
+    "en": "Southern Mallee",
+    "slug": "southern-mallee-au05l042"
+  },
+  "code": {
+    "id": "AU05L042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-35.4",
+    "lon": "140.58"
+  },
+  "metadata": {},
+  "source": {}
+}

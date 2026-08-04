@@ -1,0 +1,45 @@
+{
+  "id": "AU04L072",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Mount Alexander",
+    "en": "Mount Alexander",
+    "slug": "mount-alexander-au04l072"
+  },
+  "code": {
+    "id": "AU04L072",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.038",
+    "lon": "144.158"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU07L113",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Bland",
+    "en": "Bland",
+    "slug": "bland-au07l113"
+  },
+  "code": {
+    "id": "AU07L113",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-33.925",
+    "lon": "146.978"
+  },
+  "metadata": {},
+  "source": {}
+}

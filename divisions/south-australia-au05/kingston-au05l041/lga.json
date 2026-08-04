@@ -1,0 +1,45 @@
+{
+  "id": "AU05L041",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kingston",
+    "en": "Kingston",
+    "slug": "kingston-au05l041"
+  },
+  "code": {
+    "id": "AU05L041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-36.662",
+    "lon": "140.052"
+  },
+  "metadata": {},
+  "source": {}
+}

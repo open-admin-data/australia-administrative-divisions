@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "AU02L020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Aurukun",
+      "en": "Aurukun",
+      "slug": "aurukun-au02l020"
+    },
+    "code": {
+      "id": "AU02L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.584",
+      "lon": "141.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L070",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Balonne",
+      "en": "Balonne",
+      "slug": "balonne-au02l070"
+    },
+    "code": {
+      "id": "AU02L070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.327",
+      "lon": "148.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L045",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Banana",
+      "en": "Banana",
+      "slug": "banana-au02l045"
+    },
+    "code": {
+      "id": "AU02L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.017",
+      "lon": "150.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Barcaldine",
+      "en": "Barcaldine",
+      "slug": "barcaldine-au02l022"
+    },
+    "code": {
+      "id": "AU02L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.107",
+      "lon": "145.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L053",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Barcoo",
+      "en": "Barcoo",
+      "slug": "barcoo-au02l053"
+    },
+    "code": {
+      "id": "AU02L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.993",
+      "lon": "142.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L046",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Blackall Tambo",
+      "en": "Blackall Tambo",
+      "slug": "blackall-tambo-au02l046"
+    },
+    "code": {
+      "id": "AU02L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.801",
+      "lon": "145.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Boulia",
+      "en": "Boulia",
+      "slug": "boulia-au02l026"
+    },
+    "code": {
+      "id": "AU02L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.582",
+      "lon": "138.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L069",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Brisbane",
+      "en": "Brisbane",
+      "slug": "brisbane-au02l069"
+    },
+    "code": {
+      "id": "AU02L069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.466",
+      "lon": "152.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L064",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bulloo",
+      "en": "Bulloo",
+      "slug": "bulloo-au02l064"
+    },
+    "code": {
+      "id": "AU02L064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.882",
+      "lon": "142.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bundaberg",
+      "en": "Bundaberg",
+      "slug": "bundaberg-au02l017"
+    },
+    "code": {
+      "id": "AU02L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.984",
+      "lon": "152.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L030",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Burdekin",
+      "en": "Burdekin",
+      "slug": "burdekin-au02l030"
+    },
+    "code": {
+      "id": "AU02L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.747",
+      "lon": "147.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Burke",
+      "en": "Burke",
+      "slug": "burke-au02l025"
+    },
+    "code": {
+      "id": "AU02L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.347",
+      "lon": "139.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cairns",
+      "en": "Cairns",
+      "slug": "cairns-au02l029"
+    },
+    "code": {
+      "id": "AU02L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.16",
+      "lon": "145.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L066",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Carpentaria",
+      "en": "Carpentaria",
+      "slug": "carpentaria-au02l066"
+    },
+    "code": {
+      "id": "AU02L066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.538",
+      "lon": "141.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L047",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cassowary Coast",
+      "en": "Cassowary Coast",
+      "slug": "cassowary-coast-au02l047"
+    },
+    "code": {
+      "id": "AU02L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.902",
+      "lon": "145.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L035",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Charters Towers",
+      "en": "Charters Towers",
+      "slug": "charters-towers-au02l035"
+    },
+    "code": {
+      "id": "AU02L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.032",
+      "lon": "145.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cherbourg",
+      "en": "Cherbourg",
+      "slug": "cherbourg-au02l019"
+    },
+    "code": {
+      "id": "AU02L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.29",
+      "lon": "151.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cloncurry",
+      "en": "Cloncurry",
+      "slug": "cloncurry-au02l028"
+    },
+    "code": {
+      "id": "AU02L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.062",
+      "lon": "140.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L059",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cook",
+      "en": "Cook",
+      "slug": "cook-au02l059"
+    },
+    "code": {
+      "id": "AU02L059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.436",
+      "lon": "142.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Croydon",
+      "en": "Croydon",
+      "slug": "croydon-au02l018"
+    },
+    "code": {
+      "id": "AU02L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.223",
+      "lon": "141.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Diamantina",
+      "en": "Diamantina",
+      "slug": "diamantina-au02l011"
+    },
+    "code": {
+      "id": "AU02L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.836",
+      "lon": "139.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Doomadgee",
+      "en": "Doomadgee",
+      "slug": "doomadgee-au02l012"
+    },
+    "code": {
+      "id": "AU02L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.71",
+      "lon": "138.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L049",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Etheridge",
+      "en": "Etheridge",
+      "slug": "etheridge-au02l049"
+    },
+    "code": {
+      "id": "AU02L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.459",
+      "lon": "143.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L065",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Fraser Coast",
+      "en": "Fraser Coast",
+      "slug": "fraser-coast-au02l065"
+    },
+    "code": {
+      "id": "AU02L065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.609",
+      "lon": "152.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L067",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gladstone",
+      "en": "Gladstone",
+      "slug": "gladstone-au02l067"
+    },
+    "code": {
+      "id": "AU02L067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.149",
+      "lon": "151.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L057",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gold Coast",
+      "en": "Gold Coast",
+      "slug": "gold-coast-au02l057"
+    },
+    "code": {
+      "id": "AU02L057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.058",
+      "lon": "153.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Goondiwindi",
+      "en": "Goondiwindi",
+      "slug": "goondiwindi-au02l008"
+    },
+    "code": {
+      "id": "AU02L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.213",
+      "lon": "150.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L062",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gympie",
+      "en": "Gympie",
+      "slug": "gympie-au02l062"
+    },
+    "code": {
+      "id": "AU02L062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.166",
+      "lon": "152.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hinchinbrook",
+      "en": "Hinchinbrook",
+      "slug": "hinchinbrook-au02l014"
+    },
+    "code": {
+      "id": "AU02L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.682",
+      "lon": "146.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L061",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hope Vale",
+      "en": "Hope Vale",
+      "slug": "hope-vale-au02l061"
+    },
+    "code": {
+      "id": "AU02L061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.222",
+      "lon": "145.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ipswich",
+      "en": "Ipswich",
+      "slug": "ipswich-au02l007"
+    },
+    "code": {
+      "id": "AU02L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.645",
+      "lon": "152.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L054",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isaac",
+      "en": "Isaac",
+      "slug": "isaac-au02l054"
+    },
+    "code": {
+      "id": "AU02L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.022",
+      "lon": "148.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L034",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kowanyama",
+      "en": "Kowanyama",
+      "slug": "kowanyama-au02l034"
+    },
+    "code": {
+      "id": "AU02L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.348",
+      "lon": "141.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L071",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lockhart River",
+      "en": "Lockhart River",
+      "slug": "lockhart-river-au02l071"
+    },
+    "code": {
+      "id": "AU02L071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.003",
+      "lon": "143.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L038",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lockyer Valley",
+      "en": "Lockyer Valley",
+      "slug": "lockyer-valley-au02l038"
+    },
+    "code": {
+      "id": "AU02L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.621",
+      "lon": "152.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Logan",
+      "en": "Logan",
+      "slug": "logan-au02l015"
+    },
+    "code": {
+      "id": "AU02L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.778",
+      "lon": "153.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L063",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Longreach",
+      "en": "Longreach",
+      "slug": "longreach-au02l063"
+    },
+    "code": {
+      "id": "AU02L063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.47",
+      "lon": "143.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mackay",
+      "en": "Mackay",
+      "slug": "mackay-au02l021"
+    },
+    "code": {
+      "id": "AU02L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.098",
+      "lon": "148.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L036",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mapoon",
+      "en": "Mapoon",
+      "slug": "mapoon-au02l036"
+    },
+    "code": {
+      "id": "AU02L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.116",
+      "lon": "141.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L041",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maranoa",
+      "en": "Maranoa",
+      "slug": "maranoa-au02l041"
+    },
+    "code": {
+      "id": "AU02L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.635",
+      "lon": "148.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L068",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "McKinlay",
+      "en": "McKinlay",
+      "slug": "mckinlay-au02l068"
+    },
+    "code": {
+      "id": "AU02L068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.465",
+      "lon": "141.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L044",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moreton Bay",
+      "en": "Moreton Bay",
+      "slug": "moreton-bay-au02l044"
+    },
+    "code": {
+      "id": "AU02L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.119",
+      "lon": "152.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mornington",
+      "en": "Mornington",
+      "slug": "mornington-au02l010"
+    },
+    "code": {
+      "id": "AU02L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.553",
+      "lon": "139.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L042",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mount Isa",
+      "en": "Mount Isa",
+      "slug": "mount-isa-au02l042"
+    },
+    "code": {
+      "id": "AU02L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.033",
+      "lon": "138.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Murweh",
+      "en": "Murweh",
+      "slug": "murweh-au02l016"
+    },
+    "code": {
+      "id": "AU02L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.257",
+      "lon": "146.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L050",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Napranum",
+      "en": "Napranum",
+      "slug": "napranum-au02l050"
+    },
+    "code": {
+      "id": "AU02L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.541",
+      "lon": "142.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L040",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "North Burnett",
+      "en": "North Burnett",
+      "slug": "north-burnett-au02l040"
+    },
+    "code": {
+      "id": "AU02L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.429",
+      "lon": "151.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L031",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Northern Peninsula Area",
+      "en": "Northern Peninsula Area",
+      "slug": "northern-peninsula-area-au02l031"
+    },
+    "code": {
+      "id": "AU02L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.052",
+      "lon": "142.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Palm Island",
+      "en": "Palm Island",
+      "slug": "palm-island-au02l023"
+    },
+    "code": {
+      "id": "AU02L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.733",
+      "lon": "146.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Paroo",
+      "en": "Paroo",
+      "slug": "paroo-au02l013"
+    },
+    "code": {
+      "id": "AU02L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.029",
+      "lon": "145.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L055",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Pormpuraaw",
+      "en": "Pormpuraaw",
+      "slug": "pormpuraaw-au02l055"
+    },
+    "code": {
+      "id": "AU02L055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.728",
+      "lon": "141.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L058",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Quilpie",
+      "en": "Quilpie",
+      "slug": "quilpie-au02l058"
+    },
+    "code": {
+      "id": "AU02L058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.445",
+      "lon": "143.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Redland",
+      "en": "Redland",
+      "slug": "redland-au02l006"
+    },
+    "code": {
+      "id": "AU02L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.533",
+      "lon": "153.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L039",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Richmond",
+      "en": "Richmond",
+      "slug": "richmond-au02l039"
+    },
+    "code": {
+      "id": "AU02L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.483",
+      "lon": "142.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Rockhampton",
+      "en": "Rockhampton",
+      "slug": "rockhampton-au02l024"
+    },
+    "code": {
+      "id": "AU02L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.103",
+      "lon": "150.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L032",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Scenic Rim",
+      "en": "Scenic Rim",
+      "slug": "scenic-rim-au02l032"
+    },
+    "code": {
+      "id": "AU02L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.096",
+      "lon": "152.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L051",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Somerset",
+      "en": "Somerset",
+      "slug": "somerset-au02l051"
+    },
+    "code": {
+      "id": "AU02L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.993",
+      "lon": "152.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "South Burnett",
+      "en": "South Burnett",
+      "slug": "south-burnett-au02l027"
+    },
+    "code": {
+      "id": "AU02L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.352",
+      "lon": "151.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L033",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Southern Downs",
+      "en": "Southern Downs",
+      "slug": "southern-downs-au02l033"
+    },
+    "code": {
+      "id": "AU02L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.268",
+      "lon": "151.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L052",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sunshine Coast",
+      "en": "Sunshine Coast",
+      "slug": "sunshine-coast-au02l052"
+    },
+    "code": {
+      "id": "AU02L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.649",
+      "lon": "152.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tablelands",
+      "en": "Tablelands",
+      "slug": "tablelands-au02l005"
+    },
+    "code": {
+      "id": "AU02L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.175",
+      "lon": "144.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L056",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Toowoomba",
+      "en": "Toowoomba",
+      "slug": "toowoomba-au02l056"
+    },
+    "code": {
+      "id": "AU02L056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.625",
+      "lon": "151.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L043",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Torres",
+      "en": "Torres",
+      "slug": "torres-au02l043"
+    },
+    "code": {
+      "id": "AU02L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.953",
+      "lon": "142.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Torres Strait Island",
+      "en": "Torres Strait Island",
+      "slug": "torres-strait-island-au02l002"
+    },
+    "code": {
+      "id": "AU02L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.182",
+      "lon": "142.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Townsville",
+      "en": "Townsville",
+      "slug": "townsville-au02l003"
+    },
+    "code": {
+      "id": "AU02L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.5",
+      "lon": "146.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Weipa",
+      "en": "Weipa",
+      "slug": "weipa-au02l004"
+    },
+    "code": {
+      "id": "AU02L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.635",
+      "lon": "141.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Western Downs",
+      "en": "Western Downs",
+      "slug": "western-downs-au02l001"
+    },
+    "code": {
+      "id": "AU02L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.879",
+      "lon": "150.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L072",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Whitsunday",
+      "en": "Whitsunday",
+      "slug": "whitsunday-au02l072"
+    },
+    "code": {
+      "id": "AU02L072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.701",
+      "lon": "147.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L060",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Winton",
+      "en": "Winton",
+      "slug": "winton-au02l060"
+    },
+    "code": {
+      "id": "AU02L060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.596",
+      "lon": "142.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L048",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Woorabinda",
+      "en": "Woorabinda",
+      "slug": "woorabinda-au02l048"
+    },
+    "code": {
+      "id": "AU02L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.144",
+      "lon": "149.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wujal Wujal",
+      "en": "Wujal Wujal",
+      "slug": "wujal-wujal-au02l009"
+    },
+    "code": {
+      "id": "AU02L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.974",
+      "lon": "145.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU02L037",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yarrabah",
+      "en": "Yarrabah",
+      "slug": "yarrabah-au02l037"
+    },
+    "code": {
+      "id": "AU02L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU02",
+        "level": 1,
+        "name": {
+          "local": "Queensland",
+          "en": "Queensland",
+          "slug": "queensland-au02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.936",
+      "lon": "145.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

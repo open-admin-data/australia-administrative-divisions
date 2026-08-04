@@ -1,0 +1,45 @@
+{
+  "id": "AU05L021",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Norwood Payneham St Peters",
+    "en": "Norwood Payneham St Peters",
+    "slug": "norwood-payneham-st-peters-au05l021"
+  },
+  "code": {
+    "id": "AU05L021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-34.902",
+    "lon": "138.637"
+  },
+  "metadata": {},
+  "source": {}
+}

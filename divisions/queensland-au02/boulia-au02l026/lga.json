@@ -1,0 +1,45 @@
+{
+  "id": "AU02L026",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Boulia",
+    "en": "Boulia",
+    "slug": "boulia-au02l026"
+  },
+  "code": {
+    "id": "AU02L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.582",
+    "lon": "138.727"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU01L131",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Swan",
+    "en": "Swan",
+    "slug": "swan-au01l131"
+  },
+  "code": {
+    "id": "AU01L131",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU01",
+    "level": 1,
+    "name": {
+      "local": "Western Australia",
+      "en": "Western Australia",
+      "slug": "western-australia-au01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-31.719",
+    "lon": "116.085"
+  },
+  "metadata": {},
+  "source": {}
+}

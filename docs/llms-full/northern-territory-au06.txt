@@ -1,0 +1,89 @@
+# Northern Territory — Australia Administrative Divisions
+
+> 16 local government areas
+> Code: AU06
+> Coordinates: -19.488, 133.439
+> Last updated: 2026-08-04. License: CC-BY-4.0.
+
+## Local Government Areas
+
+### Alice Springs
+
+Code: AU06L002, Coordinates: -23.731, 133.868
+
+
+### Barkly
+
+Code: AU06L006, Coordinates: -19.26, 135.086
+
+
+### Belyuen
+
+Code: AU06L008, Coordinates: -12.538, 130.683
+
+
+### Central Desert
+
+Code: AU06L010, Coordinates: -21.49, 130.98
+
+
+### Coomalie
+
+Code: AU06L001, Coordinates: -13.027, 131.085
+
+
+### Darwin
+
+Code: AU06L014, Coordinates: -12.396, 130.891
+
+
+### East Arnhem
+
+Code: AU06L011, Coordinates: -12.866, 135.548
+
+
+### Katherine
+
+Code: AU06L015, Coordinates: -14.75, 132.246
+
+
+### Litchfield
+
+Code: AU06L012, Coordinates: -12.555, 131.185
+
+
+### MacDonnell
+
+Code: AU06L005, Coordinates: -24.509, 132.412
+
+
+### Palmerston
+
+Code: AU06L003, Coordinates: -12.508, 130.983
+
+
+### Roper Gulf
+
+Code: AU06L004, Coordinates: -15.274, 134.098
+
+
+### Tiwi Islands
+
+Code: AU06L007, Coordinates: -11.59, 131.048
+
+
+### Victoria-Daly
+
+Code: AU06L013, Coordinates: -16.334, 130.575
+
+
+### Wagait
+
+Code: AU06L016, Coordinates: -12.434, 130.742
+
+
+### West Arnhem
+
+Code: AU06L009, Coordinates: -12.43, 133.24
+
+

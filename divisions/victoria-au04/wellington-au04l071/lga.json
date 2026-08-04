@@ -1,0 +1,45 @@
+{
+  "id": "AU04L071",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Wellington",
+    "en": "Wellington",
+    "slug": "wellington-au04l071"
+  },
+  "code": {
+    "id": "AU04L071",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.875",
+    "lon": "146.933"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU02L022",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Barcaldine",
+    "en": "Barcaldine",
+    "slug": "barcaldine-au02l022"
+  },
+  "code": {
+    "id": "AU02L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.107",
+    "lon": "145.666"
+  },
+  "metadata": {},
+  "source": {}
+}

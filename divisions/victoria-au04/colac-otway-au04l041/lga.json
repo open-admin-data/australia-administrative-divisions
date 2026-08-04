@@ -1,0 +1,45 @@
+{
+  "id": "AU04L041",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Colac-Otway",
+    "en": "Colac-Otway",
+    "slug": "colac-otway-au04l041"
+  },
+  "code": {
+    "id": "AU04L041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-38.493",
+    "lon": "143.602"
+  },
+  "metadata": {},
+  "source": {}
+}

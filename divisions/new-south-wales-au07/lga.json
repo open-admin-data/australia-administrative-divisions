@@ -1,0 +1,6797 @@
+[
+  {
+    "id": "AU07L033",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Albury",
+      "en": "Albury",
+      "slug": "albury-au07l033"
+    },
+    "code": {
+      "id": "AU07L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.018",
+      "lon": "147.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L035",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Armidale Dumaresq",
+      "en": "Armidale Dumaresq",
+      "slug": "armidale-dumaresq-au07l035"
+    },
+    "code": {
+      "id": "AU07L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.533",
+      "lon": "151.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L059",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ashfield",
+      "en": "Ashfield",
+      "slug": "ashfield-au07l059"
+    },
+    "code": {
+      "id": "AU07L059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.885",
+      "lon": "151.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Auburn",
+      "en": "Auburn",
+      "slug": "auburn-au07l008"
+    },
+    "code": {
+      "id": "AU07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.854",
+      "lon": "151.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L129",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ballina",
+      "en": "Ballina",
+      "slug": "ballina-au07l129"
+    },
+    "code": {
+      "id": "AU07L129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.851",
+      "lon": "153.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L048",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Balranald",
+      "en": "Balranald",
+      "slug": "balranald-au07l048"
+    },
+    "code": {
+      "id": "AU07L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.826",
+      "lon": "143.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L127",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bankstown",
+      "en": "Bankstown",
+      "slug": "bankstown-au07l127"
+    },
+    "code": {
+      "id": "AU07L127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.916",
+      "lon": "151.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L106",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bathurst Regional",
+      "en": "Bathurst Regional",
+      "slug": "bathurst-regional-au07l106"
+    },
+    "code": {
+      "id": "AU07L106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.292",
+      "lon": "149.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L125",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bega Valley",
+      "en": "Bega Valley",
+      "slug": "bega-valley-au07l125"
+    },
+    "code": {
+      "id": "AU07L125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.674",
+      "lon": "149.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bellingen",
+      "en": "Bellingen",
+      "slug": "bellingen-au07l020"
+    },
+    "code": {
+      "id": "AU07L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.39",
+      "lon": "152.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L049",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Berrigan",
+      "en": "Berrigan",
+      "slug": "berrigan-au07l049"
+    },
+    "code": {
+      "id": "AU07L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.752",
+      "lon": "145.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Blacktown",
+      "en": "Blacktown",
+      "slug": "blacktown-au07l023"
+    },
+    "code": {
+      "id": "AU07L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.738",
+      "lon": "150.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L113",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bland",
+      "en": "Bland",
+      "slug": "bland-au07l113"
+    },
+    "code": {
+      "id": "AU07L113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.925",
+      "lon": "146.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L107",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Blayney",
+      "en": "Blayney",
+      "slug": "blayney-au07l107"
+    },
+    "code": {
+      "id": "AU07L107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.58",
+      "lon": "149.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L144",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Blue Mountains",
+      "en": "Blue Mountains",
+      "slug": "blue-mountains-au07l144"
+    },
+    "code": {
+      "id": "AU07L144",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.686",
+      "lon": "150.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L148",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bogan",
+      "en": "Bogan",
+      "slug": "bogan-au07l148"
+    },
+    "code": {
+      "id": "AU07L148",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.583",
+      "lon": "146.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L124",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bombala",
+      "en": "Bombala",
+      "slug": "bombala-au07l124"
+    },
+    "code": {
+      "id": "AU07L124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.903",
+      "lon": "149.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Boorowa",
+      "en": "Boorowa",
+      "slug": "boorowa-au07l005"
+    },
+    "code": {
+      "id": "AU07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.299",
+      "lon": "148.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L136",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Botany Bay",
+      "en": "Botany Bay",
+      "slug": "botany-bay-au07l136"
+    },
+    "code": {
+      "id": "AU07L136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.94",
+      "lon": "151.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L108",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bourke",
+      "en": "Bourke",
+      "slug": "bourke-au07l108"
+    },
+    "code": {
+      "id": "AU07L108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.849",
+      "lon": "145.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L093",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Brewarrina",
+      "en": "Brewarrina",
+      "slug": "brewarrina-au07l093"
+    },
+    "code": {
+      "id": "AU07L093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.862",
+      "lon": "146.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Broken Hill",
+      "en": "Broken Hill",
+      "slug": "broken-hill-au07l006"
+    },
+    "code": {
+      "id": "AU07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.942",
+      "lon": "141.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L091",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Burwood",
+      "en": "Burwood",
+      "slug": "burwood-au07l091"
+    },
+    "code": {
+      "id": "AU07L091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.884",
+      "lon": "151.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L040",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Byron",
+      "en": "Byron",
+      "slug": "byron-au07l040"
+    },
+    "code": {
+      "id": "AU07L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.588",
+      "lon": "153.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L044",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cabonne",
+      "en": "Cabonne",
+      "slug": "cabonne-au07l044"
+    },
+    "code": {
+      "id": "AU07L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.148",
+      "lon": "148.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Camden",
+      "en": "Camden",
+      "slug": "camden-au07l002"
+    },
+    "code": {
+      "id": "AU07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.009",
+      "lon": "150.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L058",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Campbelltown",
+      "en": "Campbelltown",
+      "slug": "campbelltown-au07l058"
+    },
+    "code": {
+      "id": "AU07L058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.098",
+      "lon": "150.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L069",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Canada Bay",
+      "en": "Canada Bay",
+      "slug": "canada-bay-au07l069"
+    },
+    "code": {
+      "id": "AU07L069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.856",
+      "lon": "151.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L120",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Canterbury",
+      "en": "Canterbury",
+      "slug": "canterbury-au07l120"
+    },
+    "code": {
+      "id": "AU07L120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.922",
+      "lon": "151.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L090",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Carrathool",
+      "en": "Carrathool",
+      "slug": "carrathool-au07l090"
+    },
+    "code": {
+      "id": "AU07L090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.536",
+      "lon": "145.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L099",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Central Darling",
+      "en": "Central Darling",
+      "slug": "central-darling-au07l099"
+    },
+    "code": {
+      "id": "AU07L099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.759",
+      "lon": "143.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cessnock",
+      "en": "Cessnock",
+      "slug": "cessnock-au07l024"
+    },
+    "code": {
+      "id": "AU07L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.93",
+      "lon": "151.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L052",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Clarence Valley",
+      "en": "Clarence Valley",
+      "slug": "clarence-valley-au07l052"
+    },
+    "code": {
+      "id": "AU07L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.717",
+      "lon": "152.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L122",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cobar",
+      "en": "Cobar",
+      "slug": "cobar-au07l122"
+    },
+    "code": {
+      "id": "AU07L122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.847",
+      "lon": "145.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L047",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Coffs Harbour",
+      "en": "Coffs Harbour",
+      "slug": "coffs-harbour-au07l047"
+    },
+    "code": {
+      "id": "AU07L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.236",
+      "lon": "153.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L075",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Conargo",
+      "en": "Conargo",
+      "slug": "conargo-au07l075"
+    },
+    "code": {
+      "id": "AU07L075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.162",
+      "lon": "144.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L084",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Coolamon",
+      "en": "Coolamon",
+      "slug": "coolamon-au07l084"
+    },
+    "code": {
+      "id": "AU07L084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.678",
+      "lon": "147.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cooma-Monaro",
+      "en": "Cooma-Monaro",
+      "slug": "cooma-monaro-au07l011"
+    },
+    "code": {
+      "id": "AU07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.029",
+      "lon": "149.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Coonamble",
+      "en": "Coonamble",
+      "slug": "coonamble-au07l001"
+    },
+    "code": {
+      "id": "AU07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.86",
+      "lon": "148.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L149",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cootamundra",
+      "en": "Cootamundra",
+      "slug": "cootamundra-au07l149"
+    },
+    "code": {
+      "id": "AU07L149",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.597",
+      "lon": "148.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Corowa Shire",
+      "en": "Corowa Shire",
+      "slug": "corowa-shire-au07l029"
+    },
+    "code": {
+      "id": "AU07L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.815",
+      "lon": "146.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cowra",
+      "en": "Cowra",
+      "slug": "cowra-au07l026"
+    },
+    "code": {
+      "id": "AU07L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.783",
+      "lon": "148.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L037",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Deniliquin",
+      "en": "Deniliquin",
+      "slug": "deniliquin-au07l037"
+    },
+    "code": {
+      "id": "AU07L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.529",
+      "lon": "144.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L139",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dubbo",
+      "en": "Dubbo",
+      "slug": "dubbo-au07l139"
+    },
+    "code": {
+      "id": "AU07L139",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.143",
+      "lon": "148.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L076",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dungog",
+      "en": "Dungog",
+      "slug": "dungog-au07l076"
+    },
+    "code": {
+      "id": "AU07L076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.37",
+      "lon": "151.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L141",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Eurobodalla",
+      "en": "Eurobodalla",
+      "slug": "eurobodalla-au07l141"
+    },
+    "code": {
+      "id": "AU07L141",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.965",
+      "lon": "149.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L094",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Fairfield",
+      "en": "Fairfield",
+      "slug": "fairfield-au07l094"
+    },
+    "code": {
+      "id": "AU07L094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.868",
+      "lon": "150.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Forbes",
+      "en": "Forbes",
+      "slug": "forbes-au07l010"
+    },
+    "code": {
+      "id": "AU07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.451",
+      "lon": "147.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L066",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gilgandra",
+      "en": "Gilgandra",
+      "slug": "gilgandra-au07l066"
+    },
+    "code": {
+      "id": "AU07L066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.632",
+      "lon": "148.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L121",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Glen Innes Severn",
+      "en": "Glen Innes Severn",
+      "slug": "glen-innes-severn-au07l121"
+    },
+    "code": {
+      "id": "AU07L121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.714",
+      "lon": "151.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L086",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gloucester",
+      "en": "Gloucester",
+      "slug": "gloucester-au07l086"
+    },
+    "code": {
+      "id": "AU07L086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.903",
+      "lon": "151.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gosford",
+      "en": "Gosford",
+      "slug": "gosford-au07l015"
+    },
+    "code": {
+      "id": "AU07L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.357",
+      "lon": "151.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L050",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Goulburn Mulwaree",
+      "en": "Goulburn Mulwaree",
+      "slug": "goulburn-mulwaree-au07l050"
+    },
+    "code": {
+      "id": "AU07L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.898",
+      "lon": "149.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L142",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Great Lakes",
+      "en": "Great Lakes",
+      "slug": "great-lakes-au07l142"
+    },
+    "code": {
+      "id": "AU07L142",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.383",
+      "lon": "152.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L143",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Greater Hume Shire",
+      "en": "Greater Hume Shire",
+      "slug": "greater-hume-shire-au07l143"
+    },
+    "code": {
+      "id": "AU07L143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.746",
+      "lon": "147.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L051",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Greater Taree",
+      "en": "Greater Taree",
+      "slug": "greater-taree-au07l051"
+    },
+    "code": {
+      "id": "AU07L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.857",
+      "lon": "152.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L071",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Griffith",
+      "en": "Griffith",
+      "slug": "griffith-au07l071"
+    },
+    "code": {
+      "id": "AU07L071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.302",
+      "lon": "145.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L104",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gundagai",
+      "en": "Gundagai",
+      "slug": "gundagai-au07l104"
+    },
+    "code": {
+      "id": "AU07L104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35",
+      "lon": "148.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L085",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gunnedah",
+      "en": "Gunnedah",
+      "slug": "gunnedah-au07l085"
+    },
+    "code": {
+      "id": "AU07L085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.012",
+      "lon": "150.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L096",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Guyra",
+      "en": "Guyra",
+      "slug": "guyra-au07l096"
+    },
+    "code": {
+      "id": "AU07L096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.154",
+      "lon": "151.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L097",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gwydir",
+      "en": "Gwydir",
+      "slug": "gwydir-au07l097"
+    },
+    "code": {
+      "id": "AU07L097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.47",
+      "lon": "150.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L151",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Harden",
+      "en": "Harden",
+      "slug": "harden-au07l151"
+    },
+    "code": {
+      "id": "AU07L151",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.603",
+      "lon": "148.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L039",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hawkesbury",
+      "en": "Hawkesbury",
+      "slug": "hawkesbury-au07l039"
+    },
+    "code": {
+      "id": "AU07L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.286",
+      "lon": "150.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L137",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hay",
+      "en": "Hay",
+      "slug": "hay-au07l137"
+    },
+    "code": {
+      "id": "AU07L137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.452",
+      "lon": "144.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Holroyd",
+      "en": "Holroyd",
+      "slug": "holroyd-au07l013"
+    },
+    "code": {
+      "id": "AU07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.829",
+      "lon": "150.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L131",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hornsby",
+      "en": "Hornsby",
+      "slug": "hornsby-au07l131"
+    },
+    "code": {
+      "id": "AU07L131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.642",
+      "lon": "151.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L061",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hunters Hill",
+      "en": "Hunters Hill",
+      "slug": "hunters-hill-au07l061"
+    },
+    "code": {
+      "id": "AU07L061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.831",
+      "lon": "151.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L063",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hurstville",
+      "en": "Hurstville",
+      "slug": "hurstville-au07l063"
+    },
+    "code": {
+      "id": "AU07L063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.963",
+      "lon": "151.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L114",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Inverell",
+      "en": "Inverell",
+      "slug": "inverell-au07l114"
+    },
+    "code": {
+      "id": "AU07L114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.427",
+      "lon": "151.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L100",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Jerilderie",
+      "en": "Jerilderie",
+      "slug": "jerilderie-au07l100"
+    },
+    "code": {
+      "id": "AU07L100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.2",
+      "lon": "145.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L140",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Junee",
+      "en": "Junee",
+      "slug": "junee-au07l140"
+    },
+    "code": {
+      "id": "AU07L140",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.814",
+      "lon": "147.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kempsey",
+      "en": "Kempsey",
+      "slug": "kempsey-au07l016"
+    },
+    "code": {
+      "id": "AU07L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.945",
+      "lon": "152.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L041",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kiama",
+      "en": "Kiama",
+      "slug": "kiama-au07l041"
+    },
+    "code": {
+      "id": "AU07L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.699",
+      "lon": "150.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L138",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kogarah",
+      "en": "Kogarah",
+      "slug": "kogarah-au07l138"
+    },
+    "code": {
+      "id": "AU07L138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.981",
+      "lon": "151.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L115",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ku-ring-gai",
+      "en": "Ku-ring-gai",
+      "slug": "ku-ring-gai-au07l115"
+    },
+    "code": {
+      "id": "AU07L115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.733",
+      "lon": "151.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L054",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kyogle",
+      "en": "Kyogle",
+      "slug": "kyogle-au07l054"
+    },
+    "code": {
+      "id": "AU07L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.623",
+      "lon": "152.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L056",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lachlan",
+      "en": "Lachlan",
+      "slug": "lachlan-au07l056"
+    },
+    "code": {
+      "id": "AU07L056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.776",
+      "lon": "147.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L068",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lake Macquarie",
+      "en": "Lake Macquarie",
+      "slug": "lake-macquarie-au07l068"
+    },
+    "code": {
+      "id": "AU07L068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.025",
+      "lon": "151.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L077",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lane Cove",
+      "en": "Lane Cove",
+      "slug": "lane-cove-au07l077"
+    },
+    "code": {
+      "id": "AU07L077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.817",
+      "lon": "151.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L112",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Leeton",
+      "en": "Leeton",
+      "slug": "leeton-au07l112"
+    },
+    "code": {
+      "id": "AU07L112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.541",
+      "lon": "146.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L147",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Leichhardt",
+      "en": "Leichhardt",
+      "slug": "leichhardt-au07l147"
+    },
+    "code": {
+      "id": "AU07L147",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.876",
+      "lon": "151.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L146",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lismore",
+      "en": "Lismore",
+      "slug": "lismore-au07l146"
+    },
+    "code": {
+      "id": "AU07L146",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.721",
+      "lon": "153.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L087",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lithgow",
+      "en": "Lithgow",
+      "slug": "lithgow-au07l087"
+    },
+    "code": {
+      "id": "AU07L087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.234",
+      "lon": "150.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L117",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Liverpool",
+      "en": "Liverpool",
+      "slug": "liverpool-au07l117"
+    },
+    "code": {
+      "id": "AU07L117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.915",
+      "lon": "150.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L032",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Liverpool Plains",
+      "en": "Liverpool Plains",
+      "slug": "liverpool-plains-au07l032"
+    },
+    "code": {
+      "id": "AU07L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.606",
+      "lon": "150.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lockhart",
+      "en": "Lockhart",
+      "slug": "lockhart-au07l027"
+    },
+    "code": {
+      "id": "AU07L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.314",
+      "lon": "146.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maitland",
+      "en": "Maitland",
+      "slug": "maitland-au07l009"
+    },
+    "code": {
+      "id": "AU07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.694",
+      "lon": "151.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L080",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Manly",
+      "en": "Manly",
+      "slug": "manly-au07l080"
+    },
+    "code": {
+      "id": "AU07L080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.807",
+      "lon": "151.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Marrickville",
+      "en": "Marrickville",
+      "slug": "marrickville-au07l018"
+    },
+    "code": {
+      "id": "AU07L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.906",
+      "lon": "151.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L101",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mid-Western Regional",
+      "en": "Mid-Western Regional",
+      "slug": "mid-western-regional-au07l101"
+    },
+    "code": {
+      "id": "AU07L101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.607",
+      "lon": "149.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L070",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moree Plains",
+      "en": "Moree Plains",
+      "slug": "moree-plains-au07l070"
+    },
+    "code": {
+      "id": "AU07L070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.192",
+      "lon": "149.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L111",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mosman",
+      "en": "Mosman",
+      "slug": "mosman-au07l111"
+    },
+    "code": {
+      "id": "AU07L111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.83",
+      "lon": "151.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L072",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Murray",
+      "en": "Murray",
+      "slug": "murray-au07l072"
+    },
+    "code": {
+      "id": "AU07L072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.752",
+      "lon": "144.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Murrumbidgee",
+      "en": "Murrumbidgee",
+      "slug": "murrumbidgee-au07l021"
+    },
+    "code": {
+      "id": "AU07L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.657",
+      "lon": "145.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Muswellbrook",
+      "en": "Muswellbrook",
+      "slug": "muswellbrook-au07l004"
+    },
+    "code": {
+      "id": "AU07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.559",
+      "lon": "150.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L123",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nambucca",
+      "en": "Nambucca",
+      "slug": "nambucca-au07l123"
+    },
+    "code": {
+      "id": "AU07L123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.7",
+      "lon": "152.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L103",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Narrabri",
+      "en": "Narrabri",
+      "slug": "narrabri-au07l103"
+    },
+    "code": {
+      "id": "AU07L103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.342",
+      "lon": "149.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L128",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Narrandera",
+      "en": "Narrandera",
+      "slug": "narrandera-au07l128"
+    },
+    "code": {
+      "id": "AU07L128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.695",
+      "lon": "146.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L038",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Narromine",
+      "en": "Narromine",
+      "slug": "narromine-au07l038"
+    },
+    "code": {
+      "id": "AU07L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.188",
+      "lon": "148.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L065",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Newcastle",
+      "en": "Newcastle",
+      "slug": "newcastle-au07l065"
+    },
+    "code": {
+      "id": "AU07L065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.886",
+      "lon": "151.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L057",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "North Sydney",
+      "en": "North Sydney",
+      "slug": "north-sydney-au07l057"
+    },
+    "code": {
+      "id": "AU07L057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.831",
+      "lon": "151.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L030",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oberon",
+      "en": "Oberon",
+      "slug": "oberon-au07l030"
+    },
+    "code": {
+      "id": "AU07L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.9",
+      "lon": "149.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L073",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Orange",
+      "en": "Orange",
+      "slug": "orange-au07l073"
+    },
+    "code": {
+      "id": "AU07L073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.326",
+      "lon": "149.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L116",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Palerang",
+      "en": "Palerang",
+      "slug": "palerang-au07l116"
+    },
+    "code": {
+      "id": "AU07L116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.44",
+      "lon": "149.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L031",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Parkes",
+      "en": "Parkes",
+      "slug": "parkes-au07l031"
+    },
+    "code": {
+      "id": "AU07L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.899",
+      "lon": "147.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L135",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Parramatta",
+      "en": "Parramatta",
+      "slug": "parramatta-au07l135"
+    },
+    "code": {
+      "id": "AU07L135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.818",
+      "lon": "151.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L034",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Penrith",
+      "en": "Penrith",
+      "slug": "penrith-au07l034"
+    },
+    "code": {
+      "id": "AU07L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.789",
+      "lon": "150.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L042",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Pittwater",
+      "en": "Pittwater",
+      "slug": "pittwater-au07l042"
+    },
+    "code": {
+      "id": "AU07L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.683",
+      "lon": "151.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L092",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Macquarie-Hastings",
+      "en": "Port Macquarie-Hastings",
+      "slug": "port-macquarie-hastings-au07l092"
+    },
+    "code": {
+      "id": "AU07L092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.407",
+      "lon": "152.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L082",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Stephens",
+      "en": "Port Stephens",
+      "slug": "port-stephens-au07l082"
+    },
+    "code": {
+      "id": "AU07L082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.74",
+      "lon": "151.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Queanbeyan",
+      "en": "Queanbeyan",
+      "slug": "queanbeyan-au07l028"
+    },
+    "code": {
+      "id": "AU07L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.424",
+      "lon": "149.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L132",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Randwick",
+      "en": "Randwick",
+      "slug": "randwick-au07l132"
+    },
+    "code": {
+      "id": "AU07L132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.939",
+      "lon": "151.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L095",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Richmond Valley",
+      "en": "Richmond Valley",
+      "slug": "richmond-valley-au07l095"
+    },
+    "code": {
+      "id": "AU07L095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.064",
+      "lon": "153.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Rockdale",
+      "en": "Rockdale",
+      "slug": "rockdale-au07l003"
+    },
+    "code": {
+      "id": "AU07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.946",
+      "lon": "151.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L110",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ryde",
+      "en": "Ryde",
+      "slug": "ryde-au07l110"
+    },
+    "code": {
+      "id": "AU07L110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.8",
+      "lon": "151.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shellharbour",
+      "en": "Shellharbour",
+      "slug": "shellharbour-au07l014"
+    },
+    "code": {
+      "id": "AU07L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.579",
+      "lon": "150.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L119",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shoalhaven",
+      "en": "Shoalhaven",
+      "slug": "shoalhaven-au07l119"
+    },
+    "code": {
+      "id": "AU07L119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.999",
+      "lon": "150.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L043",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Singleton",
+      "en": "Singleton",
+      "slug": "singleton-au07l043"
+    },
+    "code": {
+      "id": "AU07L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.671",
+      "lon": "150.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L064",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Snowy River",
+      "en": "Snowy River",
+      "slug": "snowy-river-au07l064"
+    },
+    "code": {
+      "id": "AU07L064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.376",
+      "lon": "148.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L150",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Strathfield",
+      "en": "Strathfield",
+      "slug": "strathfield-au07l150"
+    },
+    "code": {
+      "id": "AU07L150",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.879",
+      "lon": "151.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L133",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sutherland Shire",
+      "en": "Sutherland Shire",
+      "slug": "sutherland-shire-au07l133"
+    },
+    "code": {
+      "id": "AU07L133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.08",
+      "lon": "150.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L089",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sydney",
+      "en": "Sydney",
+      "slug": "sydney-au07l089"
+    },
+    "code": {
+      "id": "AU07L089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.892",
+      "lon": "151.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L045",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tamworth Regional",
+      "en": "Tamworth Regional",
+      "slug": "tamworth-regional-au07l045"
+    },
+    "code": {
+      "id": "AU07L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.889",
+      "lon": "150.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Temora",
+      "en": "Temora",
+      "slug": "temora-au07l017"
+    },
+    "code": {
+      "id": "AU07L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.41",
+      "lon": "147.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L046",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tenterfield",
+      "en": "Tenterfield",
+      "slug": "tenterfield-au07l046"
+    },
+    "code": {
+      "id": "AU07L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.071",
+      "lon": "152.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L088",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "The Hills Shire",
+      "en": "The Hills Shire",
+      "slug": "the-hills-shire-au07l088"
+    },
+    "code": {
+      "id": "AU07L088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.638",
+      "lon": "150.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L109",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tumbarumba",
+      "en": "Tumbarumba",
+      "slug": "tumbarumba-au07l109"
+    },
+    "code": {
+      "id": "AU07L109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.897",
+      "lon": "148.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L126",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tumut Shire",
+      "en": "Tumut Shire",
+      "slug": "tumut-shire-au07l126"
+    },
+    "code": {
+      "id": "AU07L126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.424",
+      "lon": "148.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tweed",
+      "en": "Tweed",
+      "slug": "tweed-au07l025"
+    },
+    "code": {
+      "id": "AU07L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.365",
+      "lon": "153.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Upper Hunter Shire",
+      "en": "Upper Hunter Shire",
+      "slug": "upper-hunter-shire-au07l012"
+    },
+    "code": {
+      "id": "AU07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.898",
+      "lon": "151.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Upper Lachlan Shire",
+      "en": "Upper Lachlan Shire",
+      "slug": "upper-lachlan-shire-au07l007"
+    },
+    "code": {
+      "id": "AU07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.359",
+      "lon": "149.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L055",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Uralla",
+      "en": "Uralla",
+      "slug": "uralla-au07l055"
+    },
+    "code": {
+      "id": "AU07L055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.534",
+      "lon": "151.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Urana",
+      "en": "Urana",
+      "slug": "urana-au07l022"
+    },
+    "code": {
+      "id": "AU07L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.222",
+      "lon": "146.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L079",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wagga Wagga",
+      "en": "Wagga Wagga",
+      "slug": "wagga-wagga-au07l079"
+    },
+    "code": {
+      "id": "AU07L079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.228",
+      "lon": "147.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L074",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wakool",
+      "en": "Wakool",
+      "slug": "wakool-au07l074"
+    },
+    "code": {
+      "id": "AU07L074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.955",
+      "lon": "143.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L067",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Walcha",
+      "en": "Walcha",
+      "slug": "walcha-au07l067"
+    },
+    "code": {
+      "id": "AU07L067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.179",
+      "lon": "151.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L102",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Walgett",
+      "en": "Walgett",
+      "slug": "walgett-au07l102"
+    },
+    "code": {
+      "id": "AU07L102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.792",
+      "lon": "148.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L062",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warren",
+      "en": "Warren",
+      "slug": "warren-au07l062"
+    },
+    "code": {
+      "id": "AU07L062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.516",
+      "lon": "147.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L130",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warringah",
+      "en": "Warringah",
+      "slug": "warringah-au07l130"
+    },
+    "code": {
+      "id": "AU07L130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.731",
+      "lon": "151.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L134",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warrumbungle Shire",
+      "en": "Warrumbungle Shire",
+      "slug": "warrumbungle-shire-au07l134"
+    },
+    "code": {
+      "id": "AU07L134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.463",
+      "lon": "149.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L105",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Waverley",
+      "en": "Waverley",
+      "slug": "waverley-au07l105"
+    },
+    "code": {
+      "id": "AU07L105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.899",
+      "lon": "151.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L036",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Weddin",
+      "en": "Weddin",
+      "slug": "weddin-au07l036"
+    },
+    "code": {
+      "id": "AU07L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.875",
+      "lon": "148.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L118",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wentworth",
+      "en": "Wentworth",
+      "slug": "wentworth-au07l118"
+    },
+    "code": {
+      "id": "AU07L118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.631",
+      "lon": "142.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L081",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Willoughby",
+      "en": "Willoughby",
+      "slug": "willoughby-au07l081"
+    },
+    "code": {
+      "id": "AU07L081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.802",
+      "lon": "151.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wingecarribee",
+      "en": "Wingecarribee",
+      "slug": "wingecarribee-au07l019"
+    },
+    "code": {
+      "id": "AU07L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.47",
+      "lon": "150.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L060",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wollondilly",
+      "en": "Wollondilly",
+      "slug": "wollondilly-au07l060"
+    },
+    "code": {
+      "id": "AU07L060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.069",
+      "lon": "150.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L053",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wollongong",
+      "en": "Wollongong",
+      "slug": "wollongong-au07l053"
+    },
+    "code": {
+      "id": "AU07L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.396",
+      "lon": "150.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L145",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Woollahra",
+      "en": "Woollahra",
+      "slug": "woollahra-au07l145"
+    },
+    "code": {
+      "id": "AU07L145",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.88",
+      "lon": "151.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L083",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wyong",
+      "en": "Wyong",
+      "slug": "wyong-au07l083"
+    },
+    "code": {
+      "id": "AU07L083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.232",
+      "lon": "151.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L098",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yass Valley",
+      "en": "Yass Valley",
+      "slug": "yass-valley-au07l098"
+    },
+    "code": {
+      "id": "AU07L098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.989",
+      "lon": "148.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU07L078",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Young",
+      "en": "Young",
+      "slug": "young-au07l078"
+    },
+    "code": {
+      "id": "AU07L078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU07",
+        "level": 1,
+        "name": {
+          "local": "New South Wales",
+          "en": "New South Wales",
+          "slug": "new-south-wales-au07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.225",
+      "lon": "148.231"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

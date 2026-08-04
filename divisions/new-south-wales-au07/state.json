@@ -1,0 +1,33 @@
+{
+  "id": "AU07",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "New South Wales",
+    "en": "New South Wales",
+    "slug": "new-south-wales-au07"
+  },
+  "code": {
+    "id": "AU07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 151
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-32.495",
+    "lon": "146.587"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/new-south-wales-au07/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU02L043",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Torres",
+    "en": "Torres",
+    "slug": "torres-au02l043"
+  },
+  "code": {
+    "id": "AU02L043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.953",
+    "lon": "142.568"
+  },
+  "metadata": {},
+  "source": {}
+}

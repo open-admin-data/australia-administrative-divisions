@@ -1,0 +1,45 @@
+{
+  "id": "AU05L049",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Peterborough",
+    "en": "Peterborough",
+    "slug": "peterborough-au05l049"
+  },
+  "code": {
+    "id": "AU05L049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-32.873",
+    "lon": "139.086"
+  },
+  "metadata": {},
+  "source": {}
+}

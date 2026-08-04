@@ -1,0 +1,3467 @@
+[
+  {
+    "id": "AU04L056",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Alpine",
+      "en": "Alpine",
+      "slug": "alpine-au04l056"
+    },
+    "code": {
+      "id": "AU04L056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.764",
+      "lon": "146.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L063",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ararat",
+      "en": "Ararat",
+      "slug": "ararat-au04l063"
+    },
+    "code": {
+      "id": "AU04L063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.474",
+      "lon": "142.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L034",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ballarat",
+      "en": "Ballarat",
+      "slug": "ballarat-au04l034"
+    },
+    "code": {
+      "id": "AU04L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.449",
+      "lon": "143.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L051",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Banyule",
+      "en": "Banyule",
+      "slug": "banyule-au04l051"
+    },
+    "code": {
+      "id": "AU04L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.722",
+      "lon": "145.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L038",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bass Coast",
+      "en": "Bass Coast",
+      "slug": "bass-coast-au04l038"
+    },
+    "code": {
+      "id": "AU04L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.505",
+      "lon": "145.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Baw Baw",
+      "en": "Baw Baw",
+      "slug": "baw-baw-au04l008"
+    },
+    "code": {
+      "id": "AU04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.026",
+      "lon": "146.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L044",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bayside",
+      "en": "Bayside",
+      "slug": "bayside-au04l044"
+    },
+    "code": {
+      "id": "AU04L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.943",
+      "lon": "145.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L048",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Benalla",
+      "en": "Benalla",
+      "slug": "benalla-au04l048"
+    },
+    "code": {
+      "id": "AU04L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.584",
+      "lon": "146.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L047",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Boroondara",
+      "en": "Boroondara",
+      "slug": "boroondara-au04l047"
+    },
+    "code": {
+      "id": "AU04L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.817",
+      "lon": "145.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L060",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Brimbank",
+      "en": "Brimbank",
+      "slug": "brimbank-au04l060"
+    },
+    "code": {
+      "id": "AU04L060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.75",
+      "lon": "144.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L066",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Buloke",
+      "en": "Buloke",
+      "slug": "buloke-au04l066"
+    },
+    "code": {
+      "id": "AU04L066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.925",
+      "lon": "143.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L061",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Campaspe",
+      "en": "Campaspe",
+      "slug": "campaspe-au04l061"
+    },
+    "code": {
+      "id": "AU04L061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.325",
+      "lon": "144.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cardinia",
+      "en": "Cardinia",
+      "slug": "cardinia-au04l025"
+    },
+    "code": {
+      "id": "AU04L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.079",
+      "lon": "145.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Casey",
+      "en": "Casey",
+      "slug": "casey-au04l016"
+    },
+    "code": {
+      "id": "AU04L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.107",
+      "lon": "145.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Central Goldfields",
+      "en": "Central Goldfields",
+      "slug": "central-goldfields-au04l024"
+    },
+    "code": {
+      "id": "AU04L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.079",
+      "lon": "143.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L041",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Colac-Otway",
+      "en": "Colac-Otway",
+      "slug": "colac-otway-au04l041"
+    },
+    "code": {
+      "id": "AU04L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.493",
+      "lon": "143.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L050",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Corangamite",
+      "en": "Corangamite",
+      "slug": "corangamite-au04l050"
+    },
+    "code": {
+      "id": "AU04L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.119",
+      "lon": "143.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Darebin",
+      "en": "Darebin",
+      "slug": "darebin-au04l027"
+    },
+    "code": {
+      "id": "AU04L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.73",
+      "lon": "145.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L035",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "East Gippsland",
+      "en": "East Gippsland",
+      "slug": "east-gippsland-au04l035"
+    },
+    "code": {
+      "id": "AU04L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.316",
+      "lon": "148.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Frankston",
+      "en": "Frankston",
+      "slug": "frankston-au04l013"
+    },
+    "code": {
+      "id": "AU04L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.132",
+      "lon": "145.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L053",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gannawarra",
+      "en": "Gannawarra",
+      "slug": "gannawarra-au04l053"
+    },
+    "code": {
+      "id": "AU04L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-35.712",
+      "lon": "143.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Glen Eira",
+      "en": "Glen Eira",
+      "slug": "glen-eira-au04l006"
+    },
+    "code": {
+      "id": "AU04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.908",
+      "lon": "145.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L069",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Glenelg",
+      "en": "Glenelg",
+      "slug": "glenelg-au04l069"
+    },
+    "code": {
+      "id": "AU04L069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.886",
+      "lon": "141.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L033",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Golden Plains",
+      "en": "Golden Plains",
+      "slug": "golden-plains-au04l033"
+    },
+    "code": {
+      "id": "AU04L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.842",
+      "lon": "143.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L076",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Greater Bendigo",
+      "en": "Greater Bendigo",
+      "slug": "greater-bendigo-au04l076"
+    },
+    "code": {
+      "id": "AU04L076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.754",
+      "lon": "144.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L075",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Greater Dandenong",
+      "en": "Greater Dandenong",
+      "slug": "greater-dandenong-au04l075"
+    },
+    "code": {
+      "id": "AU04L075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.007",
+      "lon": "145.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L067",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Greater Geelong",
+      "en": "Greater Geelong",
+      "slug": "greater-geelong-au04l067"
+    },
+    "code": {
+      "id": "AU04L067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.959",
+      "lon": "144.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L057",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Greater Shepparton",
+      "en": "Greater Shepparton",
+      "slug": "greater-shepparton-au04l057"
+    },
+    "code": {
+      "id": "AU04L057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.378",
+      "lon": "145.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L065",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hepburn",
+      "en": "Hepburn",
+      "slug": "hepburn-au04l065"
+    },
+    "code": {
+      "id": "AU04L065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.373",
+      "lon": "143.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hindmarsh",
+      "en": "Hindmarsh",
+      "slug": "hindmarsh-au04l007"
+    },
+    "code": {
+      "id": "AU04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.109",
+      "lon": "141.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L039",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hobsons Bay",
+      "en": "Hobsons Bay",
+      "slug": "hobsons-bay-au04l039"
+    },
+    "code": {
+      "id": "AU04L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.846",
+      "lon": "144.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Horsham",
+      "en": "Horsham",
+      "slug": "horsham-au04l009"
+    },
+    "code": {
+      "id": "AU04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.83",
+      "lon": "142.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L037",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hume",
+      "en": "Hume",
+      "slug": "hume-au04l037"
+    },
+    "code": {
+      "id": "AU04L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.591",
+      "lon": "144.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L064",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Indigo",
+      "en": "Indigo",
+      "slug": "indigo-au04l064"
+    },
+    "code": {
+      "id": "AU04L064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.229",
+      "lon": "146.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Knox",
+      "en": "Knox",
+      "slug": "knox-au04l005"
+    },
+    "code": {
+      "id": "AU04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.884",
+      "lon": "145.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L058",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Loddon",
+      "en": "Loddon",
+      "slug": "loddon-au04l058"
+    },
+    "code": {
+      "id": "AU04L058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.357",
+      "lon": "143.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L030",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Macedon Ranges",
+      "en": "Macedon Ranges",
+      "slug": "macedon-ranges-au04l030"
+    },
+    "code": {
+      "id": "AU04L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.333",
+      "lon": "144.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L070",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Manningham",
+      "en": "Manningham",
+      "slug": "manningham-au04l070"
+    },
+    "code": {
+      "id": "AU04L070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.771",
+      "lon": "145.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L055",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mansfield",
+      "en": "Mansfield",
+      "slug": "mansfield-au04l055"
+    },
+    "code": {
+      "id": "AU04L055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.189",
+      "lon": "146.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L052",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maribyrnong",
+      "en": "Maribyrnong",
+      "slug": "maribyrnong-au04l052"
+    },
+    "code": {
+      "id": "AU04L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.797",
+      "lon": "144.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maroondah",
+      "en": "Maroondah",
+      "slug": "maroondah-au04l010"
+    },
+    "code": {
+      "id": "AU04L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.801",
+      "lon": "145.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L043",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Melbourne",
+      "en": "Melbourne",
+      "slug": "melbourne-au04l043"
+    },
+    "code": {
+      "id": "AU04L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.806",
+      "lon": "144.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Melton",
+      "en": "Melton",
+      "slug": "melton-au04l018"
+    },
+    "code": {
+      "id": "AU04L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.689",
+      "lon": "144.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L073",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mildura",
+      "en": "Mildura",
+      "slug": "mildura-au04l073"
+    },
+    "code": {
+      "id": "AU04L073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.876",
+      "lon": "141.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mitchell",
+      "en": "Mitchell",
+      "slug": "mitchell-au04l002"
+    },
+    "code": {
+      "id": "AU04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.099",
+      "lon": "144.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moira",
+      "en": "Moira",
+      "slug": "moira-au04l001"
+    },
+    "code": {
+      "id": "AU04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.007",
+      "lon": "145.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Monash",
+      "en": "Monash",
+      "slug": "monash-au04l021"
+    },
+    "code": {
+      "id": "AU04L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.892",
+      "lon": "145.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L031",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moonee Valley",
+      "en": "Moonee Valley",
+      "slug": "moonee-valley-au04l031"
+    },
+    "code": {
+      "id": "AU04L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.744",
+      "lon": "144.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L049",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moorabool",
+      "en": "Moorabool",
+      "slug": "moorabool-au04l049"
+    },
+    "code": {
+      "id": "AU04L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.616",
+      "lon": "144.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L045",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moreland",
+      "en": "Moreland",
+      "slug": "moreland-au04l045"
+    },
+    "code": {
+      "id": "AU04L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.725",
+      "lon": "144.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mornington Peninsula",
+      "en": "Mornington Peninsula",
+      "slug": "mornington-peninsula-au04l017"
+    },
+    "code": {
+      "id": "AU04L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.313",
+      "lon": "145.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L072",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mount Alexander",
+      "en": "Mount Alexander",
+      "slug": "mount-alexander-au04l072"
+    },
+    "code": {
+      "id": "AU04L072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.038",
+      "lon": "144.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L040",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moyne",
+      "en": "Moyne",
+      "slug": "moyne-au04l040"
+    },
+    "code": {
+      "id": "AU04L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.096",
+      "lon": "142.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Murrindindi",
+      "en": "Murrindindi",
+      "slug": "murrindindi-au04l023"
+    },
+    "code": {
+      "id": "AU04L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.305",
+      "lon": "145.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nillumbik",
+      "en": "Nillumbik",
+      "slug": "nillumbik-au04l022"
+    },
+    "code": {
+      "id": "AU04L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.622",
+      "lon": "145.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L036",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Northern Grampians",
+      "en": "Northern Grampians",
+      "slug": "northern-grampians-au04l036"
+    },
+    "code": {
+      "id": "AU04L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.838",
+      "lon": "142.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L062",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Phillip",
+      "en": "Port Phillip",
+      "slug": "port-phillip-au04l062"
+    },
+    "code": {
+      "id": "AU04L062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.845",
+      "lon": "144.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L059",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Pyrenees",
+      "en": "Pyrenees",
+      "slug": "pyrenees-au04l059"
+    },
+    "code": {
+      "id": "AU04L059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.387",
+      "lon": "143.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Queenscliffe",
+      "en": "Queenscliffe",
+      "slug": "queenscliffe-au04l019"
+    },
+    "code": {
+      "id": "AU04L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.267",
+      "lon": "144.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "South Gippsland",
+      "en": "South Gippsland",
+      "slug": "south-gippsland-au04l020"
+    },
+    "code": {
+      "id": "AU04L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.57",
+      "lon": "146.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Southern Grampians",
+      "en": "Southern Grampians",
+      "slug": "southern-grampians-au04l004"
+    },
+    "code": {
+      "id": "AU04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.555",
+      "lon": "142.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L032",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Stonnington",
+      "en": "Stonnington",
+      "slug": "stonnington-au04l032"
+    },
+    "code": {
+      "id": "AU04L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.852",
+      "lon": "145.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Strathbogie",
+      "en": "Strathbogie",
+      "slug": "strathbogie-au04l014"
+    },
+    "code": {
+      "id": "AU04L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.785",
+      "lon": "145.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Surf Coast",
+      "en": "Surf Coast",
+      "slug": "surf-coast-au04l028"
+    },
+    "code": {
+      "id": "AU04L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.293",
+      "lon": "144.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L042",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Swan Hill",
+      "en": "Swan Hill",
+      "slug": "swan-hill-au04l042"
+    },
+    "code": {
+      "id": "AU04L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.973",
+      "lon": "143.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Towong",
+      "en": "Towong",
+      "slug": "towong-au04l015"
+    },
+    "code": {
+      "id": "AU04L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.349",
+      "lon": "147.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L054",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wangaratta",
+      "en": "Wangaratta",
+      "slug": "wangaratta-au04l054"
+    },
+    "code": {
+      "id": "AU04L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.561",
+      "lon": "146.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L046",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warrnambool",
+      "en": "Warrnambool",
+      "slug": "warrnambool-au04l046"
+    },
+    "code": {
+      "id": "AU04L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-38.352",
+      "lon": "142.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L071",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wellington",
+      "en": "Wellington",
+      "slug": "wellington-au04l071"
+    },
+    "code": {
+      "id": "AU04L071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.875",
+      "lon": "146.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L074",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "West Wimmera",
+      "en": "West Wimmera",
+      "slug": "west-wimmera-au04l074"
+    },
+    "code": {
+      "id": "AU04L074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.828",
+      "lon": "141.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Whitehorse",
+      "en": "Whitehorse",
+      "slug": "whitehorse-au04l026"
+    },
+    "code": {
+      "id": "AU04L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.83",
+      "lon": "145.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L068",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Whittlesea",
+      "en": "Whittlesea",
+      "slug": "whittlesea-au04l068"
+    },
+    "code": {
+      "id": "AU04L068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.555",
+      "lon": "145.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L077",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wodonga",
+      "en": "Wodonga",
+      "slug": "wodonga-au04l077"
+    },
+    "code": {
+      "id": "AU04L077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.164",
+      "lon": "146.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wyndham",
+      "en": "Wyndham",
+      "slug": "wyndham-au04l003"
+    },
+    "code": {
+      "id": "AU04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.899",
+      "lon": "144.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yarra",
+      "en": "Yarra",
+      "slug": "yarra-au04l012"
+    },
+    "code": {
+      "id": "AU04L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.797",
+      "lon": "144.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yarra Ranges",
+      "en": "Yarra Ranges",
+      "slug": "yarra-ranges-au04l029"
+    },
+    "code": {
+      "id": "AU04L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-37.754",
+      "lon": "145.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU04L011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yarriambiack",
+      "en": "Yarriambiack",
+      "slug": "yarriambiack-au04l011"
+    },
+    "code": {
+      "id": "AU04L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU04",
+        "level": 1,
+        "name": {
+          "local": "Victoria",
+          "en": "Victoria",
+          "slug": "victoria-au04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-36.007",
+      "lon": "142.419"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

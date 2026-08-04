@@ -1,0 +1,45 @@
+{
+  "id": "AU08L016",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Waratah/Wynyard",
+    "en": "Waratah/Wynyard",
+    "slug": "waratah-wynyard-au08l016"
+  },
+  "code": {
+    "id": "AU08L016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU08",
+    "level": 1,
+    "name": {
+      "local": "Tasmania",
+      "en": "Tasmania",
+      "slug": "tasmania-au08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-41.451",
+    "lon": "145.425"
+  },
+  "metadata": {},
+  "source": {}
+}

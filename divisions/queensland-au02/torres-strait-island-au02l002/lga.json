@@ -1,0 +1,45 @@
+{
+  "id": "AU02L002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Torres Strait Island",
+    "en": "Torres Strait Island",
+    "slug": "torres-strait-island-au02l002"
+  },
+  "code": {
+    "id": "AU02L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.182",
+    "lon": "142.266"
+  },
+  "metadata": {},
+  "source": {}
+}

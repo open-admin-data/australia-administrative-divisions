@@ -1,0 +1,45 @@
+{
+  "id": "AU07L084",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Coolamon",
+    "en": "Coolamon",
+    "slug": "coolamon-au07l084"
+  },
+  "code": {
+    "id": "AU07L084",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-34.678",
+    "lon": "147.11"
+  },
+  "metadata": {},
+  "source": {}
+}

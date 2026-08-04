@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "AU08L029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Break O'Day",
+      "en": "Break O'Day",
+      "slug": "break-o-day-au08l029"
+    },
+    "code": {
+      "id": "AU08L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.441",
+      "lon": "148.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Brighton",
+      "en": "Brighton",
+      "slug": "brighton-au08l020"
+    },
+    "code": {
+      "id": "AU08L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.706",
+      "lon": "147.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Burnie",
+      "en": "Burnie",
+      "slug": "burnie-au08l023"
+    },
+    "code": {
+      "id": "AU08L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.223",
+      "lon": "145.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Central Coast",
+      "en": "Central Coast",
+      "slug": "central-coast-au08l025"
+    },
+    "code": {
+      "id": "AU08L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.269",
+      "lon": "146.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Central Highlands",
+      "en": "Central Highlands",
+      "slug": "central-highlands-au08l001"
+    },
+    "code": {
+      "id": "AU08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.196",
+      "lon": "146.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Circular Head",
+      "en": "Circular Head",
+      "slug": "circular-head-au08l028"
+    },
+    "code": {
+      "id": "AU08L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.101",
+      "lon": "145.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Clarence",
+      "en": "Clarence",
+      "slug": "clarence-au08l010"
+    },
+    "code": {
+      "id": "AU08L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.839",
+      "lon": "147.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Derwent Valley",
+      "en": "Derwent Valley",
+      "slug": "derwent-valley-au08l002"
+    },
+    "code": {
+      "id": "AU08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.835",
+      "lon": "146.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Devonport",
+      "en": "Devonport",
+      "slug": "devonport-au08l012"
+    },
+    "code": {
+      "id": "AU08L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.221",
+      "lon": "146.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dorset",
+      "en": "Dorset",
+      "slug": "dorset-au08l005"
+    },
+    "code": {
+      "id": "AU08L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.092",
+      "lon": "147.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Flinders",
+      "en": "Flinders",
+      "slug": "flinders-au08l021"
+    },
+    "code": {
+      "id": "AU08L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-40.004",
+      "lon": "148.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "George Town",
+      "en": "George Town",
+      "slug": "george-town-au08l022"
+    },
+    "code": {
+      "id": "AU08L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.104",
+      "lon": "147.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Glamorgan/Spring Bay",
+      "en": "Glamorgan/Spring Bay",
+      "slug": "glamorgan-spring-bay-au08l011"
+    },
+    "code": {
+      "id": "AU08L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.98",
+      "lon": "147.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Glenorchy",
+      "en": "Glenorchy",
+      "slug": "glenorchy-au08l014"
+    },
+    "code": {
+      "id": "AU08L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.841",
+      "lon": "147.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hobart",
+      "en": "Hobart",
+      "slug": "hobart-au08l015"
+    },
+    "code": {
+      "id": "AU08L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.895",
+      "lon": "147.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Huon Valley",
+      "en": "Huon Valley",
+      "slug": "huon-valley-au08l009"
+    },
+    "code": {
+      "id": "AU08L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.235",
+      "lon": "146.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kentish",
+      "en": "Kentish",
+      "slug": "kentish-au08l019"
+    },
+    "code": {
+      "id": "AU08L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.383",
+      "lon": "146.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "King Island",
+      "en": "King Island",
+      "slug": "king-island-au08l007"
+    },
+    "code": {
+      "id": "AU08L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-39.865",
+      "lon": "143.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kingborough",
+      "en": "Kingborough",
+      "slug": "kingborough-au08l013"
+    },
+    "code": {
+      "id": "AU08L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.387",
+      "lon": "147.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Latrobe",
+      "en": "Latrobe",
+      "slug": "latrobe-au08l006"
+    },
+    "code": {
+      "id": "AU08L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.236",
+      "lon": "146.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Launceston",
+      "en": "Launceston",
+      "slug": "launceston-au08l024"
+    },
+    "code": {
+      "id": "AU08L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.396",
+      "lon": "147.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Meander Valley",
+      "en": "Meander Valley",
+      "slug": "meander-valley-au08l003"
+    },
+    "code": {
+      "id": "AU08L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.531",
+      "lon": "146.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Northern Midlands",
+      "en": "Northern Midlands",
+      "slug": "northern-midlands-au08l017"
+    },
+    "code": {
+      "id": "AU08L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.826",
+      "lon": "147.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sorell",
+      "en": "Sorell",
+      "slug": "sorell-au08l004"
+    },
+    "code": {
+      "id": "AU08L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.779",
+      "lon": "147.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Southern Midlands",
+      "en": "Southern Midlands",
+      "slug": "southern-midlands-au08l018"
+    },
+    "code": {
+      "id": "AU08L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.449",
+      "lon": "147.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tasman",
+      "en": "Tasman",
+      "slug": "tasman-au08l008"
+    },
+    "code": {
+      "id": "AU08L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-43.115",
+      "lon": "147.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Waratah/Wynyard",
+      "en": "Waratah/Wynyard",
+      "slug": "waratah-wynyard-au08l016"
+    },
+    "code": {
+      "id": "AU08L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.451",
+      "lon": "145.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "West Coast",
+      "en": "West Coast",
+      "slug": "west-coast-au08l027"
+    },
+    "code": {
+      "id": "AU08L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-42.2",
+      "lon": "145.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU08L026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "West Tamar",
+      "en": "West Tamar",
+      "slug": "west-tamar-au08l026"
+    },
+    "code": {
+      "id": "AU08L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU08",
+        "level": 1,
+        "name": {
+          "local": "Tasmania",
+          "en": "Tasmania",
+          "slug": "tasmania-au08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-41.299",
+      "lon": "146.864"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

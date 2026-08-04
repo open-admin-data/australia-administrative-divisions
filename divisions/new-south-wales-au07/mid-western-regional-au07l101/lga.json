@@ -1,0 +1,45 @@
+{
+  "id": "AU07L101",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Mid-Western Regional",
+    "en": "Mid-Western Regional",
+    "slug": "mid-western-regional-au07l101"
+  },
+  "code": {
+    "id": "AU07L101",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-32.607",
+    "lon": "149.731"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU01L080",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Victoria Plains",
+    "en": "Victoria Plains",
+    "slug": "victoria-plains-au01l080"
+  },
+  "code": {
+    "id": "AU01L080",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU01",
+    "level": 1,
+    "name": {
+      "local": "Western Australia",
+      "en": "Western Australia",
+      "slug": "western-australia-au01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.99",
+    "lon": "116.344"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AU02L063",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Longreach",
+    "en": "Longreach",
+    "slug": "longreach-au02l063"
+  },
+  "code": {
+    "id": "AU02L063",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.47",
+    "lon": "143.96"
+  },
+  "metadata": {},
+  "source": {}
+}

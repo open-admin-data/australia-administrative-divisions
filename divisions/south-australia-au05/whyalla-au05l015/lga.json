@@ -1,0 +1,45 @@
+{
+  "id": "AU05L015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Whyalla",
+    "en": "Whyalla",
+    "slug": "whyalla-au05l015"
+  },
+  "code": {
+    "id": "AU05L015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU05",
+    "level": 1,
+    "name": {
+      "local": "South Australia",
+      "en": "South Australia",
+      "slug": "south-australia-au05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU05",
+      "level": 1,
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-33.033",
+    "lon": "137.445"
+  },
+  "metadata": {},
+  "source": {}
+}

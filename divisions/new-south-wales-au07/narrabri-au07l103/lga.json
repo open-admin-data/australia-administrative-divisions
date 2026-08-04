@@ -1,0 +1,45 @@
+{
+  "id": "AU07L103",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Narrabri",
+    "en": "Narrabri",
+    "slug": "narrabri-au07l103"
+  },
+  "code": {
+    "id": "AU07L103",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU07",
+    "level": 1,
+    "name": {
+      "local": "New South Wales",
+      "en": "New South Wales",
+      "slug": "new-south-wales-au07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU07",
+      "level": 1,
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-30.342",
+    "lon": "149.549"
+  },
+  "metadata": {},
+  "source": {}
+}

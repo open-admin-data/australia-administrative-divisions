@@ -1,0 +1,45 @@
+{
+  "id": "AU02L001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Western Downs",
+    "en": "Western Downs",
+    "slug": "western-downs-au02l001"
+  },
+  "code": {
+    "id": "AU02L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.879",
+    "lon": "150.435"
+  },
+  "metadata": {},
+  "source": {}
+}

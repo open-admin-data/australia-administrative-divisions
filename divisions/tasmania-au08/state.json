@@ -1,0 +1,33 @@
+{
+  "id": "AU08",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "Tasmania",
+    "en": "Tasmania",
+    "slug": "tasmania-au08"
+  },
+  "code": {
+    "id": "AU08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-42.098",
+    "lon": "146.565"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/tasmania-au08/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

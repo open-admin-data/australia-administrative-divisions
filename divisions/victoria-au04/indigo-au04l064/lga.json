@@ -1,0 +1,45 @@
+{
+  "id": "AU04L064",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Indigo",
+    "en": "Indigo",
+    "slug": "indigo-au04l064"
+  },
+  "code": {
+    "id": "AU04L064",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-36.229",
+    "lon": "146.688"
+  },
+  "metadata": {},
+  "source": {}
+}

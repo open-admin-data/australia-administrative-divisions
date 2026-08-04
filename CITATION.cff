@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Australia Administrative Divisions Dataset"
+version: "2026.08"
+date-released: "2026-08-04"
+url: "https://github.com/open-admin-data/australia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/australia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - australia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Australia's administrative hierarchy:
+  8 state/territorys, 550 local government areas.
+  Bilingual with coordinates and postal codes where available.

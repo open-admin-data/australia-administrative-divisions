@@ -1,0 +1,45 @@
+{
+  "id": "AU06L004",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Roper Gulf",
+    "en": "Roper Gulf",
+    "slug": "roper-gulf-au06l004"
+  },
+  "code": {
+    "id": "AU06L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU06",
+    "level": 1,
+    "name": {
+      "local": "Northern Territory",
+      "en": "Northern Territory",
+      "slug": "northern-territory-au06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU06",
+      "level": 1,
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.274",
+    "lon": "134.098"
+  },
+  "metadata": {},
+  "source": {}
+}

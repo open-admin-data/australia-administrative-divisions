@@ -1,0 +1,45 @@
+{
+  "id": "AU01L130",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Three Springs",
+    "en": "Three Springs",
+    "slug": "three-springs-au01l130"
+  },
+  "code": {
+    "id": "AU01L130",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU01",
+    "level": 1,
+    "name": {
+      "local": "Western Australia",
+      "en": "Western Australia",
+      "slug": "western-australia-au01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-29.543",
+    "lon": "115.57"
+  },
+  "metadata": {},
+  "source": {}
+}

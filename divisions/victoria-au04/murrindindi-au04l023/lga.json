@@ -1,0 +1,45 @@
+{
+  "id": "AU04L023",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Murrindindi",
+    "en": "Murrindindi",
+    "slug": "murrindindi-au04l023"
+  },
+  "code": {
+    "id": "AU04L023",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU04",
+    "level": 1,
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-au04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU04",
+      "level": 1,
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-37.305",
+    "lon": "145.622"
+  },
+  "metadata": {},
+  "source": {}
+}

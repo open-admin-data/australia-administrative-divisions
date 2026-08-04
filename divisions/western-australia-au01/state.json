@@ -1,0 +1,33 @@
+{
+  "id": "AU01",
+  "level": 1,
+  "level_name": {
+    "local": "State/Territory",
+    "en": "State/Territory"
+  },
+  "name": {
+    "local": "Western Australia",
+    "en": "Western Australia",
+    "slug": "western-australia-au01"
+  },
+  "code": {
+    "id": "AU01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 136
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.472",
+    "lon": "122.066"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/au/states/western-australia-au01/",
+    "api": "https://openadmindata.org/api/au/"
+  }
+}

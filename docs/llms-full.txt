@@ -1,0 +1,27 @@
+# Australia Administrative Divisions — Full Reference
+
+> Last updated: 2026-08-04. License: CC-BY-4.0.
+
+## Per-State/Territory Data Files
+
+- [Western Australia](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/western-australia-au01.txt) — 136 local government areas
+- [Queensland](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/queensland-au02.txt) — 72 local government areas
+- [Australian Capital Territory](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/australian-capital-territory-au03.txt) — 0 local government areas
+- [Victoria](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/victoria-au04.txt) — 77 local government areas
+- [South Australia](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/south-australia-au05.txt) — 69 local government areas
+- [Northern Territory](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/northern-territory-au06.txt) — 16 local government areas
+- [New South Wales](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/new-south-wales-au07.txt) — 151 local government areas
+- [Tasmania](https://github.com/open-admin-data/australia-administrative-divisions/blob/main/docs/llms-full/tasmania-au08.txt) — 29 local government areas
+
+## Summary
+
+| State/Territory | Local Government Areas | 
+|---|---|
+| Western Australia | 136 | 
+| Queensland | 72 | 
+| Australian Capital Territory | 0 | 
+| Victoria | 77 | 
+| South Australia | 69 | 
+| Northern Territory | 16 | 
+| New South Wales | 151 | 
+| Tasmania | 29 | 

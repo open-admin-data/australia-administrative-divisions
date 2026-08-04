@@ -1,0 +1,45 @@
+{
+  "id": "AU08L027",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "West Coast",
+    "en": "West Coast",
+    "slug": "west-coast-au08l027"
+  },
+  "code": {
+    "id": "AU08L027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU08",
+    "level": 1,
+    "name": {
+      "local": "Tasmania",
+      "en": "Tasmania",
+      "slug": "tasmania-au08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-42.2",
+    "lon": "145.749"
+  },
+  "metadata": {},
+  "source": {}
+}

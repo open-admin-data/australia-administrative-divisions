@@ -1,0 +1,45 @@
+{
+  "id": "AU08L021",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Flinders",
+    "en": "Flinders",
+    "slug": "flinders-au08l021"
+  },
+  "code": {
+    "id": "AU08L021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU08",
+    "level": 1,
+    "name": {
+      "local": "Tasmania",
+      "en": "Tasmania",
+      "slug": "tasmania-au08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU08",
+      "level": 1,
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-40.004",
+    "lon": "148.061"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,394 @@
+# Victoria — Australia Administrative Divisions
+
+> 77 local government areas
+> Code: AU04
+> Coordinates: -37.014, 143.48
+> Last updated: 2026-08-04. License: CC-BY-4.0.
+
+## Local Government Areas
+
+### Alpine
+
+Code: AU04L056, Coordinates: -36.764, 146.913
+
+
+### Ararat
+
+Code: AU04L063, Coordinates: -37.474, 142.852
+
+
+### Ballarat
+
+Code: AU04L034, Coordinates: -37.449, 143.734
+
+
+### Banyule
+
+Code: AU04L051, Coordinates: -37.722, 145.101
+
+
+### Bass Coast
+
+Code: AU04L038, Coordinates: -38.505, 145.577
+
+
+### Baw Baw
+
+Code: AU04L008, Coordinates: -38.026, 146.051
+
+
+### Bayside
+
+Code: AU04L044, Coordinates: -37.943, 145.019
+
+
+### Benalla
+
+Code: AU04L048, Coordinates: -36.584, 146.024
+
+
+### Boroondara
+
+Code: AU04L047, Coordinates: -37.817, 145.064
+
+
+### Brimbank
+
+Code: AU04L060, Coordinates: -37.75, 144.804
+
+
+### Buloke
+
+Code: AU04L066, Coordinates: -35.925, 143.015
+
+
+### Campaspe
+
+Code: AU04L061, Coordinates: -36.325, 144.835
+
+
+### Cardinia
+
+Code: AU04L025, Coordinates: -38.079, 145.572
+
+
+### Casey
+
+Code: AU04L016, Coordinates: -38.107, 145.309
+
+
+### Central Goldfields
+
+Code: AU04L024, Coordinates: -37.079, 143.737
+
+
+### Colac-Otway
+
+Code: AU04L041, Coordinates: -38.493, 143.602
+
+
+### Corangamite
+
+Code: AU04L050, Coordinates: -38.119, 143.227
+
+
+### Darebin
+
+Code: AU04L027, Coordinates: -37.73, 145.009
+
+
+### East Gippsland
+
+Code: AU04L035, Coordinates: -37.316, 148.156
+
+
+### Frankston
+
+Code: AU04L013, Coordinates: -38.132, 145.175
+
+
+### Gannawarra
+
+Code: AU04L053, Coordinates: -35.712, 143.843
+
+
+### Glen Eira
+
+Code: AU04L006, Coordinates: -37.908, 145.049
+
+
+### Glenelg
+
+Code: AU04L069, Coordinates: -37.886, 141.377
+
+
+### Golden Plains
+
+Code: AU04L033, Coordinates: -37.842, 143.731
+
+
+### Greater Bendigo
+
+Code: AU04L076, Coordinates: -36.754, 144.325
+
+
+### Greater Dandenong
+
+Code: AU04L075, Coordinates: -38.007, 145.185
+
+
+### Greater Geelong
+
+Code: AU04L067, Coordinates: -37.959, 144.357
+
+
+### Greater Shepparton
+
+Code: AU04L057, Coordinates: -36.378, 145.386
+
+
+### Hepburn
+
+Code: AU04L065, Coordinates: -37.373, 143.987
+
+
+### Hindmarsh
+
+Code: AU04L007, Coordinates: -36.109, 141.743
+
+
+### Hobsons Bay
+
+Code: AU04L039, Coordinates: -37.846, 144.835
+
+
+### Horsham
+
+Code: AU04L009, Coordinates: -36.83, 142.082
+
+
+### Hume
+
+Code: AU04L037, Coordinates: -37.591, 144.838
+
+
+### Indigo
+
+Code: AU04L064, Coordinates: -36.229, 146.688
+
+
+### Knox
+
+Code: AU04L005, Coordinates: -37.884, 145.252
+
+
+### Loddon
+
+Code: AU04L058, Coordinates: -36.357, 143.877
+
+
+### Macedon Ranges
+
+Code: AU04L030, Coordinates: -37.333, 144.611
+
+
+### Manningham
+
+Code: AU04L070, Coordinates: -37.771, 145.177
+
+
+### Mansfield
+
+Code: AU04L055, Coordinates: -37.189, 146.218
+
+
+### Maribyrnong
+
+Code: AU04L052, Coordinates: -37.797, 144.878
+
+
+### Maroondah
+
+Code: AU04L010, Coordinates: -37.801, 145.27
+
+
+### Melbourne
+
+Code: AU04L043, Coordinates: -37.806, 144.951
+
+
+### Melton
+
+Code: AU04L018, Coordinates: -37.689, 144.629
+
+
+### Mildura
+
+Code: AU04L073, Coordinates: -34.876, 141.611
+
+
+### Mitchell
+
+Code: AU04L002, Coordinates: -37.099, 144.995
+
+
+### Moira
+
+Code: AU04L001, Coordinates: -36.007, 145.492
+
+
+### Monash
+
+Code: AU04L021, Coordinates: -37.892, 145.144
+
+
+### Moonee Valley
+
+Code: AU04L031, Coordinates: -37.744, 144.904
+
+
+### Moorabool
+
+Code: AU04L049, Coordinates: -37.616, 144.216
+
+
+### Moreland
+
+Code: AU04L045, Coordinates: -37.725, 144.952
+
+
+### Mornington Peninsula
+
+Code: AU04L017, Coordinates: -38.313, 145.091
+
+
+### Mount Alexander
+
+Code: AU04L072, Coordinates: -37.038, 144.158
+
+
+### Moyne
+
+Code: AU04L040, Coordinates: -38.096, 142.597
+
+
+### Murrindindi
+
+Code: AU04L023, Coordinates: -37.305, 145.622
+
+
+### Nillumbik
+
+Code: AU04L022, Coordinates: -37.622, 145.237
+
+
+### Northern Grampians
+
+Code: AU04L036, Coordinates: -36.838, 142.92
+
+
+### Port Phillip
+
+Code: AU04L062, Coordinates: -37.845, 144.967
+
+
+### Pyrenees
+
+Code: AU04L059, Coordinates: -37.387, 143.441
+
+
+### Queenscliffe
+
+Code: AU04L019, Coordinates: -38.267, 144.627
+
+
+### South Gippsland
+
+Code: AU04L020, Coordinates: -38.57, 146.038
+
+
+### Southern Grampians
+
+Code: AU04L004, Coordinates: -37.555, 142.022
+
+
+### Stonnington
+
+Code: AU04L032, Coordinates: -37.852, 145.029
+
+
+### Strathbogie
+
+Code: AU04L014, Coordinates: -36.785, 145.443
+
+
+### Surf Coast
+
+Code: AU04L028, Coordinates: -38.293, 144.049
+
+
+### Swan Hill
+
+Code: AU04L042, Coordinates: -34.973, 143.027
+
+
+### Towong
+
+Code: AU04L015, Coordinates: -36.349, 147.599
+
+
+### Wangaratta
+
+Code: AU04L054, Coordinates: -36.561, 146.428
+
+
+### Warrnambool
+
+Code: AU04L046, Coordinates: -38.352, 142.477
+
+
+### Wellington
+
+Code: AU04L071, Coordinates: -37.875, 146.933
+
+
+### West Wimmera
+
+Code: AU04L074, Coordinates: -36.828, 141.315
+
+
+### Whitehorse
+
+Code: AU04L026, Coordinates: -37.83, 145.155
+
+
+### Whittlesea
+
+Code: AU04L068, Coordinates: -37.555, 145.068
+
+
+### Wodonga
+
+Code: AU04L077, Coordinates: -36.164, 146.864
+
+
+### Wyndham
+
+Code: AU04L003, Coordinates: -37.899, 144.618
+
+
+### Yarra
+
+Code: AU04L012, Coordinates: -37.797, 144.987
+
+
+### Yarra Ranges
+
+Code: AU04L029, Coordinates: -37.754, 145.643
+
+
+### Yarriambiack
+
+Code: AU04L011, Coordinates: -36.007, 142.419
+
+

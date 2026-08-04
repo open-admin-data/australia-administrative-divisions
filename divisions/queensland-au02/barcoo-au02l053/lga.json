@@ -1,0 +1,45 @@
+{
+  "id": "AU02L053",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Barcoo",
+    "en": "Barcoo",
+    "slug": "barcoo-au02l053"
+  },
+  "code": {
+    "id": "AU02L053",
+    "iso": null
+  },
+  "parent": {
+    "id": "AU02",
+    "level": 1,
+    "name": {
+      "local": "Queensland",
+      "en": "Queensland",
+      "slug": "queensland-au02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AU02",
+      "level": 1,
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.993",
+    "lon": "142.417"
+  },
+  "metadata": {},
+  "source": {}
+}

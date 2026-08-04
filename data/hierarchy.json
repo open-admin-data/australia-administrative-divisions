@@ -1,0 +1,6716 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/au/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/australia-administrative-divisions",
+  "data": [
+    {
+      "id": "AU01",
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      },
+      "code": {
+        "id": "AU01",
+        "iso": null
+      },
+      "lga": [
+        {
+          "id": "AU01L001",
+          "name": {
+            "local": "Mandurah",
+            "en": "Mandurah",
+            "slug": "mandurah-au01l001"
+          },
+          "code": {
+            "id": "AU01L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L002",
+          "name": {
+            "local": "Joondalup",
+            "en": "Joondalup",
+            "slug": "joondalup-au01l002"
+          },
+          "code": {
+            "id": "AU01L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L003",
+          "name": {
+            "local": "Woodanilling",
+            "en": "Woodanilling",
+            "slug": "woodanilling-au01l003"
+          },
+          "code": {
+            "id": "AU01L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L004",
+          "name": {
+            "local": "Denmark",
+            "en": "Denmark",
+            "slug": "denmark-au01l004"
+          },
+          "code": {
+            "id": "AU01L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L005",
+          "name": {
+            "local": "Narembeen",
+            "en": "Narembeen",
+            "slug": "narembeen-au01l005"
+          },
+          "code": {
+            "id": "AU01L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L006",
+          "name": {
+            "local": "Toodyay",
+            "en": "Toodyay",
+            "slug": "toodyay-au01l006"
+          },
+          "code": {
+            "id": "AU01L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L007",
+          "name": {
+            "local": "Augusta-Margaret River",
+            "en": "Augusta-Margaret River",
+            "slug": "augusta-margaret-river-au01l007"
+          },
+          "code": {
+            "id": "AU01L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L008",
+          "name": {
+            "local": "Northampton",
+            "en": "Northampton",
+            "slug": "northampton-au01l008"
+          },
+          "code": {
+            "id": "AU01L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L009",
+          "name": {
+            "local": "Sandstone",
+            "en": "Sandstone",
+            "slug": "sandstone-au01l009"
+          },
+          "code": {
+            "id": "AU01L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L010",
+          "name": {
+            "local": "Corrigin",
+            "en": "Corrigin",
+            "slug": "corrigin-au01l010"
+          },
+          "code": {
+            "id": "AU01L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L011",
+          "name": {
+            "local": "Roebourne",
+            "en": "Roebourne",
+            "slug": "roebourne-au01l011"
+          },
+          "code": {
+            "id": "AU01L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L012",
+          "name": {
+            "local": "Vincent",
+            "en": "Vincent",
+            "slug": "vincent-au01l012"
+          },
+          "code": {
+            "id": "AU01L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L013",
+          "name": {
+            "local": "Trayning",
+            "en": "Trayning",
+            "slug": "trayning-au01l013"
+          },
+          "code": {
+            "id": "AU01L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L014",
+          "name": {
+            "local": "Broomehill-Tambellup",
+            "en": "Broomehill-Tambellup",
+            "slug": "broomehill-tambellup-au01l014"
+          },
+          "code": {
+            "id": "AU01L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L015",
+          "name": {
+            "local": "Northam",
+            "en": "Northam",
+            "slug": "northam-au01l015"
+          },
+          "code": {
+            "id": "AU01L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L016",
+          "name": {
+            "local": "Cuballing",
+            "en": "Cuballing",
+            "slug": "cuballing-au01l016"
+          },
+          "code": {
+            "id": "AU01L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L017",
+          "name": {
+            "local": "Stirling",
+            "en": "Stirling",
+            "slug": "stirling-au01l017"
+          },
+          "code": {
+            "id": "AU01L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L018",
+          "name": {
+            "local": "Chittering",
+            "en": "Chittering",
+            "slug": "chittering-au01l018"
+          },
+          "code": {
+            "id": "AU01L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L019",
+          "name": {
+            "local": "Ravensthorpe",
+            "en": "Ravensthorpe",
+            "slug": "ravensthorpe-au01l019"
+          },
+          "code": {
+            "id": "AU01L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L020",
+          "name": {
+            "local": "Coorow",
+            "en": "Coorow",
+            "slug": "coorow-au01l020"
+          },
+          "code": {
+            "id": "AU01L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L021",
+          "name": {
+            "local": "Bunbury",
+            "en": "Bunbury",
+            "slug": "bunbury-au01l021"
+          },
+          "code": {
+            "id": "AU01L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L022",
+          "name": {
+            "local": "Busselton",
+            "en": "Busselton",
+            "slug": "busselton-au01l022"
+          },
+          "code": {
+            "id": "AU01L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L023",
+          "name": {
+            "local": "Ashburton",
+            "en": "Ashburton",
+            "slug": "ashburton-au01l023"
+          },
+          "code": {
+            "id": "AU01L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L024",
+          "name": {
+            "local": "Kellerberrin",
+            "en": "Kellerberrin",
+            "slug": "kellerberrin-au01l024"
+          },
+          "code": {
+            "id": "AU01L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L025",
+          "name": {
+            "local": "Waroona",
+            "en": "Waroona",
+            "slug": "waroona-au01l025"
+          },
+          "code": {
+            "id": "AU01L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L026",
+          "name": {
+            "local": "Laverton",
+            "en": "Laverton",
+            "slug": "laverton-au01l026"
+          },
+          "code": {
+            "id": "AU01L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L027",
+          "name": {
+            "local": "Victoria Park",
+            "en": "Victoria Park",
+            "slug": "victoria-park-au01l027"
+          },
+          "code": {
+            "id": "AU01L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L028",
+          "name": {
+            "local": "Wickepin",
+            "en": "Wickepin",
+            "slug": "wickepin-au01l028"
+          },
+          "code": {
+            "id": "AU01L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L029",
+          "name": {
+            "local": "Albany",
+            "en": "Albany",
+            "slug": "albany-au01l029"
+          },
+          "code": {
+            "id": "AU01L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L030",
+          "name": {
+            "local": "Collie",
+            "en": "Collie",
+            "slug": "collie-au01l030"
+          },
+          "code": {
+            "id": "AU01L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L031",
+          "name": {
+            "local": "Kent",
+            "en": "Kent",
+            "slug": "kent-au01l031"
+          },
+          "code": {
+            "id": "AU01L031",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L032",
+          "name": {
+            "local": "Kojonup",
+            "en": "Kojonup",
+            "slug": "kojonup-au01l032"
+          },
+          "code": {
+            "id": "AU01L032",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L033",
+          "name": {
+            "local": "Ngaanyatjarraku",
+            "en": "Ngaanyatjarraku",
+            "slug": "ngaanyatjarraku-au01l033"
+          },
+          "code": {
+            "id": "AU01L033",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L034",
+          "name": {
+            "local": "Koorda",
+            "en": "Koorda",
+            "slug": "koorda-au01l034"
+          },
+          "code": {
+            "id": "AU01L034",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L035",
+          "name": {
+            "local": "Greater Geraldton",
+            "en": "Greater Geraldton",
+            "slug": "greater-geraldton-au01l035"
+          },
+          "code": {
+            "id": "AU01L035",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L036",
+          "name": {
+            "local": "Broome",
+            "en": "Broome",
+            "slug": "broome-au01l036"
+          },
+          "code": {
+            "id": "AU01L036",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L037",
+          "name": {
+            "local": "Shark Bay",
+            "en": "Shark Bay",
+            "slug": "shark-bay-au01l037"
+          },
+          "code": {
+            "id": "AU01L037",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L038",
+          "name": {
+            "local": "Mingenew",
+            "en": "Mingenew",
+            "slug": "mingenew-au01l038"
+          },
+          "code": {
+            "id": "AU01L038",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L039",
+          "name": {
+            "local": "Dundas",
+            "en": "Dundas",
+            "slug": "dundas-au01l039"
+          },
+          "code": {
+            "id": "AU01L039",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L040",
+          "name": {
+            "local": "Fremantle",
+            "en": "Fremantle",
+            "slug": "fremantle-au01l040"
+          },
+          "code": {
+            "id": "AU01L040",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L041",
+          "name": {
+            "local": "Irwin",
+            "en": "Irwin",
+            "slug": "irwin-au01l041"
+          },
+          "code": {
+            "id": "AU01L041",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L042",
+          "name": {
+            "local": "Pingelly",
+            "en": "Pingelly",
+            "slug": "pingelly-au01l042"
+          },
+          "code": {
+            "id": "AU01L042",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L043",
+          "name": {
+            "local": "East Fremantle",
+            "en": "East Fremantle",
+            "slug": "east-fremantle-au01l043"
+          },
+          "code": {
+            "id": "AU01L043",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L044",
+          "name": {
+            "local": "Derby-West Kimberley",
+            "en": "Derby-West Kimberley",
+            "slug": "derby-west-kimberley-au01l044"
+          },
+          "code": {
+            "id": "AU01L044",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L045",
+          "name": {
+            "local": "Bassendean",
+            "en": "Bassendean",
+            "slug": "bassendean-au01l045"
+          },
+          "code": {
+            "id": "AU01L045",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L046",
+          "name": {
+            "local": "Mount Marshall",
+            "en": "Mount Marshall",
+            "slug": "mount-marshall-au01l046"
+          },
+          "code": {
+            "id": "AU01L046",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L047",
+          "name": {
+            "local": "Dumbleyung",
+            "en": "Dumbleyung",
+            "slug": "dumbleyung-au01l047"
+          },
+          "code": {
+            "id": "AU01L047",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L048",
+          "name": {
+            "local": "Mukinbudin",
+            "en": "Mukinbudin",
+            "slug": "mukinbudin-au01l048"
+          },
+          "code": {
+            "id": "AU01L048",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L049",
+          "name": {
+            "local": "Cottesloe",
+            "en": "Cottesloe",
+            "slug": "cottesloe-au01l049"
+          },
+          "code": {
+            "id": "AU01L049",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L050",
+          "name": {
+            "local": "Menzies",
+            "en": "Menzies",
+            "slug": "menzies-au01l050"
+          },
+          "code": {
+            "id": "AU01L050",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L051",
+          "name": {
+            "local": "Narrogin",
+            "en": "Narrogin",
+            "slug": "narrogin-au01l051"
+          },
+          "code": {
+            "id": "AU01L051",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L052",
+          "name": {
+            "local": "Melville",
+            "en": "Melville",
+            "slug": "melville-au01l052"
+          },
+          "code": {
+            "id": "AU01L052",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L053",
+          "name": {
+            "local": "Lake Grace",
+            "en": "Lake Grace",
+            "slug": "lake-grace-au01l053"
+          },
+          "code": {
+            "id": "AU01L053",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L054",
+          "name": {
+            "local": "Capel",
+            "en": "Capel",
+            "slug": "capel-au01l054"
+          },
+          "code": {
+            "id": "AU01L054",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L055",
+          "name": {
+            "local": "Boyup Brook",
+            "en": "Boyup Brook",
+            "slug": "boyup-brook-au01l055"
+          },
+          "code": {
+            "id": "AU01L055",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L056",
+          "name": {
+            "local": "Armadale",
+            "en": "Armadale",
+            "slug": "armadale-au01l056"
+          },
+          "code": {
+            "id": "AU01L056",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L057",
+          "name": {
+            "local": "Wanneroo",
+            "en": "Wanneroo",
+            "slug": "wanneroo-au01l057"
+          },
+          "code": {
+            "id": "AU01L057",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L058",
+          "name": {
+            "local": "Port Hedland",
+            "en": "Port Hedland",
+            "slug": "port-hedland-au01l058"
+          },
+          "code": {
+            "id": "AU01L058",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L059",
+          "name": {
+            "local": "Carnarvon",
+            "en": "Carnarvon",
+            "slug": "carnarvon-au01l059"
+          },
+          "code": {
+            "id": "AU01L059",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L060",
+          "name": {
+            "local": "Katanning",
+            "en": "Katanning",
+            "slug": "katanning-au01l060"
+          },
+          "code": {
+            "id": "AU01L060",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L061",
+          "name": {
+            "local": "Bayswater",
+            "en": "Bayswater",
+            "slug": "bayswater-au01l061"
+          },
+          "code": {
+            "id": "AU01L061",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L062",
+          "name": {
+            "local": "Perth",
+            "en": "Perth",
+            "slug": "perth-au01l062"
+          },
+          "code": {
+            "id": "AU01L062",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L063",
+          "name": {
+            "local": "Yalgoo",
+            "en": "Yalgoo",
+            "slug": "yalgoo-au01l063"
+          },
+          "code": {
+            "id": "AU01L063",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L064",
+          "name": {
+            "local": "Brookton",
+            "en": "Brookton",
+            "slug": "brookton-au01l064"
+          },
+          "code": {
+            "id": "AU01L064",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L065",
+          "name": {
+            "local": "West Arthur",
+            "en": "West Arthur",
+            "slug": "west-arthur-au01l065"
+          },
+          "code": {
+            "id": "AU01L065",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L066",
+          "name": {
+            "local": "Carnamah",
+            "en": "Carnamah",
+            "slug": "carnamah-au01l066"
+          },
+          "code": {
+            "id": "AU01L066",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L067",
+          "name": {
+            "local": "Kalamunda",
+            "en": "Kalamunda",
+            "slug": "kalamunda-au01l067"
+          },
+          "code": {
+            "id": "AU01L067",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L068",
+          "name": {
+            "local": "Cambridge",
+            "en": "Cambridge",
+            "slug": "cambridge-au01l068"
+          },
+          "code": {
+            "id": "AU01L068",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L069",
+          "name": {
+            "local": "Moora",
+            "en": "Moora",
+            "slug": "moora-au01l069"
+          },
+          "code": {
+            "id": "AU01L069",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L070",
+          "name": {
+            "local": "Beverley",
+            "en": "Beverley",
+            "slug": "beverley-au01l070"
+          },
+          "code": {
+            "id": "AU01L070",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L071",
+          "name": {
+            "local": "Dalwallinu",
+            "en": "Dalwallinu",
+            "slug": "dalwallinu-au01l071"
+          },
+          "code": {
+            "id": "AU01L071",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L072",
+          "name": {
+            "local": "Cranbrook",
+            "en": "Cranbrook",
+            "slug": "cranbrook-au01l072"
+          },
+          "code": {
+            "id": "AU01L072",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L073",
+          "name": {
+            "local": "Nungarin",
+            "en": "Nungarin",
+            "slug": "nungarin-au01l073"
+          },
+          "code": {
+            "id": "AU01L073",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L074",
+          "name": {
+            "local": "Canning",
+            "en": "Canning",
+            "slug": "canning-au01l074"
+          },
+          "code": {
+            "id": "AU01L074",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L075",
+          "name": {
+            "local": "Manjimup",
+            "en": "Manjimup",
+            "slug": "manjimup-au01l075"
+          },
+          "code": {
+            "id": "AU01L075",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L076",
+          "name": {
+            "local": "Wandering",
+            "en": "Wandering",
+            "slug": "wandering-au01l076"
+          },
+          "code": {
+            "id": "AU01L076",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L077",
+          "name": {
+            "local": "Cunderdin",
+            "en": "Cunderdin",
+            "slug": "cunderdin-au01l077"
+          },
+          "code": {
+            "id": "AU01L077",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L078",
+          "name": {
+            "local": "Gnowangerup",
+            "en": "Gnowangerup",
+            "slug": "gnowangerup-au01l078"
+          },
+          "code": {
+            "id": "AU01L078",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L079",
+          "name": {
+            "local": "Donnybrook-Balingup",
+            "en": "Donnybrook-Balingup",
+            "slug": "donnybrook-balingup-au01l079"
+          },
+          "code": {
+            "id": "AU01L079",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L080",
+          "name": {
+            "local": "Victoria Plains",
+            "en": "Victoria Plains",
+            "slug": "victoria-plains-au01l080"
+          },
+          "code": {
+            "id": "AU01L080",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L081",
+          "name": {
+            "local": "Wagin",
+            "en": "Wagin",
+            "slug": "wagin-au01l081"
+          },
+          "code": {
+            "id": "AU01L081",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L082",
+          "name": {
+            "local": "Esperance",
+            "en": "Esperance",
+            "slug": "esperance-au01l082"
+          },
+          "code": {
+            "id": "AU01L082",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L083",
+          "name": {
+            "local": "Tammin",
+            "en": "Tammin",
+            "slug": "tammin-au01l083"
+          },
+          "code": {
+            "id": "AU01L083",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L084",
+          "name": {
+            "local": "Williams",
+            "en": "Williams",
+            "slug": "williams-au01l084"
+          },
+          "code": {
+            "id": "AU01L084",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L085",
+          "name": {
+            "local": "Wyndham-East Kimberley",
+            "en": "Wyndham-East Kimberley",
+            "slug": "wyndham-east-kimberley-au01l085"
+          },
+          "code": {
+            "id": "AU01L085",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L086",
+          "name": {
+            "local": "Claremont",
+            "en": "Claremont",
+            "slug": "claremont-au01l086"
+          },
+          "code": {
+            "id": "AU01L086",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L087",
+          "name": {
+            "local": "Gosnells",
+            "en": "Gosnells",
+            "slug": "gosnells-au01l087"
+          },
+          "code": {
+            "id": "AU01L087",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L088",
+          "name": {
+            "local": "East Pilbara",
+            "en": "East Pilbara",
+            "slug": "east-pilbara-au01l088"
+          },
+          "code": {
+            "id": "AU01L088",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L089",
+          "name": {
+            "local": "Belmont",
+            "en": "Belmont",
+            "slug": "belmont-au01l089"
+          },
+          "code": {
+            "id": "AU01L089",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L090",
+          "name": {
+            "local": "Kondinin",
+            "en": "Kondinin",
+            "slug": "kondinin-au01l090"
+          },
+          "code": {
+            "id": "AU01L090",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L091",
+          "name": {
+            "local": "Wongan-Ballidu",
+            "en": "Wongan-Ballidu",
+            "slug": "wongan-ballidu-au01l091"
+          },
+          "code": {
+            "id": "AU01L091",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L092",
+          "name": {
+            "local": "Upper Gascoyne",
+            "en": "Upper Gascoyne",
+            "slug": "upper-gascoyne-au01l092"
+          },
+          "code": {
+            "id": "AU01L092",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L093",
+          "name": {
+            "local": "Bridgetown-Greenbushes",
+            "en": "Bridgetown-Greenbushes",
+            "slug": "bridgetown-greenbushes-au01l093"
+          },
+          "code": {
+            "id": "AU01L093",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L094",
+          "name": {
+            "local": "Halls Creek",
+            "en": "Halls Creek",
+            "slug": "halls-creek-au01l094"
+          },
+          "code": {
+            "id": "AU01L094",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L095",
+          "name": {
+            "local": "Plantagenet",
+            "en": "Plantagenet",
+            "slug": "plantagenet-au01l095"
+          },
+          "code": {
+            "id": "AU01L095",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L096",
+          "name": {
+            "local": "Kwinana",
+            "en": "Kwinana",
+            "slug": "kwinana-au01l096"
+          },
+          "code": {
+            "id": "AU01L096",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L097",
+          "name": {
+            "local": "Bruce Rock",
+            "en": "Bruce Rock",
+            "slug": "bruce-rock-au01l097"
+          },
+          "code": {
+            "id": "AU01L097",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L098",
+          "name": {
+            "local": "York",
+            "en": "York",
+            "slug": "york-au01l098"
+          },
+          "code": {
+            "id": "AU01L098",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L099",
+          "name": {
+            "local": "Dardanup",
+            "en": "Dardanup",
+            "slug": "dardanup-au01l099"
+          },
+          "code": {
+            "id": "AU01L099",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L100",
+          "name": {
+            "local": "Morawa",
+            "en": "Morawa",
+            "slug": "morawa-au01l100"
+          },
+          "code": {
+            "id": "AU01L100",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L101",
+          "name": {
+            "local": "Peppermint Grove",
+            "en": "Peppermint Grove",
+            "slug": "peppermint-grove-au01l101"
+          },
+          "code": {
+            "id": "AU01L101",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L102",
+          "name": {
+            "local": "Goomalling",
+            "en": "Goomalling",
+            "slug": "goomalling-au01l102"
+          },
+          "code": {
+            "id": "AU01L102",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L103",
+          "name": {
+            "local": "Exmouth",
+            "en": "Exmouth",
+            "slug": "exmouth-au01l103"
+          },
+          "code": {
+            "id": "AU01L103",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L104",
+          "name": {
+            "local": "Nannup",
+            "en": "Nannup",
+            "slug": "nannup-au01l104"
+          },
+          "code": {
+            "id": "AU01L104",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L105",
+          "name": {
+            "local": "Subiaco",
+            "en": "Subiaco",
+            "slug": "subiaco-au01l105"
+          },
+          "code": {
+            "id": "AU01L105",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L106",
+          "name": {
+            "local": "Rockingham",
+            "en": "Rockingham",
+            "slug": "rockingham-au01l106"
+          },
+          "code": {
+            "id": "AU01L106",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L107",
+          "name": {
+            "local": "Cockburn",
+            "en": "Cockburn",
+            "slug": "cockburn-au01l107"
+          },
+          "code": {
+            "id": "AU01L107",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L108",
+          "name": {
+            "local": "Perenjori",
+            "en": "Perenjori",
+            "slug": "perenjori-au01l108"
+          },
+          "code": {
+            "id": "AU01L108",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L109",
+          "name": {
+            "local": "Leonora",
+            "en": "Leonora",
+            "slug": "leonora-au01l109"
+          },
+          "code": {
+            "id": "AU01L109",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L110",
+          "name": {
+            "local": "Mundaring",
+            "en": "Mundaring",
+            "slug": "mundaring-au01l110"
+          },
+          "code": {
+            "id": "AU01L110",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L111",
+          "name": {
+            "local": "Quairading",
+            "en": "Quairading",
+            "slug": "quairading-au01l111"
+          },
+          "code": {
+            "id": "AU01L111",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L112",
+          "name": {
+            "local": "Dowerin",
+            "en": "Dowerin",
+            "slug": "dowerin-au01l112"
+          },
+          "code": {
+            "id": "AU01L112",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L113",
+          "name": {
+            "local": "Westonia",
+            "en": "Westonia",
+            "slug": "westonia-au01l113"
+          },
+          "code": {
+            "id": "AU01L113",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L114",
+          "name": {
+            "local": "Mosman Park",
+            "en": "Mosman Park",
+            "slug": "mosman-park-au01l114"
+          },
+          "code": {
+            "id": "AU01L114",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L115",
+          "name": {
+            "local": "South Perth",
+            "en": "South Perth",
+            "slug": "south-perth-au01l115"
+          },
+          "code": {
+            "id": "AU01L115",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L116",
+          "name": {
+            "local": "Murchison",
+            "en": "Murchison",
+            "slug": "murchison-au01l116"
+          },
+          "code": {
+            "id": "AU01L116",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L117",
+          "name": {
+            "local": "Dandaragan",
+            "en": "Dandaragan",
+            "slug": "dandaragan-au01l117"
+          },
+          "code": {
+            "id": "AU01L117",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L118",
+          "name": {
+            "local": "Wiluna",
+            "en": "Wiluna",
+            "slug": "wiluna-au01l118"
+          },
+          "code": {
+            "id": "AU01L118",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L119",
+          "name": {
+            "local": "Kulin",
+            "en": "Kulin",
+            "slug": "kulin-au01l119"
+          },
+          "code": {
+            "id": "AU01L119",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L120",
+          "name": {
+            "local": "Serpentine-Jarrahdale",
+            "en": "Serpentine-Jarrahdale",
+            "slug": "serpentine-jarrahdale-au01l120"
+          },
+          "code": {
+            "id": "AU01L120",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L121",
+          "name": {
+            "local": "Cue",
+            "en": "Cue",
+            "slug": "cue-au01l121"
+          },
+          "code": {
+            "id": "AU01L121",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L122",
+          "name": {
+            "local": "Nedlands",
+            "en": "Nedlands",
+            "slug": "nedlands-au01l122"
+          },
+          "code": {
+            "id": "AU01L122",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L123",
+          "name": {
+            "local": "Kalgoorlie/Boulder",
+            "en": "Kalgoorlie/Boulder",
+            "slug": "kalgoorlie-boulder-au01l123"
+          },
+          "code": {
+            "id": "AU01L123",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L124",
+          "name": {
+            "local": "Meekatharra",
+            "en": "Meekatharra",
+            "slug": "meekatharra-au01l124"
+          },
+          "code": {
+            "id": "AU01L124",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L125",
+          "name": {
+            "local": "Boddington",
+            "en": "Boddington",
+            "slug": "boddington-au01l125"
+          },
+          "code": {
+            "id": "AU01L125",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L126",
+          "name": {
+            "local": "Wyalkatchem",
+            "en": "Wyalkatchem",
+            "slug": "wyalkatchem-au01l126"
+          },
+          "code": {
+            "id": "AU01L126",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L127",
+          "name": {
+            "local": "Gingin",
+            "en": "Gingin",
+            "slug": "gingin-au01l127"
+          },
+          "code": {
+            "id": "AU01L127",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L128",
+          "name": {
+            "local": "Merredin",
+            "en": "Merredin",
+            "slug": "merredin-au01l128"
+          },
+          "code": {
+            "id": "AU01L128",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L129",
+          "name": {
+            "local": "Harvey",
+            "en": "Harvey",
+            "slug": "harvey-au01l129"
+          },
+          "code": {
+            "id": "AU01L129",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L130",
+          "name": {
+            "local": "Three Springs",
+            "en": "Three Springs",
+            "slug": "three-springs-au01l130"
+          },
+          "code": {
+            "id": "AU01L130",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L131",
+          "name": {
+            "local": "Swan",
+            "en": "Swan",
+            "slug": "swan-au01l131"
+          },
+          "code": {
+            "id": "AU01L131",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L132",
+          "name": {
+            "local": "Yilgarn",
+            "en": "Yilgarn",
+            "slug": "yilgarn-au01l132"
+          },
+          "code": {
+            "id": "AU01L132",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L133",
+          "name": {
+            "local": "Coolgardie",
+            "en": "Coolgardie",
+            "slug": "coolgardie-au01l133"
+          },
+          "code": {
+            "id": "AU01L133",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L134",
+          "name": {
+            "local": "Jerramungup",
+            "en": "Jerramungup",
+            "slug": "jerramungup-au01l134"
+          },
+          "code": {
+            "id": "AU01L134",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L135",
+          "name": {
+            "local": "Mount Magnet",
+            "en": "Mount Magnet",
+            "slug": "mount-magnet-au01l135"
+          },
+          "code": {
+            "id": "AU01L135",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU01L136",
+          "name": {
+            "local": "Chapman Valley",
+            "en": "Chapman Valley",
+            "slug": "chapman-valley-au01l136"
+          },
+          "code": {
+            "id": "AU01L136",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "AU02",
+      "name": {
+        "local": "Queensland",
+        "en": "Queensland",
+        "slug": "queensland-au02"
+      },
+      "code": {
+        "id": "AU02",
+        "iso": null
+      },
+      "lga": [
+        {
+          "id": "AU02L001",
+          "name": {
+            "local": "Western Downs",
+            "en": "Western Downs",
+            "slug": "western-downs-au02l001"
+          },
+          "code": {
+            "id": "AU02L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L002",
+          "name": {
+            "local": "Torres Strait Island",
+            "en": "Torres Strait Island",
+            "slug": "torres-strait-island-au02l002"
+          },
+          "code": {
+            "id": "AU02L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L003",
+          "name": {
+            "local": "Townsville",
+            "en": "Townsville",
+            "slug": "townsville-au02l003"
+          },
+          "code": {
+            "id": "AU02L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L004",
+          "name": {
+            "local": "Weipa",
+            "en": "Weipa",
+            "slug": "weipa-au02l004"
+          },
+          "code": {
+            "id": "AU02L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L005",
+          "name": {
+            "local": "Tablelands",
+            "en": "Tablelands",
+            "slug": "tablelands-au02l005"
+          },
+          "code": {
+            "id": "AU02L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L006",
+          "name": {
+            "local": "Redland",
+            "en": "Redland",
+            "slug": "redland-au02l006"
+          },
+          "code": {
+            "id": "AU02L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L007",
+          "name": {
+            "local": "Ipswich",
+            "en": "Ipswich",
+            "slug": "ipswich-au02l007"
+          },
+          "code": {
+            "id": "AU02L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L008",
+          "name": {
+            "local": "Goondiwindi",
+            "en": "Goondiwindi",
+            "slug": "goondiwindi-au02l008"
+          },
+          "code": {
+            "id": "AU02L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L009",
+          "name": {
+            "local": "Wujal Wujal",
+            "en": "Wujal Wujal",
+            "slug": "wujal-wujal-au02l009"
+          },
+          "code": {
+            "id": "AU02L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L010",
+          "name": {
+            "local": "Mornington",
+            "en": "Mornington",
+            "slug": "mornington-au02l010"
+          },
+          "code": {
+            "id": "AU02L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L011",
+          "name": {
+            "local": "Diamantina",
+            "en": "Diamantina",
+            "slug": "diamantina-au02l011"
+          },
+          "code": {
+            "id": "AU02L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L012",
+          "name": {
+            "local": "Doomadgee",
+            "en": "Doomadgee",
+            "slug": "doomadgee-au02l012"
+          },
+          "code": {
+            "id": "AU02L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L013",
+          "name": {
+            "local": "Paroo",
+            "en": "Paroo",
+            "slug": "paroo-au02l013"
+          },
+          "code": {
+            "id": "AU02L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L014",
+          "name": {
+            "local": "Hinchinbrook",
+            "en": "Hinchinbrook",
+            "slug": "hinchinbrook-au02l014"
+          },
+          "code": {
+            "id": "AU02L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L015",
+          "name": {
+            "local": "Logan",
+            "en": "Logan",
+            "slug": "logan-au02l015"
+          },
+          "code": {
+            "id": "AU02L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L016",
+          "name": {
+            "local": "Murweh",
+            "en": "Murweh",
+            "slug": "murweh-au02l016"
+          },
+          "code": {
+            "id": "AU02L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L017",
+          "name": {
+            "local": "Bundaberg",
+            "en": "Bundaberg",
+            "slug": "bundaberg-au02l017"
+          },
+          "code": {
+            "id": "AU02L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L018",
+          "name": {
+            "local": "Croydon",
+            "en": "Croydon",
+            "slug": "croydon-au02l018"
+          },
+          "code": {
+            "id": "AU02L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L019",
+          "name": {
+            "local": "Cherbourg",
+            "en": "Cherbourg",
+            "slug": "cherbourg-au02l019"
+          },
+          "code": {
+            "id": "AU02L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L020",
+          "name": {
+            "local": "Aurukun",
+            "en": "Aurukun",
+            "slug": "aurukun-au02l020"
+          },
+          "code": {
+            "id": "AU02L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L021",
+          "name": {
+            "local": "Mackay",
+            "en": "Mackay",
+            "slug": "mackay-au02l021"
+          },
+          "code": {
+            "id": "AU02L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L022",
+          "name": {
+            "local": "Barcaldine",
+            "en": "Barcaldine",
+            "slug": "barcaldine-au02l022"
+          },
+          "code": {
+            "id": "AU02L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L023",
+          "name": {
+            "local": "Palm Island",
+            "en": "Palm Island",
+            "slug": "palm-island-au02l023"
+          },
+          "code": {
+            "id": "AU02L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L024",
+          "name": {
+            "local": "Rockhampton",
+            "en": "Rockhampton",
+            "slug": "rockhampton-au02l024"
+          },
+          "code": {
+            "id": "AU02L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L025",
+          "name": {
+            "local": "Burke",
+            "en": "Burke",
+            "slug": "burke-au02l025"
+          },
+          "code": {
+            "id": "AU02L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L026",
+          "name": {
+            "local": "Boulia",
+            "en": "Boulia",
+            "slug": "boulia-au02l026"
+          },
+          "code": {
+            "id": "AU02L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L027",
+          "name": {
+            "local": "South Burnett",
+            "en": "South Burnett",
+            "slug": "south-burnett-au02l027"
+          },
+          "code": {
+            "id": "AU02L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L028",
+          "name": {
+            "local": "Cloncurry",
+            "en": "Cloncurry",
+            "slug": "cloncurry-au02l028"
+          },
+          "code": {
+            "id": "AU02L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L029",
+          "name": {
+            "local": "Cairns",
+            "en": "Cairns",
+            "slug": "cairns-au02l029"
+          },
+          "code": {
+            "id": "AU02L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L030",
+          "name": {
+            "local": "Burdekin",
+            "en": "Burdekin",
+            "slug": "burdekin-au02l030"
+          },
+          "code": {
+            "id": "AU02L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L031",
+          "name": {
+            "local": "Northern Peninsula Area",
+            "en": "Northern Peninsula Area",
+            "slug": "northern-peninsula-area-au02l031"
+          },
+          "code": {
+            "id": "AU02L031",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L032",
+          "name": {
+            "local": "Scenic Rim",
+            "en": "Scenic Rim",
+            "slug": "scenic-rim-au02l032"
+          },
+          "code": {
+            "id": "AU02L032",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L033",
+          "name": {
+            "local": "Southern Downs",
+            "en": "Southern Downs",
+            "slug": "southern-downs-au02l033"
+          },
+          "code": {
+            "id": "AU02L033",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L034",
+          "name": {
+            "local": "Kowanyama",
+            "en": "Kowanyama",
+            "slug": "kowanyama-au02l034"
+          },
+          "code": {
+            "id": "AU02L034",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L035",
+          "name": {
+            "local": "Charters Towers",
+            "en": "Charters Towers",
+            "slug": "charters-towers-au02l035"
+          },
+          "code": {
+            "id": "AU02L035",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L036",
+          "name": {
+            "local": "Mapoon",
+            "en": "Mapoon",
+            "slug": "mapoon-au02l036"
+          },
+          "code": {
+            "id": "AU02L036",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L037",
+          "name": {
+            "local": "Yarrabah",
+            "en": "Yarrabah",
+            "slug": "yarrabah-au02l037"
+          },
+          "code": {
+            "id": "AU02L037",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L038",
+          "name": {
+            "local": "Lockyer Valley",
+            "en": "Lockyer Valley",
+            "slug": "lockyer-valley-au02l038"
+          },
+          "code": {
+            "id": "AU02L038",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L039",
+          "name": {
+            "local": "Richmond",
+            "en": "Richmond",
+            "slug": "richmond-au02l039"
+          },
+          "code": {
+            "id": "AU02L039",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L040",
+          "name": {
+            "local": "North Burnett",
+            "en": "North Burnett",
+            "slug": "north-burnett-au02l040"
+          },
+          "code": {
+            "id": "AU02L040",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L041",
+          "name": {
+            "local": "Maranoa",
+            "en": "Maranoa",
+            "slug": "maranoa-au02l041"
+          },
+          "code": {
+            "id": "AU02L041",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L042",
+          "name": {
+            "local": "Mount Isa",
+            "en": "Mount Isa",
+            "slug": "mount-isa-au02l042"
+          },
+          "code": {
+            "id": "AU02L042",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L043",
+          "name": {
+            "local": "Torres",
+            "en": "Torres",
+            "slug": "torres-au02l043"
+          },
+          "code": {
+            "id": "AU02L043",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L044",
+          "name": {
+            "local": "Moreton Bay",
+            "en": "Moreton Bay",
+            "slug": "moreton-bay-au02l044"
+          },
+          "code": {
+            "id": "AU02L044",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L045",
+          "name": {
+            "local": "Banana",
+            "en": "Banana",
+            "slug": "banana-au02l045"
+          },
+          "code": {
+            "id": "AU02L045",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L046",
+          "name": {
+            "local": "Blackall Tambo",
+            "en": "Blackall Tambo",
+            "slug": "blackall-tambo-au02l046"
+          },
+          "code": {
+            "id": "AU02L046",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L047",
+          "name": {
+            "local": "Cassowary Coast",
+            "en": "Cassowary Coast",
+            "slug": "cassowary-coast-au02l047"
+          },
+          "code": {
+            "id": "AU02L047",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L048",
+          "name": {
+            "local": "Woorabinda",
+            "en": "Woorabinda",
+            "slug": "woorabinda-au02l048"
+          },
+          "code": {
+            "id": "AU02L048",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L049",
+          "name": {
+            "local": "Etheridge",
+            "en": "Etheridge",
+            "slug": "etheridge-au02l049"
+          },
+          "code": {
+            "id": "AU02L049",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L050",
+          "name": {
+            "local": "Napranum",
+            "en": "Napranum",
+            "slug": "napranum-au02l050"
+          },
+          "code": {
+            "id": "AU02L050",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L051",
+          "name": {
+            "local": "Somerset",
+            "en": "Somerset",
+            "slug": "somerset-au02l051"
+          },
+          "code": {
+            "id": "AU02L051",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L052",
+          "name": {
+            "local": "Sunshine Coast",
+            "en": "Sunshine Coast",
+            "slug": "sunshine-coast-au02l052"
+          },
+          "code": {
+            "id": "AU02L052",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L053",
+          "name": {
+            "local": "Barcoo",
+            "en": "Barcoo",
+            "slug": "barcoo-au02l053"
+          },
+          "code": {
+            "id": "AU02L053",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L054",
+          "name": {
+            "local": "Isaac",
+            "en": "Isaac",
+            "slug": "isaac-au02l054"
+          },
+          "code": {
+            "id": "AU02L054",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L055",
+          "name": {
+            "local": "Pormpuraaw",
+            "en": "Pormpuraaw",
+            "slug": "pormpuraaw-au02l055"
+          },
+          "code": {
+            "id": "AU02L055",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L056",
+          "name": {
+            "local": "Toowoomba",
+            "en": "Toowoomba",
+            "slug": "toowoomba-au02l056"
+          },
+          "code": {
+            "id": "AU02L056",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L057",
+          "name": {
+            "local": "Gold Coast",
+            "en": "Gold Coast",
+            "slug": "gold-coast-au02l057"
+          },
+          "code": {
+            "id": "AU02L057",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L058",
+          "name": {
+            "local": "Quilpie",
+            "en": "Quilpie",
+            "slug": "quilpie-au02l058"
+          },
+          "code": {
+            "id": "AU02L058",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L059",
+          "name": {
+            "local": "Cook",
+            "en": "Cook",
+            "slug": "cook-au02l059"
+          },
+          "code": {
+            "id": "AU02L059",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L060",
+          "name": {
+            "local": "Winton",
+            "en": "Winton",
+            "slug": "winton-au02l060"
+          },
+          "code": {
+            "id": "AU02L060",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L061",
+          "name": {
+            "local": "Hope Vale",
+            "en": "Hope Vale",
+            "slug": "hope-vale-au02l061"
+          },
+          "code": {
+            "id": "AU02L061",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L062",
+          "name": {
+            "local": "Gympie",
+            "en": "Gympie",
+            "slug": "gympie-au02l062"
+          },
+          "code": {
+            "id": "AU02L062",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L063",
+          "name": {
+            "local": "Longreach",
+            "en": "Longreach",
+            "slug": "longreach-au02l063"
+          },
+          "code": {
+            "id": "AU02L063",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L064",
+          "name": {
+            "local": "Bulloo",
+            "en": "Bulloo",
+            "slug": "bulloo-au02l064"
+          },
+          "code": {
+            "id": "AU02L064",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L065",
+          "name": {
+            "local": "Fraser Coast",
+            "en": "Fraser Coast",
+            "slug": "fraser-coast-au02l065"
+          },
+          "code": {
+            "id": "AU02L065",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L066",
+          "name": {
+            "local": "Carpentaria",
+            "en": "Carpentaria",
+            "slug": "carpentaria-au02l066"
+          },
+          "code": {
+            "id": "AU02L066",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L067",
+          "name": {
+            "local": "Gladstone",
+            "en": "Gladstone",
+            "slug": "gladstone-au02l067"
+          },
+          "code": {
+            "id": "AU02L067",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L068",
+          "name": {
+            "local": "McKinlay",
+            "en": "McKinlay",
+            "slug": "mckinlay-au02l068"
+          },
+          "code": {
+            "id": "AU02L068",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L069",
+          "name": {
+            "local": "Brisbane",
+            "en": "Brisbane",
+            "slug": "brisbane-au02l069"
+          },
+          "code": {
+            "id": "AU02L069",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L070",
+          "name": {
+            "local": "Balonne",
+            "en": "Balonne",
+            "slug": "balonne-au02l070"
+          },
+          "code": {
+            "id": "AU02L070",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L071",
+          "name": {
+            "local": "Lockhart River",
+            "en": "Lockhart River",
+            "slug": "lockhart-river-au02l071"
+          },
+          "code": {
+            "id": "AU02L071",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU02L072",
+          "name": {
+            "local": "Whitsunday",
+            "en": "Whitsunday",
+            "slug": "whitsunday-au02l072"
+          },
+          "code": {
+            "id": "AU02L072",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "AU03",
+      "name": {
+        "local": "Australian Capital Territory",
+        "en": "Australian Capital Territory",
+        "slug": "australian-capital-territory-au03"
+      },
+      "code": {
+        "id": "AU03",
+        "iso": null
+      },
+      "lga": []
+    },
+    {
+      "id": "AU04",
+      "name": {
+        "local": "Victoria",
+        "en": "Victoria",
+        "slug": "victoria-au04"
+      },
+      "code": {
+        "id": "AU04",
+        "iso": null
+      },
+      "lga": [
+        {
+          "id": "AU04L001",
+          "name": {
+            "local": "Moira",
+            "en": "Moira",
+            "slug": "moira-au04l001"
+          },
+          "code": {
+            "id": "AU04L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L002",
+          "name": {
+            "local": "Mitchell",
+            "en": "Mitchell",
+            "slug": "mitchell-au04l002"
+          },
+          "code": {
+            "id": "AU04L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L003",
+          "name": {
+            "local": "Wyndham",
+            "en": "Wyndham",
+            "slug": "wyndham-au04l003"
+          },
+          "code": {
+            "id": "AU04L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L004",
+          "name": {
+            "local": "Southern Grampians",
+            "en": "Southern Grampians",
+            "slug": "southern-grampians-au04l004"
+          },
+          "code": {
+            "id": "AU04L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L005",
+          "name": {
+            "local": "Knox",
+            "en": "Knox",
+            "slug": "knox-au04l005"
+          },
+          "code": {
+            "id": "AU04L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L006",
+          "name": {
+            "local": "Glen Eira",
+            "en": "Glen Eira",
+            "slug": "glen-eira-au04l006"
+          },
+          "code": {
+            "id": "AU04L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L007",
+          "name": {
+            "local": "Hindmarsh",
+            "en": "Hindmarsh",
+            "slug": "hindmarsh-au04l007"
+          },
+          "code": {
+            "id": "AU04L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L008",
+          "name": {
+            "local": "Baw Baw",
+            "en": "Baw Baw",
+            "slug": "baw-baw-au04l008"
+          },
+          "code": {
+            "id": "AU04L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L009",
+          "name": {
+            "local": "Horsham",
+            "en": "Horsham",
+            "slug": "horsham-au04l009"
+          },
+          "code": {
+            "id": "AU04L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L010",
+          "name": {
+            "local": "Maroondah",
+            "en": "Maroondah",
+            "slug": "maroondah-au04l010"
+          },
+          "code": {
+            "id": "AU04L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L011",
+          "name": {
+            "local": "Yarriambiack",
+            "en": "Yarriambiack",
+            "slug": "yarriambiack-au04l011"
+          },
+          "code": {
+            "id": "AU04L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L012",
+          "name": {
+            "local": "Yarra",
+            "en": "Yarra",
+            "slug": "yarra-au04l012"
+          },
+          "code": {
+            "id": "AU04L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L013",
+          "name": {
+            "local": "Frankston",
+            "en": "Frankston",
+            "slug": "frankston-au04l013"
+          },
+          "code": {
+            "id": "AU04L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L014",
+          "name": {
+            "local": "Strathbogie",
+            "en": "Strathbogie",
+            "slug": "strathbogie-au04l014"
+          },
+          "code": {
+            "id": "AU04L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L015",
+          "name": {
+            "local": "Towong",
+            "en": "Towong",
+            "slug": "towong-au04l015"
+          },
+          "code": {
+            "id": "AU04L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L016",
+          "name": {
+            "local": "Casey",
+            "en": "Casey",
+            "slug": "casey-au04l016"
+          },
+          "code": {
+            "id": "AU04L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L017",
+          "name": {
+            "local": "Mornington Peninsula",
+            "en": "Mornington Peninsula",
+            "slug": "mornington-peninsula-au04l017"
+          },
+          "code": {
+            "id": "AU04L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L018",
+          "name": {
+            "local": "Melton",
+            "en": "Melton",
+            "slug": "melton-au04l018"
+          },
+          "code": {
+            "id": "AU04L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L019",
+          "name": {
+            "local": "Queenscliffe",
+            "en": "Queenscliffe",
+            "slug": "queenscliffe-au04l019"
+          },
+          "code": {
+            "id": "AU04L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L020",
+          "name": {
+            "local": "South Gippsland",
+            "en": "South Gippsland",
+            "slug": "south-gippsland-au04l020"
+          },
+          "code": {
+            "id": "AU04L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L021",
+          "name": {
+            "local": "Monash",
+            "en": "Monash",
+            "slug": "monash-au04l021"
+          },
+          "code": {
+            "id": "AU04L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L022",
+          "name": {
+            "local": "Nillumbik",
+            "en": "Nillumbik",
+            "slug": "nillumbik-au04l022"
+          },
+          "code": {
+            "id": "AU04L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L023",
+          "name": {
+            "local": "Murrindindi",
+            "en": "Murrindindi",
+            "slug": "murrindindi-au04l023"
+          },
+          "code": {
+            "id": "AU04L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L024",
+          "name": {
+            "local": "Central Goldfields",
+            "en": "Central Goldfields",
+            "slug": "central-goldfields-au04l024"
+          },
+          "code": {
+            "id": "AU04L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L025",
+          "name": {
+            "local": "Cardinia",
+            "en": "Cardinia",
+            "slug": "cardinia-au04l025"
+          },
+          "code": {
+            "id": "AU04L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L026",
+          "name": {
+            "local": "Whitehorse",
+            "en": "Whitehorse",
+            "slug": "whitehorse-au04l026"
+          },
+          "code": {
+            "id": "AU04L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L027",
+          "name": {
+            "local": "Darebin",
+            "en": "Darebin",
+            "slug": "darebin-au04l027"
+          },
+          "code": {
+            "id": "AU04L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L028",
+          "name": {
+            "local": "Surf Coast",
+            "en": "Surf Coast",
+            "slug": "surf-coast-au04l028"
+          },
+          "code": {
+            "id": "AU04L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L029",
+          "name": {
+            "local": "Yarra Ranges",
+            "en": "Yarra Ranges",
+            "slug": "yarra-ranges-au04l029"
+          },
+          "code": {
+            "id": "AU04L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L030",
+          "name": {
+            "local": "Macedon Ranges",
+            "en": "Macedon Ranges",
+            "slug": "macedon-ranges-au04l030"
+          },
+          "code": {
+            "id": "AU04L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L031",
+          "name": {
+            "local": "Moonee Valley",
+            "en": "Moonee Valley",
+            "slug": "moonee-valley-au04l031"
+          },
+          "code": {
+            "id": "AU04L031",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L032",
+          "name": {
+            "local": "Stonnington",
+            "en": "Stonnington",
+            "slug": "stonnington-au04l032"
+          },
+          "code": {
+            "id": "AU04L032",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L033",
+          "name": {
+            "local": "Golden Plains",
+            "en": "Golden Plains",
+            "slug": "golden-plains-au04l033"
+          },
+          "code": {
+            "id": "AU04L033",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L034",
+          "name": {
+            "local": "Ballarat",
+            "en": "Ballarat",
+            "slug": "ballarat-au04l034"
+          },
+          "code": {
+            "id": "AU04L034",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L035",
+          "name": {
+            "local": "East Gippsland",
+            "en": "East Gippsland",
+            "slug": "east-gippsland-au04l035"
+          },
+          "code": {
+            "id": "AU04L035",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L036",
+          "name": {
+            "local": "Northern Grampians",
+            "en": "Northern Grampians",
+            "slug": "northern-grampians-au04l036"
+          },
+          "code": {
+            "id": "AU04L036",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L037",
+          "name": {
+            "local": "Hume",
+            "en": "Hume",
+            "slug": "hume-au04l037"
+          },
+          "code": {
+            "id": "AU04L037",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L038",
+          "name": {
+            "local": "Bass Coast",
+            "en": "Bass Coast",
+            "slug": "bass-coast-au04l038"
+          },
+          "code": {
+            "id": "AU04L038",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L039",
+          "name": {
+            "local": "Hobsons Bay",
+            "en": "Hobsons Bay",
+            "slug": "hobsons-bay-au04l039"
+          },
+          "code": {
+            "id": "AU04L039",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L040",
+          "name": {
+            "local": "Moyne",
+            "en": "Moyne",
+            "slug": "moyne-au04l040"
+          },
+          "code": {
+            "id": "AU04L040",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L041",
+          "name": {
+            "local": "Colac-Otway",
+            "en": "Colac-Otway",
+            "slug": "colac-otway-au04l041"
+          },
+          "code": {
+            "id": "AU04L041",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L042",
+          "name": {
+            "local": "Swan Hill",
+            "en": "Swan Hill",
+            "slug": "swan-hill-au04l042"
+          },
+          "code": {
+            "id": "AU04L042",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L043",
+          "name": {
+            "local": "Melbourne",
+            "en": "Melbourne",
+            "slug": "melbourne-au04l043"
+          },
+          "code": {
+            "id": "AU04L043",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L044",
+          "name": {
+            "local": "Bayside",
+            "en": "Bayside",
+            "slug": "bayside-au04l044"
+          },
+          "code": {
+            "id": "AU04L044",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L045",
+          "name": {
+            "local": "Moreland",
+            "en": "Moreland",
+            "slug": "moreland-au04l045"
+          },
+          "code": {
+            "id": "AU04L045",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L046",
+          "name": {
+            "local": "Warrnambool",
+            "en": "Warrnambool",
+            "slug": "warrnambool-au04l046"
+          },
+          "code": {
+            "id": "AU04L046",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L047",
+          "name": {
+            "local": "Boroondara",
+            "en": "Boroondara",
+            "slug": "boroondara-au04l047"
+          },
+          "code": {
+            "id": "AU04L047",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L048",
+          "name": {
+            "local": "Benalla",
+            "en": "Benalla",
+            "slug": "benalla-au04l048"
+          },
+          "code": {
+            "id": "AU04L048",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L049",
+          "name": {
+            "local": "Moorabool",
+            "en": "Moorabool",
+            "slug": "moorabool-au04l049"
+          },
+          "code": {
+            "id": "AU04L049",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L050",
+          "name": {
+            "local": "Corangamite",
+            "en": "Corangamite",
+            "slug": "corangamite-au04l050"
+          },
+          "code": {
+            "id": "AU04L050",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L051",
+          "name": {
+            "local": "Banyule",
+            "en": "Banyule",
+            "slug": "banyule-au04l051"
+          },
+          "code": {
+            "id": "AU04L051",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L052",
+          "name": {
+            "local": "Maribyrnong",
+            "en": "Maribyrnong",
+            "slug": "maribyrnong-au04l052"
+          },
+          "code": {
+            "id": "AU04L052",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L053",
+          "name": {
+            "local": "Gannawarra",
+            "en": "Gannawarra",
+            "slug": "gannawarra-au04l053"
+          },
+          "code": {
+            "id": "AU04L053",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L054",
+          "name": {
+            "local": "Wangaratta",
+            "en": "Wangaratta",
+            "slug": "wangaratta-au04l054"
+          },
+          "code": {
+            "id": "AU04L054",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L055",
+          "name": {
+            "local": "Mansfield",
+            "en": "Mansfield",
+            "slug": "mansfield-au04l055"
+          },
+          "code": {
+            "id": "AU04L055",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L056",
+          "name": {
+            "local": "Alpine",
+            "en": "Alpine",
+            "slug": "alpine-au04l056"
+          },
+          "code": {
+            "id": "AU04L056",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L057",
+          "name": {
+            "local": "Greater Shepparton",
+            "en": "Greater Shepparton",
+            "slug": "greater-shepparton-au04l057"
+          },
+          "code": {
+            "id": "AU04L057",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L058",
+          "name": {
+            "local": "Loddon",
+            "en": "Loddon",
+            "slug": "loddon-au04l058"
+          },
+          "code": {
+            "id": "AU04L058",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L059",
+          "name": {
+            "local": "Pyrenees",
+            "en": "Pyrenees",
+            "slug": "pyrenees-au04l059"
+          },
+          "code": {
+            "id": "AU04L059",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L060",
+          "name": {
+            "local": "Brimbank",
+            "en": "Brimbank",
+            "slug": "brimbank-au04l060"
+          },
+          "code": {
+            "id": "AU04L060",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L061",
+          "name": {
+            "local": "Campaspe",
+            "en": "Campaspe",
+            "slug": "campaspe-au04l061"
+          },
+          "code": {
+            "id": "AU04L061",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L062",
+          "name": {
+            "local": "Port Phillip",
+            "en": "Port Phillip",
+            "slug": "port-phillip-au04l062"
+          },
+          "code": {
+            "id": "AU04L062",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L063",
+          "name": {
+            "local": "Ararat",
+            "en": "Ararat",
+            "slug": "ararat-au04l063"
+          },
+          "code": {
+            "id": "AU04L063",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L064",
+          "name": {
+            "local": "Indigo",
+            "en": "Indigo",
+            "slug": "indigo-au04l064"
+          },
+          "code": {
+            "id": "AU04L064",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L065",
+          "name": {
+            "local": "Hepburn",
+            "en": "Hepburn",
+            "slug": "hepburn-au04l065"
+          },
+          "code": {
+            "id": "AU04L065",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L066",
+          "name": {
+            "local": "Buloke",
+            "en": "Buloke",
+            "slug": "buloke-au04l066"
+          },
+          "code": {
+            "id": "AU04L066",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L067",
+          "name": {
+            "local": "Greater Geelong",
+            "en": "Greater Geelong",
+            "slug": "greater-geelong-au04l067"
+          },
+          "code": {
+            "id": "AU04L067",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L068",
+          "name": {
+            "local": "Whittlesea",
+            "en": "Whittlesea",
+            "slug": "whittlesea-au04l068"
+          },
+          "code": {
+            "id": "AU04L068",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L069",
+          "name": {
+            "local": "Glenelg",
+            "en": "Glenelg",
+            "slug": "glenelg-au04l069"
+          },
+          "code": {
+            "id": "AU04L069",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L070",
+          "name": {
+            "local": "Manningham",
+            "en": "Manningham",
+            "slug": "manningham-au04l070"
+          },
+          "code": {
+            "id": "AU04L070",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L071",
+          "name": {
+            "local": "Wellington",
+            "en": "Wellington",
+            "slug": "wellington-au04l071"
+          },
+          "code": {
+            "id": "AU04L071",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L072",
+          "name": {
+            "local": "Mount Alexander",
+            "en": "Mount Alexander",
+            "slug": "mount-alexander-au04l072"
+          },
+          "code": {
+            "id": "AU04L072",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L073",
+          "name": {
+            "local": "Mildura",
+            "en": "Mildura",
+            "slug": "mildura-au04l073"
+          },
+          "code": {
+            "id": "AU04L073",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L074",
+          "name": {
+            "local": "West Wimmera",
+            "en": "West Wimmera",
+            "slug": "west-wimmera-au04l074"
+          },
+          "code": {
+            "id": "AU04L074",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L075",
+          "name": {
+            "local": "Greater Dandenong",
+            "en": "Greater Dandenong",
+            "slug": "greater-dandenong-au04l075"
+          },
+          "code": {
+            "id": "AU04L075",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L076",
+          "name": {
+            "local": "Greater Bendigo",
+            "en": "Greater Bendigo",
+            "slug": "greater-bendigo-au04l076"
+          },
+          "code": {
+            "id": "AU04L076",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU04L077",
+          "name": {
+            "local": "Wodonga",
+            "en": "Wodonga",
+            "slug": "wodonga-au04l077"
+          },
+          "code": {
+            "id": "AU04L077",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "AU05",
+      "name": {
+        "local": "South Australia",
+        "en": "South Australia",
+        "slug": "south-australia-au05"
+      },
+      "code": {
+        "id": "AU05",
+        "iso": null
+      },
+      "lga": [
+        {
+          "id": "AU05L001",
+          "name": {
+            "local": "Clare and Gilbert Valleys",
+            "en": "Clare and Gilbert Valleys",
+            "slug": "clare-and-gilbert-valleys-au05l001"
+          },
+          "code": {
+            "id": "AU05L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L002",
+          "name": {
+            "local": "Onkaparinga",
+            "en": "Onkaparinga",
+            "slug": "onkaparinga-au05l002"
+          },
+          "code": {
+            "id": "AU05L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L003",
+          "name": {
+            "local": "Unley",
+            "en": "Unley",
+            "slug": "unley-au05l003"
+          },
+          "code": {
+            "id": "AU05L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L004",
+          "name": {
+            "local": "Burnside",
+            "en": "Burnside",
+            "slug": "burnside-au05l004"
+          },
+          "code": {
+            "id": "AU05L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L005",
+          "name": {
+            "local": "Murray Bridge",
+            "en": "Murray Bridge",
+            "slug": "murray-bridge-au05l005"
+          },
+          "code": {
+            "id": "AU05L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L006",
+          "name": {
+            "local": "Gawler",
+            "en": "Gawler",
+            "slug": "gawler-au05l006"
+          },
+          "code": {
+            "id": "AU05L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L007",
+          "name": {
+            "local": "Mount Gambier",
+            "en": "Mount Gambier",
+            "slug": "mount-gambier-au05l007"
+          },
+          "code": {
+            "id": "AU05L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L008",
+          "name": {
+            "local": "Port Augusta",
+            "en": "Port Augusta",
+            "slug": "port-augusta-au05l008"
+          },
+          "code": {
+            "id": "AU05L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L009",
+          "name": {
+            "local": "Mallala",
+            "en": "Mallala",
+            "slug": "mallala-au05l009"
+          },
+          "code": {
+            "id": "AU05L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L010",
+          "name": {
+            "local": "Ceduna",
+            "en": "Ceduna",
+            "slug": "ceduna-au05l010"
+          },
+          "code": {
+            "id": "AU05L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L011",
+          "name": {
+            "local": "Berri and Barmera",
+            "en": "Berri and Barmera",
+            "slug": "berri-and-barmera-au05l011"
+          },
+          "code": {
+            "id": "AU05L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L012",
+          "name": {
+            "local": "Wattle Range",
+            "en": "Wattle Range",
+            "slug": "wattle-range-au05l012"
+          },
+          "code": {
+            "id": "AU05L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L013",
+          "name": {
+            "local": "Franklin Harbour",
+            "en": "Franklin Harbour",
+            "slug": "franklin-harbour-au05l013"
+          },
+          "code": {
+            "id": "AU05L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L014",
+          "name": {
+            "local": "Renmark Paringa",
+            "en": "Renmark Paringa",
+            "slug": "renmark-paringa-au05l014"
+          },
+          "code": {
+            "id": "AU05L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L015",
+          "name": {
+            "local": "Whyalla",
+            "en": "Whyalla",
+            "slug": "whyalla-au05l015"
+          },
+          "code": {
+            "id": "AU05L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L016",
+          "name": {
+            "local": "Adelaide",
+            "en": "Adelaide",
+            "slug": "adelaide-au05l016"
+          },
+          "code": {
+            "id": "AU05L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L017",
+          "name": {
+            "local": "Barossa",
+            "en": "Barossa",
+            "slug": "barossa-au05l017"
+          },
+          "code": {
+            "id": "AU05L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L018",
+          "name": {
+            "local": "Salisbury",
+            "en": "Salisbury",
+            "slug": "salisbury-au05l018"
+          },
+          "code": {
+            "id": "AU05L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L019",
+          "name": {
+            "local": "Barunga West",
+            "en": "Barunga West",
+            "slug": "barunga-west-au05l019"
+          },
+          "code": {
+            "id": "AU05L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L020",
+          "name": {
+            "local": "Alexandrina",
+            "en": "Alexandrina",
+            "slug": "alexandrina-au05l020"
+          },
+          "code": {
+            "id": "AU05L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L021",
+          "name": {
+            "local": "Norwood Payneham St Peters",
+            "en": "Norwood Payneham St Peters",
+            "slug": "norwood-payneham-st-peters-au05l021"
+          },
+          "code": {
+            "id": "AU05L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L022",
+          "name": {
+            "local": "Port Adelaide Enfield",
+            "en": "Port Adelaide Enfield",
+            "slug": "port-adelaide-enfield-au05l022"
+          },
+          "code": {
+            "id": "AU05L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L023",
+          "name": {
+            "local": "Port Lincoln",
+            "en": "Port Lincoln",
+            "slug": "port-lincoln-au05l023"
+          },
+          "code": {
+            "id": "AU05L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L024",
+          "name": {
+            "local": "Tatiara",
+            "en": "Tatiara",
+            "slug": "tatiara-au05l024"
+          },
+          "code": {
+            "id": "AU05L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L025",
+          "name": {
+            "local": "The Coorong",
+            "en": "The Coorong",
+            "slug": "the-coorong-au05l025"
+          },
+          "code": {
+            "id": "AU05L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L026",
+          "name": {
+            "local": "Prospect",
+            "en": "Prospect",
+            "slug": "prospect-au05l026"
+          },
+          "code": {
+            "id": "AU05L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L027",
+          "name": {
+            "local": "Mount Barker",
+            "en": "Mount Barker",
+            "slug": "mount-barker-au05l027"
+          },
+          "code": {
+            "id": "AU05L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L028",
+          "name": {
+            "local": "Robe",
+            "en": "Robe",
+            "slug": "robe-au05l028"
+          },
+          "code": {
+            "id": "AU05L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L029",
+          "name": {
+            "local": "Maralinga Tjarutja",
+            "en": "Maralinga Tjarutja",
+            "slug": "maralinga-tjarutja-au05l029"
+          },
+          "code": {
+            "id": "AU05L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L030",
+          "name": {
+            "local": "Cleve",
+            "en": "Cleve",
+            "slug": "cleve-au05l030"
+          },
+          "code": {
+            "id": "AU05L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L031",
+          "name": {
+            "local": "Flinders Ranges",
+            "en": "Flinders Ranges",
+            "slug": "flinders-ranges-au05l031"
+          },
+          "code": {
+            "id": "AU05L031",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L032",
+          "name": {
+            "local": "Wudinna",
+            "en": "Wudinna",
+            "slug": "wudinna-au05l032"
+          },
+          "code": {
+            "id": "AU05L032",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L033",
+          "name": {
+            "local": "Mid Murray",
+            "en": "Mid Murray",
+            "slug": "mid-murray-au05l033"
+          },
+          "code": {
+            "id": "AU05L033",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L034",
+          "name": {
+            "local": "Adelaide Hills",
+            "en": "Adelaide Hills",
+            "slug": "adelaide-hills-au05l034"
+          },
+          "code": {
+            "id": "AU05L034",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L035",
+          "name": {
+            "local": "Marion",
+            "en": "Marion",
+            "slug": "marion-au05l035"
+          },
+          "code": {
+            "id": "AU05L035",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L036",
+          "name": {
+            "local": "Mount Remarkable",
+            "en": "Mount Remarkable",
+            "slug": "mount-remarkable-au05l036"
+          },
+          "code": {
+            "id": "AU05L036",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L037",
+          "name": {
+            "local": "Elliston",
+            "en": "Elliston",
+            "slug": "elliston-au05l037"
+          },
+          "code": {
+            "id": "AU05L037",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L038",
+          "name": {
+            "local": "Kangaroo Island",
+            "en": "Kangaroo Island",
+            "slug": "kangaroo-island-au05l038"
+          },
+          "code": {
+            "id": "AU05L038",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L039",
+          "name": {
+            "local": "Roxby Downs",
+            "en": "Roxby Downs",
+            "slug": "roxby-downs-au05l039"
+          },
+          "code": {
+            "id": "AU05L039",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L040",
+          "name": {
+            "local": "Grant",
+            "en": "Grant",
+            "slug": "grant-au05l040"
+          },
+          "code": {
+            "id": "AU05L040",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L041",
+          "name": {
+            "local": "Kingston",
+            "en": "Kingston",
+            "slug": "kingston-au05l041"
+          },
+          "code": {
+            "id": "AU05L041",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L042",
+          "name": {
+            "local": "Southern Mallee",
+            "en": "Southern Mallee",
+            "slug": "southern-mallee-au05l042"
+          },
+          "code": {
+            "id": "AU05L042",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L043",
+          "name": {
+            "local": "Walkerville",
+            "en": "Walkerville",
+            "slug": "walkerville-au05l043"
+          },
+          "code": {
+            "id": "AU05L043",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L044",
+          "name": {
+            "local": "Streaky Bay",
+            "en": "Streaky Bay",
+            "slug": "streaky-bay-au05l044"
+          },
+          "code": {
+            "id": "AU05L044",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L045",
+          "name": {
+            "local": "Holdfast Bay",
+            "en": "Holdfast Bay",
+            "slug": "holdfast-bay-au05l045"
+          },
+          "code": {
+            "id": "AU05L045",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L046",
+          "name": {
+            "local": "Light",
+            "en": "Light",
+            "slug": "light-au05l046"
+          },
+          "code": {
+            "id": "AU05L046",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L047",
+          "name": {
+            "local": "Charles Sturt",
+            "en": "Charles Sturt",
+            "slug": "charles-sturt-au05l047"
+          },
+          "code": {
+            "id": "AU05L047",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L048",
+          "name": {
+            "local": "Naracoorte and Lucindale",
+            "en": "Naracoorte and Lucindale",
+            "slug": "naracoorte-and-lucindale-au05l048"
+          },
+          "code": {
+            "id": "AU05L048",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L049",
+          "name": {
+            "local": "Peterborough",
+            "en": "Peterborough",
+            "slug": "peterborough-au05l049"
+          },
+          "code": {
+            "id": "AU05L049",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L050",
+          "name": {
+            "local": "Tumby Bay",
+            "en": "Tumby Bay",
+            "slug": "tumby-bay-au05l050"
+          },
+          "code": {
+            "id": "AU05L050",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L051",
+          "name": {
+            "local": "Port Pirie City and Dists",
+            "en": "Port Pirie City and Dists",
+            "slug": "port-pirie-city-and-dists-au05l051"
+          },
+          "code": {
+            "id": "AU05L051",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L052",
+          "name": {
+            "local": "Wakefield",
+            "en": "Wakefield",
+            "slug": "wakefield-au05l052"
+          },
+          "code": {
+            "id": "AU05L052",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L053",
+          "name": {
+            "local": "Northern Areas",
+            "en": "Northern Areas",
+            "slug": "northern-areas-au05l053"
+          },
+          "code": {
+            "id": "AU05L053",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L054",
+          "name": {
+            "local": "Yorke Peninsula",
+            "en": "Yorke Peninsula",
+            "slug": "yorke-peninsula-au05l054"
+          },
+          "code": {
+            "id": "AU05L054",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L055",
+          "name": {
+            "local": "Tea Tree Gully",
+            "en": "Tea Tree Gully",
+            "slug": "tea-tree-gully-au05l055"
+          },
+          "code": {
+            "id": "AU05L055",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L056",
+          "name": {
+            "local": "Loxton Waikerie",
+            "en": "Loxton Waikerie",
+            "slug": "loxton-waikerie-au05l056"
+          },
+          "code": {
+            "id": "AU05L056",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L057",
+          "name": {
+            "local": "Yankalilla",
+            "en": "Yankalilla",
+            "slug": "yankalilla-au05l057"
+          },
+          "code": {
+            "id": "AU05L057",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L058",
+          "name": {
+            "local": "Lower Eyre Peninsula",
+            "en": "Lower Eyre Peninsula",
+            "slug": "lower-eyre-peninsula-au05l058"
+          },
+          "code": {
+            "id": "AU05L058",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L059",
+          "name": {
+            "local": "Victor Harbor",
+            "en": "Victor Harbor",
+            "slug": "victor-harbor-au05l059"
+          },
+          "code": {
+            "id": "AU05L059",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L060",
+          "name": {
+            "local": "Orroroo/Carrieton",
+            "en": "Orroroo/Carrieton",
+            "slug": "orroroo-carrieton-au05l060"
+          },
+          "code": {
+            "id": "AU05L060",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L061",
+          "name": {
+            "local": "Karoonda East Murray",
+            "en": "Karoonda East Murray",
+            "slug": "karoonda-east-murray-au05l061"
+          },
+          "code": {
+            "id": "AU05L061",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L062",
+          "name": {
+            "local": "Coober Pedy",
+            "en": "Coober Pedy",
+            "slug": "coober-pedy-au05l062"
+          },
+          "code": {
+            "id": "AU05L062",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L063",
+          "name": {
+            "local": "Goyder",
+            "en": "Goyder",
+            "slug": "goyder-au05l063"
+          },
+          "code": {
+            "id": "AU05L063",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L064",
+          "name": {
+            "local": "Copper Coast",
+            "en": "Copper Coast",
+            "slug": "copper-coast-au05l064"
+          },
+          "code": {
+            "id": "AU05L064",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L065",
+          "name": {
+            "local": "Anangu Pitjantjatjara",
+            "en": "Anangu Pitjantjatjara",
+            "slug": "anangu-pitjantjatjara-au05l065"
+          },
+          "code": {
+            "id": "AU05L065",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L066",
+          "name": {
+            "local": "Playford",
+            "en": "Playford",
+            "slug": "playford-au05l066"
+          },
+          "code": {
+            "id": "AU05L066",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L067",
+          "name": {
+            "local": "West Torrens",
+            "en": "West Torrens",
+            "slug": "west-torrens-au05l067"
+          },
+          "code": {
+            "id": "AU05L067",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L068",
+          "name": {
+            "local": "Mitcham",
+            "en": "Mitcham",
+            "slug": "mitcham-au05l068"
+          },
+          "code": {
+            "id": "AU05L068",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU05L069",
+          "name": {
+            "local": "Kimba",
+            "en": "Kimba",
+            "slug": "kimba-au05l069"
+          },
+          "code": {
+            "id": "AU05L069",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "AU06",
+      "name": {
+        "local": "Northern Territory",
+        "en": "Northern Territory",
+        "slug": "northern-territory-au06"
+      },
+      "code": {
+        "id": "AU06",
+        "iso": null
+      },
+      "lga": [
+        {
+          "id": "AU06L001",
+          "name": {
+            "local": "Coomalie",
+            "en": "Coomalie",
+            "slug": "coomalie-au06l001"
+          },
+          "code": {
+            "id": "AU06L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L002",
+          "name": {
+            "local": "Alice Springs",
+            "en": "Alice Springs",
+            "slug": "alice-springs-au06l002"
+          },
+          "code": {
+            "id": "AU06L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L003",
+          "name": {
+            "local": "Palmerston",
+            "en": "Palmerston",
+            "slug": "palmerston-au06l003"
+          },
+          "code": {
+            "id": "AU06L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L004",
+          "name": {
+            "local": "Roper Gulf",
+            "en": "Roper Gulf",
+            "slug": "roper-gulf-au06l004"
+          },
+          "code": {
+            "id": "AU06L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L005",
+          "name": {
+            "local": "MacDonnell",
+            "en": "MacDonnell",
+            "slug": "macdonnell-au06l005"
+          },
+          "code": {
+            "id": "AU06L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L006",
+          "name": {
+            "local": "Barkly",
+            "en": "Barkly",
+            "slug": "barkly-au06l006"
+          },
+          "code": {
+            "id": "AU06L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L007",
+          "name": {
+            "local": "Tiwi Islands",
+            "en": "Tiwi Islands",
+            "slug": "tiwi-islands-au06l007"
+          },
+          "code": {
+            "id": "AU06L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L008",
+          "name": {
+            "local": "Belyuen",
+            "en": "Belyuen",
+            "slug": "belyuen-au06l008"
+          },
+          "code": {
+            "id": "AU06L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L009",
+          "name": {
+            "local": "West Arnhem",
+            "en": "West Arnhem",
+            "slug": "west-arnhem-au06l009"
+          },
+          "code": {
+            "id": "AU06L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L010",
+          "name": {
+            "local": "Central Desert",
+            "en": "Central Desert",
+            "slug": "central-desert-au06l010"
+          },
+          "code": {
+            "id": "AU06L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L011",
+          "name": {
+            "local": "East Arnhem",
+            "en": "East Arnhem",
+            "slug": "east-arnhem-au06l011"
+          },
+          "code": {
+            "id": "AU06L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L012",
+          "name": {
+            "local": "Litchfield",
+            "en": "Litchfield",
+            "slug": "litchfield-au06l012"
+          },
+          "code": {
+            "id": "AU06L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L013",
+          "name": {
+            "local": "Victoria-Daly",
+            "en": "Victoria-Daly",
+            "slug": "victoria-daly-au06l013"
+          },
+          "code": {
+            "id": "AU06L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L014",
+          "name": {
+            "local": "Darwin",
+            "en": "Darwin",
+            "slug": "darwin-au06l014"
+          },
+          "code": {
+            "id": "AU06L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L015",
+          "name": {
+            "local": "Katherine",
+            "en": "Katherine",
+            "slug": "katherine-au06l015"
+          },
+          "code": {
+            "id": "AU06L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU06L016",
+          "name": {
+            "local": "Wagait",
+            "en": "Wagait",
+            "slug": "wagait-au06l016"
+          },
+          "code": {
+            "id": "AU06L016",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "AU07",
+      "name": {
+        "local": "New South Wales",
+        "en": "New South Wales",
+        "slug": "new-south-wales-au07"
+      },
+      "code": {
+        "id": "AU07",
+        "iso": null
+      },
+      "lga": [
+        {
+          "id": "AU07L001",
+          "name": {
+            "local": "Coonamble",
+            "en": "Coonamble",
+            "slug": "coonamble-au07l001"
+          },
+          "code": {
+            "id": "AU07L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L002",
+          "name": {
+            "local": "Camden",
+            "en": "Camden",
+            "slug": "camden-au07l002"
+          },
+          "code": {
+            "id": "AU07L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L003",
+          "name": {
+            "local": "Rockdale",
+            "en": "Rockdale",
+            "slug": "rockdale-au07l003"
+          },
+          "code": {
+            "id": "AU07L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L004",
+          "name": {
+            "local": "Muswellbrook",
+            "en": "Muswellbrook",
+            "slug": "muswellbrook-au07l004"
+          },
+          "code": {
+            "id": "AU07L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L005",
+          "name": {
+            "local": "Boorowa",
+            "en": "Boorowa",
+            "slug": "boorowa-au07l005"
+          },
+          "code": {
+            "id": "AU07L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L006",
+          "name": {
+            "local": "Broken Hill",
+            "en": "Broken Hill",
+            "slug": "broken-hill-au07l006"
+          },
+          "code": {
+            "id": "AU07L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L007",
+          "name": {
+            "local": "Upper Lachlan Shire",
+            "en": "Upper Lachlan Shire",
+            "slug": "upper-lachlan-shire-au07l007"
+          },
+          "code": {
+            "id": "AU07L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L008",
+          "name": {
+            "local": "Auburn",
+            "en": "Auburn",
+            "slug": "auburn-au07l008"
+          },
+          "code": {
+            "id": "AU07L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L009",
+          "name": {
+            "local": "Maitland",
+            "en": "Maitland",
+            "slug": "maitland-au07l009"
+          },
+          "code": {
+            "id": "AU07L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L010",
+          "name": {
+            "local": "Forbes",
+            "en": "Forbes",
+            "slug": "forbes-au07l010"
+          },
+          "code": {
+            "id": "AU07L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L011",
+          "name": {
+            "local": "Cooma-Monaro",
+            "en": "Cooma-Monaro",
+            "slug": "cooma-monaro-au07l011"
+          },
+          "code": {
+            "id": "AU07L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L012",
+          "name": {
+            "local": "Upper Hunter Shire",
+            "en": "Upper Hunter Shire",
+            "slug": "upper-hunter-shire-au07l012"
+          },
+          "code": {
+            "id": "AU07L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L013",
+          "name": {
+            "local": "Holroyd",
+            "en": "Holroyd",
+            "slug": "holroyd-au07l013"
+          },
+          "code": {
+            "id": "AU07L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L014",
+          "name": {
+            "local": "Shellharbour",
+            "en": "Shellharbour",
+            "slug": "shellharbour-au07l014"
+          },
+          "code": {
+            "id": "AU07L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L015",
+          "name": {
+            "local": "Gosford",
+            "en": "Gosford",
+            "slug": "gosford-au07l015"
+          },
+          "code": {
+            "id": "AU07L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L016",
+          "name": {
+            "local": "Kempsey",
+            "en": "Kempsey",
+            "slug": "kempsey-au07l016"
+          },
+          "code": {
+            "id": "AU07L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L017",
+          "name": {
+            "local": "Temora",
+            "en": "Temora",
+            "slug": "temora-au07l017"
+          },
+          "code": {
+            "id": "AU07L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L018",
+          "name": {
+            "local": "Marrickville",
+            "en": "Marrickville",
+            "slug": "marrickville-au07l018"
+          },
+          "code": {
+            "id": "AU07L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L019",
+          "name": {
+            "local": "Wingecarribee",
+            "en": "Wingecarribee",
+            "slug": "wingecarribee-au07l019"
+          },
+          "code": {
+            "id": "AU07L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L020",
+          "name": {
+            "local": "Bellingen",
+            "en": "Bellingen",
+            "slug": "bellingen-au07l020"
+          },
+          "code": {
+            "id": "AU07L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L021",
+          "name": {
+            "local": "Murrumbidgee",
+            "en": "Murrumbidgee",
+            "slug": "murrumbidgee-au07l021"
+          },
+          "code": {
+            "id": "AU07L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L022",
+          "name": {
+            "local": "Urana",
+            "en": "Urana",
+            "slug": "urana-au07l022"
+          },
+          "code": {
+            "id": "AU07L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L023",
+          "name": {
+            "local": "Blacktown",
+            "en": "Blacktown",
+            "slug": "blacktown-au07l023"
+          },
+          "code": {
+            "id": "AU07L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L024",
+          "name": {
+            "local": "Cessnock",
+            "en": "Cessnock",
+            "slug": "cessnock-au07l024"
+          },
+          "code": {
+            "id": "AU07L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L025",
+          "name": {
+            "local": "Tweed",
+            "en": "Tweed",
+            "slug": "tweed-au07l025"
+          },
+          "code": {
+            "id": "AU07L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L026",
+          "name": {
+            "local": "Cowra",
+            "en": "Cowra",
+            "slug": "cowra-au07l026"
+          },
+          "code": {
+            "id": "AU07L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L027",
+          "name": {
+            "local": "Lockhart",
+            "en": "Lockhart",
+            "slug": "lockhart-au07l027"
+          },
+          "code": {
+            "id": "AU07L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L028",
+          "name": {
+            "local": "Queanbeyan",
+            "en": "Queanbeyan",
+            "slug": "queanbeyan-au07l028"
+          },
+          "code": {
+            "id": "AU07L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L029",
+          "name": {
+            "local": "Corowa Shire",
+            "en": "Corowa Shire",
+            "slug": "corowa-shire-au07l029"
+          },
+          "code": {
+            "id": "AU07L029",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L030",
+          "name": {
+            "local": "Oberon",
+            "en": "Oberon",
+            "slug": "oberon-au07l030"
+          },
+          "code": {
+            "id": "AU07L030",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L031",
+          "name": {
+            "local": "Parkes",
+            "en": "Parkes",
+            "slug": "parkes-au07l031"
+          },
+          "code": {
+            "id": "AU07L031",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L032",
+          "name": {
+            "local": "Liverpool Plains",
+            "en": "Liverpool Plains",
+            "slug": "liverpool-plains-au07l032"
+          },
+          "code": {
+            "id": "AU07L032",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L033",
+          "name": {
+            "local": "Albury",
+            "en": "Albury",
+            "slug": "albury-au07l033"
+          },
+          "code": {
+            "id": "AU07L033",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L034",
+          "name": {
+            "local": "Penrith",
+            "en": "Penrith",
+            "slug": "penrith-au07l034"
+          },
+          "code": {
+            "id": "AU07L034",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L035",
+          "name": {
+            "local": "Armidale Dumaresq",
+            "en": "Armidale Dumaresq",
+            "slug": "armidale-dumaresq-au07l035"
+          },
+          "code": {
+            "id": "AU07L035",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L036",
+          "name": {
+            "local": "Weddin",
+            "en": "Weddin",
+            "slug": "weddin-au07l036"
+          },
+          "code": {
+            "id": "AU07L036",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L037",
+          "name": {
+            "local": "Deniliquin",
+            "en": "Deniliquin",
+            "slug": "deniliquin-au07l037"
+          },
+          "code": {
+            "id": "AU07L037",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L038",
+          "name": {
+            "local": "Narromine",
+            "en": "Narromine",
+            "slug": "narromine-au07l038"
+          },
+          "code": {
+            "id": "AU07L038",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L039",
+          "name": {
+            "local": "Hawkesbury",
+            "en": "Hawkesbury",
+            "slug": "hawkesbury-au07l039"
+          },
+          "code": {
+            "id": "AU07L039",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L040",
+          "name": {
+            "local": "Byron",
+            "en": "Byron",
+            "slug": "byron-au07l040"
+          },
+          "code": {
+            "id": "AU07L040",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L041",
+          "name": {
+            "local": "Kiama",
+            "en": "Kiama",
+            "slug": "kiama-au07l041"
+          },
+          "code": {
+            "id": "AU07L041",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L042",
+          "name": {
+            "local": "Pittwater",
+            "en": "Pittwater",
+            "slug": "pittwater-au07l042"
+          },
+          "code": {
+            "id": "AU07L042",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L043",
+          "name": {
+            "local": "Singleton",
+            "en": "Singleton",
+            "slug": "singleton-au07l043"
+          },
+          "code": {
+            "id": "AU07L043",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L044",
+          "name": {
+            "local": "Cabonne",
+            "en": "Cabonne",
+            "slug": "cabonne-au07l044"
+          },
+          "code": {
+            "id": "AU07L044",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L045",
+          "name": {
+            "local": "Tamworth Regional",
+            "en": "Tamworth Regional",
+            "slug": "tamworth-regional-au07l045"
+          },
+          "code": {
+            "id": "AU07L045",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L046",
+          "name": {
+            "local": "Tenterfield",
+            "en": "Tenterfield",
+            "slug": "tenterfield-au07l046"
+          },
+          "code": {
+            "id": "AU07L046",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L047",
+          "name": {
+            "local": "Coffs Harbour",
+            "en": "Coffs Harbour",
+            "slug": "coffs-harbour-au07l047"
+          },
+          "code": {
+            "id": "AU07L047",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L048",
+          "name": {
+            "local": "Balranald",
+            "en": "Balranald",
+            "slug": "balranald-au07l048"
+          },
+          "code": {
+            "id": "AU07L048",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L049",
+          "name": {
+            "local": "Berrigan",
+            "en": "Berrigan",
+            "slug": "berrigan-au07l049"
+          },
+          "code": {
+            "id": "AU07L049",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L050",
+          "name": {
+            "local": "Goulburn Mulwaree",
+            "en": "Goulburn Mulwaree",
+            "slug": "goulburn-mulwaree-au07l050"
+          },
+          "code": {
+            "id": "AU07L050",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L051",
+          "name": {
+            "local": "Greater Taree",
+            "en": "Greater Taree",
+            "slug": "greater-taree-au07l051"
+          },
+          "code": {
+            "id": "AU07L051",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L052",
+          "name": {
+            "local": "Clarence Valley",
+            "en": "Clarence Valley",
+            "slug": "clarence-valley-au07l052"
+          },
+          "code": {
+            "id": "AU07L052",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L053",
+          "name": {
+            "local": "Wollongong",
+            "en": "Wollongong",
+            "slug": "wollongong-au07l053"
+          },
+          "code": {
+            "id": "AU07L053",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L054",
+          "name": {
+            "local": "Kyogle",
+            "en": "Kyogle",
+            "slug": "kyogle-au07l054"
+          },
+          "code": {
+            "id": "AU07L054",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L055",
+          "name": {
+            "local": "Uralla",
+            "en": "Uralla",
+            "slug": "uralla-au07l055"
+          },
+          "code": {
+            "id": "AU07L055",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L056",
+          "name": {
+            "local": "Lachlan",
+            "en": "Lachlan",
+            "slug": "lachlan-au07l056"
+          },
+          "code": {
+            "id": "AU07L056",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L057",
+          "name": {
+            "local": "North Sydney",
+            "en": "North Sydney",
+            "slug": "north-sydney-au07l057"
+          },
+          "code": {
+            "id": "AU07L057",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L058",
+          "name": {
+            "local": "Campbelltown",
+            "en": "Campbelltown",
+            "slug": "campbelltown-au07l058"
+          },
+          "code": {
+            "id": "AU07L058",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L059",
+          "name": {
+            "local": "Ashfield",
+            "en": "Ashfield",
+            "slug": "ashfield-au07l059"
+          },
+          "code": {
+            "id": "AU07L059",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L060",
+          "name": {
+            "local": "Wollondilly",
+            "en": "Wollondilly",
+            "slug": "wollondilly-au07l060"
+          },
+          "code": {
+            "id": "AU07L060",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L061",
+          "name": {
+            "local": "Hunters Hill",
+            "en": "Hunters Hill",
+            "slug": "hunters-hill-au07l061"
+          },
+          "code": {
+            "id": "AU07L061",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L062",
+          "name": {
+            "local": "Warren",
+            "en": "Warren",
+            "slug": "warren-au07l062"
+          },
+          "code": {
+            "id": "AU07L062",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L063",
+          "name": {
+            "local": "Hurstville",
+            "en": "Hurstville",
+            "slug": "hurstville-au07l063"
+          },
+          "code": {
+            "id": "AU07L063",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L064",
+          "name": {
+            "local": "Snowy River",
+            "en": "Snowy River",
+            "slug": "snowy-river-au07l064"
+          },
+          "code": {
+            "id": "AU07L064",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L065",
+          "name": {
+            "local": "Newcastle",
+            "en": "Newcastle",
+            "slug": "newcastle-au07l065"
+          },
+          "code": {
+            "id": "AU07L065",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L066",
+          "name": {
+            "local": "Gilgandra",
+            "en": "Gilgandra",
+            "slug": "gilgandra-au07l066"
+          },
+          "code": {
+            "id": "AU07L066",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L067",
+          "name": {
+            "local": "Walcha",
+            "en": "Walcha",
+            "slug": "walcha-au07l067"
+          },
+          "code": {
+            "id": "AU07L067",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L068",
+          "name": {
+            "local": "Lake Macquarie",
+            "en": "Lake Macquarie",
+            "slug": "lake-macquarie-au07l068"
+          },
+          "code": {
+            "id": "AU07L068",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L069",
+          "name": {
+            "local": "Canada Bay",
+            "en": "Canada Bay",
+            "slug": "canada-bay-au07l069"
+          },
+          "code": {
+            "id": "AU07L069",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L070",
+          "name": {
+            "local": "Moree Plains",
+            "en": "Moree Plains",
+            "slug": "moree-plains-au07l070"
+          },
+          "code": {
+            "id": "AU07L070",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L071",
+          "name": {
+            "local": "Griffith",
+            "en": "Griffith",
+            "slug": "griffith-au07l071"
+          },
+          "code": {
+            "id": "AU07L071",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L072",
+          "name": {
+            "local": "Murray",
+            "en": "Murray",
+            "slug": "murray-au07l072"
+          },
+          "code": {
+            "id": "AU07L072",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L073",
+          "name": {
+            "local": "Orange",
+            "en": "Orange",
+            "slug": "orange-au07l073"
+          },
+          "code": {
+            "id": "AU07L073",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L074",
+          "name": {
+            "local": "Wakool",
+            "en": "Wakool",
+            "slug": "wakool-au07l074"
+          },
+          "code": {
+            "id": "AU07L074",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L075",
+          "name": {
+            "local": "Conargo",
+            "en": "Conargo",
+            "slug": "conargo-au07l075"
+          },
+          "code": {
+            "id": "AU07L075",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L076",
+          "name": {
+            "local": "Dungog",
+            "en": "Dungog",
+            "slug": "dungog-au07l076"
+          },
+          "code": {
+            "id": "AU07L076",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L077",
+          "name": {
+            "local": "Lane Cove",
+            "en": "Lane Cove",
+            "slug": "lane-cove-au07l077"
+          },
+          "code": {
+            "id": "AU07L077",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L078",
+          "name": {
+            "local": "Young",
+            "en": "Young",
+            "slug": "young-au07l078"
+          },
+          "code": {
+            "id": "AU07L078",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L079",
+          "name": {
+            "local": "Wagga Wagga",
+            "en": "Wagga Wagga",
+            "slug": "wagga-wagga-au07l079"
+          },
+          "code": {
+            "id": "AU07L079",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L080",
+          "name": {
+            "local": "Manly",
+            "en": "Manly",
+            "slug": "manly-au07l080"
+          },
+          "code": {
+            "id": "AU07L080",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L081",
+          "name": {
+            "local": "Willoughby",
+            "en": "Willoughby",
+            "slug": "willoughby-au07l081"
+          },
+          "code": {
+            "id": "AU07L081",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L082",
+          "name": {
+            "local": "Port Stephens",
+            "en": "Port Stephens",
+            "slug": "port-stephens-au07l082"
+          },
+          "code": {
+            "id": "AU07L082",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L083",
+          "name": {
+            "local": "Wyong",
+            "en": "Wyong",
+            "slug": "wyong-au07l083"
+          },
+          "code": {
+            "id": "AU07L083",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L084",
+          "name": {
+            "local": "Coolamon",
+            "en": "Coolamon",
+            "slug": "coolamon-au07l084"
+          },
+          "code": {
+            "id": "AU07L084",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L085",
+          "name": {
+            "local": "Gunnedah",
+            "en": "Gunnedah",
+            "slug": "gunnedah-au07l085"
+          },
+          "code": {
+            "id": "AU07L085",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L086",
+          "name": {
+            "local": "Gloucester",
+            "en": "Gloucester",
+            "slug": "gloucester-au07l086"
+          },
+          "code": {
+            "id": "AU07L086",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L087",
+          "name": {
+            "local": "Lithgow",
+            "en": "Lithgow",
+            "slug": "lithgow-au07l087"
+          },
+          "code": {
+            "id": "AU07L087",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L088",
+          "name": {
+            "local": "The Hills Shire",
+            "en": "The Hills Shire",
+            "slug": "the-hills-shire-au07l088"
+          },
+          "code": {
+            "id": "AU07L088",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L089",
+          "name": {
+            "local": "Sydney",
+            "en": "Sydney",
+            "slug": "sydney-au07l089"
+          },
+          "code": {
+            "id": "AU07L089",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L090",
+          "name": {
+            "local": "Carrathool",
+            "en": "Carrathool",
+            "slug": "carrathool-au07l090"
+          },
+          "code": {
+            "id": "AU07L090",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L091",
+          "name": {
+            "local": "Burwood",
+            "en": "Burwood",
+            "slug": "burwood-au07l091"
+          },
+          "code": {
+            "id": "AU07L091",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L092",
+          "name": {
+            "local": "Port Macquarie-Hastings",
+            "en": "Port Macquarie-Hastings",
+            "slug": "port-macquarie-hastings-au07l092"
+          },
+          "code": {
+            "id": "AU07L092",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L093",
+          "name": {
+            "local": "Brewarrina",
+            "en": "Brewarrina",
+            "slug": "brewarrina-au07l093"
+          },
+          "code": {
+            "id": "AU07L093",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L094",
+          "name": {
+            "local": "Fairfield",
+            "en": "Fairfield",
+            "slug": "fairfield-au07l094"
+          },
+          "code": {
+            "id": "AU07L094",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L095",
+          "name": {
+            "local": "Richmond Valley",
+            "en": "Richmond Valley",
+            "slug": "richmond-valley-au07l095"
+          },
+          "code": {
+            "id": "AU07L095",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L096",
+          "name": {
+            "local": "Guyra",
+            "en": "Guyra",
+            "slug": "guyra-au07l096"
+          },
+          "code": {
+            "id": "AU07L096",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L097",
+          "name": {
+            "local": "Gwydir",
+            "en": "Gwydir",
+            "slug": "gwydir-au07l097"
+          },
+          "code": {
+            "id": "AU07L097",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L098",
+          "name": {
+            "local": "Yass Valley",
+            "en": "Yass Valley",
+            "slug": "yass-valley-au07l098"
+          },
+          "code": {
+            "id": "AU07L098",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L099",
+          "name": {
+            "local": "Central Darling",
+            "en": "Central Darling",
+            "slug": "central-darling-au07l099"
+          },
+          "code": {
+            "id": "AU07L099",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L100",
+          "name": {
+            "local": "Jerilderie",
+            "en": "Jerilderie",
+            "slug": "jerilderie-au07l100"
+          },
+          "code": {
+            "id": "AU07L100",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L101",
+          "name": {
+            "local": "Mid-Western Regional",
+            "en": "Mid-Western Regional",
+            "slug": "mid-western-regional-au07l101"
+          },
+          "code": {
+            "id": "AU07L101",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L102",
+          "name": {
+            "local": "Walgett",
+            "en": "Walgett",
+            "slug": "walgett-au07l102"
+          },
+          "code": {
+            "id": "AU07L102",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L103",
+          "name": {
+            "local": "Narrabri",
+            "en": "Narrabri",
+            "slug": "narrabri-au07l103"
+          },
+          "code": {
+            "id": "AU07L103",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L104",
+          "name": {
+            "local": "Gundagai",
+            "en": "Gundagai",
+            "slug": "gundagai-au07l104"
+          },
+          "code": {
+            "id": "AU07L104",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L105",
+          "name": {
+            "local": "Waverley",
+            "en": "Waverley",
+            "slug": "waverley-au07l105"
+          },
+          "code": {
+            "id": "AU07L105",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L106",
+          "name": {
+            "local": "Bathurst Regional",
+            "en": "Bathurst Regional",
+            "slug": "bathurst-regional-au07l106"
+          },
+          "code": {
+            "id": "AU07L106",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L107",
+          "name": {
+            "local": "Blayney",
+            "en": "Blayney",
+            "slug": "blayney-au07l107"
+          },
+          "code": {
+            "id": "AU07L107",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L108",
+          "name": {
+            "local": "Bourke",
+            "en": "Bourke",
+            "slug": "bourke-au07l108"
+          },
+          "code": {
+            "id": "AU07L108",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L109",
+          "name": {
+            "local": "Tumbarumba",
+            "en": "Tumbarumba",
+            "slug": "tumbarumba-au07l109"
+          },
+          "code": {
+            "id": "AU07L109",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L110",
+          "name": {
+            "local": "Ryde",
+            "en": "Ryde",
+            "slug": "ryde-au07l110"
+          },
+          "code": {
+            "id": "AU07L110",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L111",
+          "name": {
+            "local": "Mosman",
+            "en": "Mosman",
+            "slug": "mosman-au07l111"
+          },
+          "code": {
+            "id": "AU07L111",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L112",
+          "name": {
+            "local": "Leeton",
+            "en": "Leeton",
+            "slug": "leeton-au07l112"
+          },
+          "code": {
+            "id": "AU07L112",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L113",
+          "name": {
+            "local": "Bland",
+            "en": "Bland",
+            "slug": "bland-au07l113"
+          },
+          "code": {
+            "id": "AU07L113",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L114",
+          "name": {
+            "local": "Inverell",
+            "en": "Inverell",
+            "slug": "inverell-au07l114"
+          },
+          "code": {
+            "id": "AU07L114",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L115",
+          "name": {
+            "local": "Ku-ring-gai",
+            "en": "Ku-ring-gai",
+            "slug": "ku-ring-gai-au07l115"
+          },
+          "code": {
+            "id": "AU07L115",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L116",
+          "name": {
+            "local": "Palerang",
+            "en": "Palerang",
+            "slug": "palerang-au07l116"
+          },
+          "code": {
+            "id": "AU07L116",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L117",
+          "name": {
+            "local": "Liverpool",
+            "en": "Liverpool",
+            "slug": "liverpool-au07l117"
+          },
+          "code": {
+            "id": "AU07L117",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L118",
+          "name": {
+            "local": "Wentworth",
+            "en": "Wentworth",
+            "slug": "wentworth-au07l118"
+          },
+          "code": {
+            "id": "AU07L118",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L119",
+          "name": {
+            "local": "Shoalhaven",
+            "en": "Shoalhaven",
+            "slug": "shoalhaven-au07l119"
+          },
+          "code": {
+            "id": "AU07L119",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L120",
+          "name": {
+            "local": "Canterbury",
+            "en": "Canterbury",
+            "slug": "canterbury-au07l120"
+          },
+          "code": {
+            "id": "AU07L120",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L121",
+          "name": {
+            "local": "Glen Innes Severn",
+            "en": "Glen Innes Severn",
+            "slug": "glen-innes-severn-au07l121"
+          },
+          "code": {
+            "id": "AU07L121",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L122",
+          "name": {
+            "local": "Cobar",
+            "en": "Cobar",
+            "slug": "cobar-au07l122"
+          },
+          "code": {
+            "id": "AU07L122",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L123",
+          "name": {
+            "local": "Nambucca",
+            "en": "Nambucca",
+            "slug": "nambucca-au07l123"
+          },
+          "code": {
+            "id": "AU07L123",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L124",
+          "name": {
+            "local": "Bombala",
+            "en": "Bombala",
+            "slug": "bombala-au07l124"
+          },
+          "code": {
+            "id": "AU07L124",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L125",
+          "name": {
+            "local": "Bega Valley",
+            "en": "Bega Valley",
+            "slug": "bega-valley-au07l125"
+          },
+          "code": {
+            "id": "AU07L125",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L126",
+          "name": {
+            "local": "Tumut Shire",
+            "en": "Tumut Shire",
+            "slug": "tumut-shire-au07l126"
+          },
+          "code": {
+            "id": "AU07L126",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L127",
+          "name": {
+            "local": "Bankstown",
+            "en": "Bankstown",
+            "slug": "bankstown-au07l127"
+          },
+          "code": {
+            "id": "AU07L127",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L128",
+          "name": {
+            "local": "Narrandera",
+            "en": "Narrandera",
+            "slug": "narrandera-au07l128"
+          },
+          "code": {
+            "id": "AU07L128",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L129",
+          "name": {
+            "local": "Ballina",
+            "en": "Ballina",
+            "slug": "ballina-au07l129"
+          },
+          "code": {
+            "id": "AU07L129",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L130",
+          "name": {
+            "local": "Warringah",
+            "en": "Warringah",
+            "slug": "warringah-au07l130"
+          },
+          "code": {
+            "id": "AU07L130",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L131",
+          "name": {
+            "local": "Hornsby",
+            "en": "Hornsby",
+            "slug": "hornsby-au07l131"
+          },
+          "code": {
+            "id": "AU07L131",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L132",
+          "name": {
+            "local": "Randwick",
+            "en": "Randwick",
+            "slug": "randwick-au07l132"
+          },
+          "code": {
+            "id": "AU07L132",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L133",
+          "name": {
+            "local": "Sutherland Shire",
+            "en": "Sutherland Shire",
+            "slug": "sutherland-shire-au07l133"
+          },
+          "code": {
+            "id": "AU07L133",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L134",
+          "name": {
+            "local": "Warrumbungle Shire",
+            "en": "Warrumbungle Shire",
+            "slug": "warrumbungle-shire-au07l134"
+          },
+          "code": {
+            "id": "AU07L134",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L135",
+          "name": {
+            "local": "Parramatta",
+            "en": "Parramatta",
+            "slug": "parramatta-au07l135"
+          },
+          "code": {
+            "id": "AU07L135",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L136",
+          "name": {
+            "local": "Botany Bay",
+            "en": "Botany Bay",
+            "slug": "botany-bay-au07l136"
+          },
+          "code": {
+            "id": "AU07L136",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L137",
+          "name": {
+            "local": "Hay",
+            "en": "Hay",
+            "slug": "hay-au07l137"
+          },
+          "code": {
+            "id": "AU07L137",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L138",
+          "name": {
+            "local": "Kogarah",
+            "en": "Kogarah",
+            "slug": "kogarah-au07l138"
+          },
+          "code": {
+            "id": "AU07L138",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L139",
+          "name": {
+            "local": "Dubbo",
+            "en": "Dubbo",
+            "slug": "dubbo-au07l139"
+          },
+          "code": {
+            "id": "AU07L139",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L140",
+          "name": {
+            "local": "Junee",
+            "en": "Junee",
+            "slug": "junee-au07l140"
+          },
+          "code": {
+            "id": "AU07L140",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L141",
+          "name": {
+            "local": "Eurobodalla",
+            "en": "Eurobodalla",
+            "slug": "eurobodalla-au07l141"
+          },
+          "code": {
+            "id": "AU07L141",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L142",
+          "name": {
+            "local": "Great Lakes",
+            "en": "Great Lakes",
+            "slug": "great-lakes-au07l142"
+          },
+          "code": {
+            "id": "AU07L142",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L143",
+          "name": {
+            "local": "Greater Hume Shire",
+            "en": "Greater Hume Shire",
+            "slug": "greater-hume-shire-au07l143"
+          },
+          "code": {
+            "id": "AU07L143",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L144",
+          "name": {
+            "local": "Blue Mountains",
+            "en": "Blue Mountains",
+            "slug": "blue-mountains-au07l144"
+          },
+          "code": {
+            "id": "AU07L144",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L145",
+          "name": {
+            "local": "Woollahra",
+            "en": "Woollahra",
+            "slug": "woollahra-au07l145"
+          },
+          "code": {
+            "id": "AU07L145",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L146",
+          "name": {
+            "local": "Lismore",
+            "en": "Lismore",
+            "slug": "lismore-au07l146"
+          },
+          "code": {
+            "id": "AU07L146",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L147",
+          "name": {
+            "local": "Leichhardt",
+            "en": "Leichhardt",
+            "slug": "leichhardt-au07l147"
+          },
+          "code": {
+            "id": "AU07L147",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L148",
+          "name": {
+            "local": "Bogan",
+            "en": "Bogan",
+            "slug": "bogan-au07l148"
+          },
+          "code": {
+            "id": "AU07L148",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L149",
+          "name": {
+            "local": "Cootamundra",
+            "en": "Cootamundra",
+            "slug": "cootamundra-au07l149"
+          },
+          "code": {
+            "id": "AU07L149",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L150",
+          "name": {
+            "local": "Strathfield",
+            "en": "Strathfield",
+            "slug": "strathfield-au07l150"
+          },
+          "code": {
+            "id": "AU07L150",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU07L151",
+          "name": {
+            "local": "Harden",
+            "en": "Harden",
+            "slug": "harden-au07l151"
+          },
+          "code": {
+            "id": "AU07L151",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "AU08",
+      "name": {
+        "local": "Tasmania",
+        "en": "Tasmania",
+        "slug": "tasmania-au08"
+      },
+      "code": {
+        "id": "AU08",
+        "iso": null
+      },
+      "lga": [
+        {
+          "id": "AU08L001",
+          "name": {
+            "local": "Central Highlands",
+            "en": "Central Highlands",
+            "slug": "central-highlands-au08l001"
+          },
+          "code": {
+            "id": "AU08L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L002",
+          "name": {
+            "local": "Derwent Valley",
+            "en": "Derwent Valley",
+            "slug": "derwent-valley-au08l002"
+          },
+          "code": {
+            "id": "AU08L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L003",
+          "name": {
+            "local": "Meander Valley",
+            "en": "Meander Valley",
+            "slug": "meander-valley-au08l003"
+          },
+          "code": {
+            "id": "AU08L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L004",
+          "name": {
+            "local": "Sorell",
+            "en": "Sorell",
+            "slug": "sorell-au08l004"
+          },
+          "code": {
+            "id": "AU08L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L005",
+          "name": {
+            "local": "Dorset",
+            "en": "Dorset",
+            "slug": "dorset-au08l005"
+          },
+          "code": {
+            "id": "AU08L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L006",
+          "name": {
+            "local": "Latrobe",
+            "en": "Latrobe",
+            "slug": "latrobe-au08l006"
+          },
+          "code": {
+            "id": "AU08L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L007",
+          "name": {
+            "local": "King Island",
+            "en": "King Island",
+            "slug": "king-island-au08l007"
+          },
+          "code": {
+            "id": "AU08L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L008",
+          "name": {
+            "local": "Tasman",
+            "en": "Tasman",
+            "slug": "tasman-au08l008"
+          },
+          "code": {
+            "id": "AU08L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L009",
+          "name": {
+            "local": "Huon Valley",
+            "en": "Huon Valley",
+            "slug": "huon-valley-au08l009"
+          },
+          "code": {
+            "id": "AU08L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L010",
+          "name": {
+            "local": "Clarence",
+            "en": "Clarence",
+            "slug": "clarence-au08l010"
+          },
+          "code": {
+            "id": "AU08L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L011",
+          "name": {
+            "local": "Glamorgan/Spring Bay",
+            "en": "Glamorgan/Spring Bay",
+            "slug": "glamorgan-spring-bay-au08l011"
+          },
+          "code": {
+            "id": "AU08L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L012",
+          "name": {
+            "local": "Devonport",
+            "en": "Devonport",
+            "slug": "devonport-au08l012"
+          },
+          "code": {
+            "id": "AU08L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L013",
+          "name": {
+            "local": "Kingborough",
+            "en": "Kingborough",
+            "slug": "kingborough-au08l013"
+          },
+          "code": {
+            "id": "AU08L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L014",
+          "name": {
+            "local": "Glenorchy",
+            "en": "Glenorchy",
+            "slug": "glenorchy-au08l014"
+          },
+          "code": {
+            "id": "AU08L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L015",
+          "name": {
+            "local": "Hobart",
+            "en": "Hobart",
+            "slug": "hobart-au08l015"
+          },
+          "code": {
+            "id": "AU08L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L016",
+          "name": {
+            "local": "Waratah/Wynyard",
+            "en": "Waratah/Wynyard",
+            "slug": "waratah-wynyard-au08l016"
+          },
+          "code": {
+            "id": "AU08L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L017",
+          "name": {
+            "local": "Northern Midlands",
+            "en": "Northern Midlands",
+            "slug": "northern-midlands-au08l017"
+          },
+          "code": {
+            "id": "AU08L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L018",
+          "name": {
+            "local": "Southern Midlands",
+            "en": "Southern Midlands",
+            "slug": "southern-midlands-au08l018"
+          },
+          "code": {
+            "id": "AU08L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L019",
+          "name": {
+            "local": "Kentish",
+            "en": "Kentish",
+            "slug": "kentish-au08l019"
+          },
+          "code": {
+            "id": "AU08L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L020",
+          "name": {
+            "local": "Brighton",
+            "en": "Brighton",
+            "slug": "brighton-au08l020"
+          },
+          "code": {
+            "id": "AU08L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L021",
+          "name": {
+            "local": "Flinders",
+            "en": "Flinders",
+            "slug": "flinders-au08l021"
+          },
+          "code": {
+            "id": "AU08L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L022",
+          "name": {
+            "local": "George Town",
+            "en": "George Town",
+            "slug": "george-town-au08l022"
+          },
+          "code": {
+            "id": "AU08L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L023",
+          "name": {
+            "local": "Burnie",
+            "en": "Burnie",
+            "slug": "burnie-au08l023"
+          },
+          "code": {
+            "id": "AU08L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L024",
+          "name": {
+            "local": "Launceston",
+            "en": "Launceston",
+            "slug": "launceston-au08l024"
+          },
+          "code": {
+            "id": "AU08L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L025",
+          "name": {
+            "local": "Central Coast",
+            "en": "Central Coast",
+            "slug": "central-coast-au08l025"
+          },
+          "code": {
+            "id": "AU08L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L026",
+          "name": {
+            "local": "West Tamar",
+            "en": "West Tamar",
+            "slug": "west-tamar-au08l026"
+          },
+          "code": {
+            "id": "AU08L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L027",
+          "name": {
+            "local": "West Coast",
+            "en": "West Coast",
+            "slug": "west-coast-au08l027"
+          },
+          "code": {
+            "id": "AU08L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L028",
+          "name": {
+            "local": "Circular Head",
+            "en": "Circular Head",
+            "slug": "circular-head-au08l028"
+          },
+          "code": {
+            "id": "AU08L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "AU08L029",
+          "name": {
+            "local": "Break O'Day",
+            "en": "Break O'Day",
+            "slug": "break-o-day-au08l029"
+          },
+          "code": {
+            "id": "AU08L029",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

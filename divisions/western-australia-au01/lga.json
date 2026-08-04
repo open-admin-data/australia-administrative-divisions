@@ -1,0 +1,6122 @@
+[
+  {
+    "id": "AU01L029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Albany",
+      "en": "Albany",
+      "slug": "albany-au01l029"
+    },
+    "code": {
+      "id": "AU01L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.801",
+      "lon": "118.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L056",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Armadale",
+      "en": "Armadale",
+      "slug": "armadale-au01l056"
+    },
+    "code": {
+      "id": "AU01L056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.166",
+      "lon": "116.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ashburton",
+      "en": "Ashburton",
+      "slug": "ashburton-au01l023"
+    },
+    "code": {
+      "id": "AU01L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.441",
+      "lon": "116.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Augusta-Margaret River",
+      "en": "Augusta-Margaret River",
+      "slug": "augusta-margaret-river-au01l007"
+    },
+    "code": {
+      "id": "AU01L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.031",
+      "lon": "115.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L045",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bassendean",
+      "en": "Bassendean",
+      "slug": "bassendean-au01l045"
+    },
+    "code": {
+      "id": "AU01L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.904",
+      "lon": "115.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L061",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bayswater",
+      "en": "Bayswater",
+      "slug": "bayswater-au01l061"
+    },
+    "code": {
+      "id": "AU01L061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.906",
+      "lon": "115.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L089",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Belmont",
+      "en": "Belmont",
+      "slug": "belmont-au01l089"
+    },
+    "code": {
+      "id": "AU01L089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.957",
+      "lon": "115.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L070",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Beverley",
+      "en": "Beverley",
+      "slug": "beverley-au01l070"
+    },
+    "code": {
+      "id": "AU01L070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.127",
+      "lon": "116.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L125",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Boddington",
+      "en": "Boddington",
+      "slug": "boddington-au01l125"
+    },
+    "code": {
+      "id": "AU01L125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.82",
+      "lon": "116.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L055",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Boyup Brook",
+      "en": "Boyup Brook",
+      "slug": "boyup-brook-au01l055"
+    },
+    "code": {
+      "id": "AU01L055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.876",
+      "lon": "116.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L093",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bridgetown-Greenbushes",
+      "en": "Bridgetown-Greenbushes",
+      "slug": "bridgetown-greenbushes-au01l093"
+    },
+    "code": {
+      "id": "AU01L093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.009",
+      "lon": "116.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L064",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Brookton",
+      "en": "Brookton",
+      "slug": "brookton-au01l064"
+    },
+    "code": {
+      "id": "AU01L064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.357",
+      "lon": "116.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L036",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Broome",
+      "en": "Broome",
+      "slug": "broome-au01l036"
+    },
+    "code": {
+      "id": "AU01L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.942",
+      "lon": "122.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Broomehill-Tambellup",
+      "en": "Broomehill-Tambellup",
+      "slug": "broomehill-tambellup-au01l014"
+    },
+    "code": {
+      "id": "AU01L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.979",
+      "lon": "117.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L097",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bruce Rock",
+      "en": "Bruce Rock",
+      "slug": "bruce-rock-au01l097"
+    },
+    "code": {
+      "id": "AU01L097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.995",
+      "lon": "118.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bunbury",
+      "en": "Bunbury",
+      "slug": "bunbury-au01l021"
+    },
+    "code": {
+      "id": "AU01L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.355",
+      "lon": "115.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Busselton",
+      "en": "Busselton",
+      "slug": "busselton-au01l022"
+    },
+    "code": {
+      "id": "AU01L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.737",
+      "lon": "115.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L068",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cambridge",
+      "en": "Cambridge",
+      "slug": "cambridge-au01l068"
+    },
+    "code": {
+      "id": "AU01L068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.936",
+      "lon": "115.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L074",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Canning",
+      "en": "Canning",
+      "slug": "canning-au01l074"
+    },
+    "code": {
+      "id": "AU01L074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.05",
+      "lon": "115.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L054",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Capel",
+      "en": "Capel",
+      "slug": "capel-au01l054"
+    },
+    "code": {
+      "id": "AU01L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.534",
+      "lon": "115.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L066",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Carnamah",
+      "en": "Carnamah",
+      "slug": "carnamah-au01l066"
+    },
+    "code": {
+      "id": "AU01L066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.827",
+      "lon": "115.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L059",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Carnarvon",
+      "en": "Carnarvon",
+      "slug": "carnarvon-au01l059"
+    },
+    "code": {
+      "id": "AU01L059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.259",
+      "lon": "114.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L136",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Chapman Valley",
+      "en": "Chapman Valley",
+      "slug": "chapman-valley-au01l136"
+    },
+    "code": {
+      "id": "AU01L136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.41",
+      "lon": "114.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Chittering",
+      "en": "Chittering",
+      "slug": "chittering-au01l018"
+    },
+    "code": {
+      "id": "AU01L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.238",
+      "lon": "116.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L086",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Claremont",
+      "en": "Claremont",
+      "slug": "claremont-au01l086"
+    },
+    "code": {
+      "id": "AU01L086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.979",
+      "lon": "115.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L107",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cockburn",
+      "en": "Cockburn",
+      "slug": "cockburn-au01l107"
+    },
+    "code": {
+      "id": "AU01L107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.128",
+      "lon": "115.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L030",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Collie",
+      "en": "Collie",
+      "slug": "collie-au01l030"
+    },
+    "code": {
+      "id": "AU01L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.351",
+      "lon": "116.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L133",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Coolgardie",
+      "en": "Coolgardie",
+      "slug": "coolgardie-au01l133"
+    },
+    "code": {
+      "id": "AU01L133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.151",
+      "lon": "120.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Coorow",
+      "en": "Coorow",
+      "slug": "coorow-au01l020"
+    },
+    "code": {
+      "id": "AU01L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.047",
+      "lon": "115.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Corrigin",
+      "en": "Corrigin",
+      "slug": "corrigin-au01l010"
+    },
+    "code": {
+      "id": "AU01L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.376",
+      "lon": "117.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L049",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cottesloe",
+      "en": "Cottesloe",
+      "slug": "cottesloe-au01l049"
+    },
+    "code": {
+      "id": "AU01L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.992",
+      "lon": "115.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L072",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cranbrook",
+      "en": "Cranbrook",
+      "slug": "cranbrook-au01l072"
+    },
+    "code": {
+      "id": "AU01L072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.277",
+      "lon": "117.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cuballing",
+      "en": "Cuballing",
+      "slug": "cuballing-au01l016"
+    },
+    "code": {
+      "id": "AU01L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.732",
+      "lon": "117.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L121",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cue",
+      "en": "Cue",
+      "slug": "cue-au01l121"
+    },
+    "code": {
+      "id": "AU01L121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.352",
+      "lon": "117.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L077",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Cunderdin",
+      "en": "Cunderdin",
+      "slug": "cunderdin-au01l077"
+    },
+    "code": {
+      "id": "AU01L077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.595",
+      "lon": "117.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L071",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dalwallinu",
+      "en": "Dalwallinu",
+      "slug": "dalwallinu-au01l071"
+    },
+    "code": {
+      "id": "AU01L071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.173",
+      "lon": "116.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L117",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dandaragan",
+      "en": "Dandaragan",
+      "slug": "dandaragan-au01l117"
+    },
+    "code": {
+      "id": "AU01L117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.547",
+      "lon": "115.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L099",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dardanup",
+      "en": "Dardanup",
+      "slug": "dardanup-au01l099"
+    },
+    "code": {
+      "id": "AU01L099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.419",
+      "lon": "115.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Denmark",
+      "en": "Denmark",
+      "slug": "denmark-au01l004"
+    },
+    "code": {
+      "id": "AU01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.899",
+      "lon": "117.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L044",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Derby-West Kimberley",
+      "en": "Derby-West Kimberley",
+      "slug": "derby-west-kimberley-au01l044"
+    },
+    "code": {
+      "id": "AU01L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.804",
+      "lon": "124.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L079",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Donnybrook-Balingup",
+      "en": "Donnybrook-Balingup",
+      "slug": "donnybrook-balingup-au01l079"
+    },
+    "code": {
+      "id": "AU01L079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.656",
+      "lon": "115.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L112",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dowerin",
+      "en": "Dowerin",
+      "slug": "dowerin-au01l112"
+    },
+    "code": {
+      "id": "AU01L112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.105",
+      "lon": "117.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L047",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dumbleyung",
+      "en": "Dumbleyung",
+      "slug": "dumbleyung-au01l047"
+    },
+    "code": {
+      "id": "AU01L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.222",
+      "lon": "117.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L039",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dundas",
+      "en": "Dundas",
+      "slug": "dundas-au01l039"
+    },
+    "code": {
+      "id": "AU01L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.159",
+      "lon": "124.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L043",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "East Fremantle",
+      "en": "East Fremantle",
+      "slug": "east-fremantle-au01l043"
+    },
+    "code": {
+      "id": "AU01L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.039",
+      "lon": "115.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L088",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "East Pilbara",
+      "en": "East Pilbara",
+      "slug": "east-pilbara-au01l088"
+    },
+    "code": {
+      "id": "AU01L088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.63",
+      "lon": "123.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L082",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Esperance",
+      "en": "Esperance",
+      "slug": "esperance-au01l082"
+    },
+    "code": {
+      "id": "AU01L082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.238",
+      "lon": "122.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L103",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Exmouth",
+      "en": "Exmouth",
+      "slug": "exmouth-au01l103"
+    },
+    "code": {
+      "id": "AU01L103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.572",
+      "lon": "113.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L040",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Fremantle",
+      "en": "Fremantle",
+      "slug": "fremantle-au01l040"
+    },
+    "code": {
+      "id": "AU01L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.061",
+      "lon": "115.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L127",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gingin",
+      "en": "Gingin",
+      "slug": "gingin-au01l127"
+    },
+    "code": {
+      "id": "AU01L127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.229",
+      "lon": "115.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L078",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gnowangerup",
+      "en": "Gnowangerup",
+      "slug": "gnowangerup-au01l078"
+    },
+    "code": {
+      "id": "AU01L078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.067",
+      "lon": "118.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L102",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Goomalling",
+      "en": "Goomalling",
+      "slug": "goomalling-au01l102"
+    },
+    "code": {
+      "id": "AU01L102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.238",
+      "lon": "116.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L087",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gosnells",
+      "en": "Gosnells",
+      "slug": "gosnells-au01l087"
+    },
+    "code": {
+      "id": "AU01L087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.063",
+      "lon": "115.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L035",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Greater Geraldton",
+      "en": "Greater Geraldton",
+      "slug": "greater-geraldton-au01l035"
+    },
+    "code": {
+      "id": "AU01L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.576",
+      "lon": "115.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L094",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Halls Creek",
+      "en": "Halls Creek",
+      "slug": "halls-creek-au01l094"
+    },
+    "code": {
+      "id": "AU01L094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.284",
+      "lon": "127.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L129",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Harvey",
+      "en": "Harvey",
+      "slug": "harvey-au01l129"
+    },
+    "code": {
+      "id": "AU01L129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.096",
+      "lon": "115.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L041",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Irwin",
+      "en": "Irwin",
+      "slug": "irwin-au01l041"
+    },
+    "code": {
+      "id": "AU01L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.288",
+      "lon": "115.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L134",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Jerramungup",
+      "en": "Jerramungup",
+      "slug": "jerramungup-au01l134"
+    },
+    "code": {
+      "id": "AU01L134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.087",
+      "lon": "119.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Joondalup",
+      "en": "Joondalup",
+      "slug": "joondalup-au01l002"
+    },
+    "code": {
+      "id": "AU01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.785",
+      "lon": "115.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L067",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kalamunda",
+      "en": "Kalamunda",
+      "slug": "kalamunda-au01l067"
+    },
+    "code": {
+      "id": "AU01L067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.011",
+      "lon": "116.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L123",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kalgoorlie/Boulder",
+      "en": "Kalgoorlie/Boulder",
+      "slug": "kalgoorlie-boulder-au01l123"
+    },
+    "code": {
+      "id": "AU01L123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.778",
+      "lon": "125.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L060",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Katanning",
+      "en": "Katanning",
+      "slug": "katanning-au01l060"
+    },
+    "code": {
+      "id": "AU01L060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.629",
+      "lon": "117.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kellerberrin",
+      "en": "Kellerberrin",
+      "slug": "kellerberrin-au01l024"
+    },
+    "code": {
+      "id": "AU01L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.581",
+      "lon": "117.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L031",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kent",
+      "en": "Kent",
+      "slug": "kent-au01l031"
+    },
+    "code": {
+      "id": "AU01L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.558",
+      "lon": "118.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L032",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kojonup",
+      "en": "Kojonup",
+      "slug": "kojonup-au01l032"
+    },
+    "code": {
+      "id": "AU01L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.908",
+      "lon": "117.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L090",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kondinin",
+      "en": "Kondinin",
+      "slug": "kondinin-au01l090"
+    },
+    "code": {
+      "id": "AU01L090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.397",
+      "lon": "119.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L034",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Koorda",
+      "en": "Koorda",
+      "slug": "koorda-au01l034"
+    },
+    "code": {
+      "id": "AU01L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.586",
+      "lon": "117.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L119",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kulin",
+      "en": "Kulin",
+      "slug": "kulin-au01l119"
+    },
+    "code": {
+      "id": "AU01L119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.767",
+      "lon": "118.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L096",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kwinana",
+      "en": "Kwinana",
+      "slug": "kwinana-au01l096"
+    },
+    "code": {
+      "id": "AU01L096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.226",
+      "lon": "115.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L053",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lake Grace",
+      "en": "Lake Grace",
+      "slug": "lake-grace-au01l053"
+    },
+    "code": {
+      "id": "AU01L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.085",
+      "lon": "119.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Laverton",
+      "en": "Laverton",
+      "slug": "laverton-au01l026"
+    },
+    "code": {
+      "id": "AU01L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.889",
+      "lon": "125.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L109",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Leonora",
+      "en": "Leonora",
+      "slug": "leonora-au01l109"
+    },
+    "code": {
+      "id": "AU01L109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.008",
+      "lon": "121.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mandurah",
+      "en": "Mandurah",
+      "slug": "mandurah-au01l001"
+    },
+    "code": {
+      "id": "AU01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.695",
+      "lon": "115.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L075",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Manjimup",
+      "en": "Manjimup",
+      "slug": "manjimup-au01l075"
+    },
+    "code": {
+      "id": "AU01L075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.554",
+      "lon": "116.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L124",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Meekatharra",
+      "en": "Meekatharra",
+      "slug": "meekatharra-au01l124"
+    },
+    "code": {
+      "id": "AU01L124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.17",
+      "lon": "118.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L052",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Melville",
+      "en": "Melville",
+      "slug": "melville-au01l052"
+    },
+    "code": {
+      "id": "AU01L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.05",
+      "lon": "115.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L050",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Menzies",
+      "en": "Menzies",
+      "slug": "menzies-au01l050"
+    },
+    "code": {
+      "id": "AU01L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.588",
+      "lon": "123.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L128",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Merredin",
+      "en": "Merredin",
+      "slug": "merredin-au01l128"
+    },
+    "code": {
+      "id": "AU01L128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.49",
+      "lon": "118.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L038",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mingenew",
+      "en": "Mingenew",
+      "slug": "mingenew-au01l038"
+    },
+    "code": {
+      "id": "AU01L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.147",
+      "lon": "115.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L069",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Moora",
+      "en": "Moora",
+      "slug": "moora-au01l069"
+    },
+    "code": {
+      "id": "AU01L069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.492",
+      "lon": "116.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L100",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Morawa",
+      "en": "Morawa",
+      "slug": "morawa-au01l100"
+    },
+    "code": {
+      "id": "AU01L100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.075",
+      "lon": "116.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L114",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mosman Park",
+      "en": "Mosman Park",
+      "slug": "mosman-park-au01l114"
+    },
+    "code": {
+      "id": "AU01L114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.014",
+      "lon": "115.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L135",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mount Magnet",
+      "en": "Mount Magnet",
+      "slug": "mount-magnet-au01l135"
+    },
+    "code": {
+      "id": "AU01L135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.257",
+      "lon": "117.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L046",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mount Marshall",
+      "en": "Mount Marshall",
+      "slug": "mount-marshall-au01l046"
+    },
+    "code": {
+      "id": "AU01L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.103",
+      "lon": "117.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L048",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mukinbudin",
+      "en": "Mukinbudin",
+      "slug": "mukinbudin-au01l048"
+    },
+    "code": {
+      "id": "AU01L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.647",
+      "lon": "118.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L110",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mundaring",
+      "en": "Mundaring",
+      "slug": "mundaring-au01l110"
+    },
+    "code": {
+      "id": "AU01L110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.916",
+      "lon": "116.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L116",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Murchison",
+      "en": "Murchison",
+      "slug": "murchison-au01l116"
+    },
+    "code": {
+      "id": "AU01L116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.584",
+      "lon": "116.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L104",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nannup",
+      "en": "Nannup",
+      "slug": "nannup-au01l104"
+    },
+    "code": {
+      "id": "AU01L104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.126",
+      "lon": "115.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Narembeen",
+      "en": "Narembeen",
+      "slug": "narembeen-au01l005"
+    },
+    "code": {
+      "id": "AU01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.014",
+      "lon": "118.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L051",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Narrogin",
+      "en": "Narrogin",
+      "slug": "narrogin-au01l051"
+    },
+    "code": {
+      "id": "AU01L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.938",
+      "lon": "117.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L122",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nedlands",
+      "en": "Nedlands",
+      "slug": "nedlands-au01l122"
+    },
+    "code": {
+      "id": "AU01L122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.982",
+      "lon": "115.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L033",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ngaanyatjarraku",
+      "en": "Ngaanyatjarraku",
+      "slug": "ngaanyatjarraku-au01l033"
+    },
+    "code": {
+      "id": "AU01L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.089",
+      "lon": "126.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Northam",
+      "en": "Northam",
+      "slug": "northam-au01l015"
+    },
+    "code": {
+      "id": "AU01L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.666",
+      "lon": "116.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Northampton",
+      "en": "Northampton",
+      "slug": "northampton-au01l008"
+    },
+    "code": {
+      "id": "AU01L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-27.759",
+      "lon": "114.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L073",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nungarin",
+      "en": "Nungarin",
+      "slug": "nungarin-au01l073"
+    },
+    "code": {
+      "id": "AU01L073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.148",
+      "lon": "118.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L101",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Peppermint Grove",
+      "en": "Peppermint Grove",
+      "slug": "peppermint-grove-au01l101"
+    },
+    "code": {
+      "id": "AU01L101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.999",
+      "lon": "115.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L108",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Perenjori",
+      "en": "Perenjori",
+      "slug": "perenjori-au01l108"
+    },
+    "code": {
+      "id": "AU01L108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.493",
+      "lon": "116.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L062",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Perth",
+      "en": "Perth",
+      "slug": "perth-au01l062"
+    },
+    "code": {
+      "id": "AU01L062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.954",
+      "lon": "115.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L042",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Pingelly",
+      "en": "Pingelly",
+      "slug": "pingelly-au01l042"
+    },
+    "code": {
+      "id": "AU01L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.502",
+      "lon": "117.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L095",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Plantagenet",
+      "en": "Plantagenet",
+      "slug": "plantagenet-au01l095"
+    },
+    "code": {
+      "id": "AU01L095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-34.627",
+      "lon": "117.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L058",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port Hedland",
+      "en": "Port Hedland",
+      "slug": "port-hedland-au01l058"
+    },
+    "code": {
+      "id": "AU01L058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.688",
+      "lon": "118.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L111",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Quairading",
+      "en": "Quairading",
+      "slug": "quairading-au01l111"
+    },
+    "code": {
+      "id": "AU01L111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.017",
+      "lon": "117.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ravensthorpe",
+      "en": "Ravensthorpe",
+      "slug": "ravensthorpe-au01l019"
+    },
+    "code": {
+      "id": "AU01L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.595",
+      "lon": "120.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L106",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Rockingham",
+      "en": "Rockingham",
+      "slug": "rockingham-au01l106"
+    },
+    "code": {
+      "id": "AU01L106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.342",
+      "lon": "115.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Roebourne",
+      "en": "Roebourne",
+      "slug": "roebourne-au01l011"
+    },
+    "code": {
+      "id": "AU01L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.963",
+      "lon": "116.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sandstone",
+      "en": "Sandstone",
+      "slug": "sandstone-au01l009"
+    },
+    "code": {
+      "id": "AU01L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.498",
+      "lon": "119.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L120",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Serpentine-Jarrahdale",
+      "en": "Serpentine-Jarrahdale",
+      "slug": "serpentine-jarrahdale-au01l120"
+    },
+    "code": {
+      "id": "AU01L120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.335",
+      "lon": "116.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L037",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shark Bay",
+      "en": "Shark Bay",
+      "slug": "shark-bay-au01l037"
+    },
+    "code": {
+      "id": "AU01L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.641",
+      "lon": "114.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L115",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "South Perth",
+      "en": "South Perth",
+      "slug": "south-perth-au01l115"
+    },
+    "code": {
+      "id": "AU01L115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.999",
+      "lon": "115.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Stirling",
+      "en": "Stirling",
+      "slug": "stirling-au01l017"
+    },
+    "code": {
+      "id": "AU01L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.88",
+      "lon": "115.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L105",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Subiaco",
+      "en": "Subiaco",
+      "slug": "subiaco-au01l105"
+    },
+    "code": {
+      "id": "AU01L105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.953",
+      "lon": "115.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L131",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Swan",
+      "en": "Swan",
+      "slug": "swan-au01l131"
+    },
+    "code": {
+      "id": "AU01L131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.719",
+      "lon": "116.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L083",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tammin",
+      "en": "Tammin",
+      "slug": "tammin-au01l083"
+    },
+    "code": {
+      "id": "AU01L083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.607",
+      "lon": "117.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L130",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Three Springs",
+      "en": "Three Springs",
+      "slug": "three-springs-au01l130"
+    },
+    "code": {
+      "id": "AU01L130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-29.543",
+      "lon": "115.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Toodyay",
+      "en": "Toodyay",
+      "slug": "toodyay-au01l006"
+    },
+    "code": {
+      "id": "AU01L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.476",
+      "lon": "116.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Trayning",
+      "en": "Trayning",
+      "slug": "trayning-au01l013"
+    },
+    "code": {
+      "id": "AU01L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.146",
+      "lon": "117.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L092",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Upper Gascoyne",
+      "en": "Upper Gascoyne",
+      "slug": "upper-gascoyne-au01l092"
+    },
+    "code": {
+      "id": "AU01L092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.734",
+      "lon": "116.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Victoria Park",
+      "en": "Victoria Park",
+      "slug": "victoria-park-au01l027"
+    },
+    "code": {
+      "id": "AU01L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.98",
+      "lon": "115.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L080",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Victoria Plains",
+      "en": "Victoria Plains",
+      "slug": "victoria-plains-au01l080"
+    },
+    "code": {
+      "id": "AU01L080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.99",
+      "lon": "116.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Vincent",
+      "en": "Vincent",
+      "slug": "vincent-au01l012"
+    },
+    "code": {
+      "id": "AU01L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.931",
+      "lon": "115.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L081",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wagin",
+      "en": "Wagin",
+      "slug": "wagin-au01l081"
+    },
+    "code": {
+      "id": "AU01L081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.27",
+      "lon": "117.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L076",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wandering",
+      "en": "Wandering",
+      "slug": "wandering-au01l076"
+    },
+    "code": {
+      "id": "AU01L076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.643",
+      "lon": "116.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L057",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wanneroo",
+      "en": "Wanneroo",
+      "slug": "wanneroo-au01l057"
+    },
+    "code": {
+      "id": "AU01L057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.604",
+      "lon": "115.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Waroona",
+      "en": "Waroona",
+      "slug": "waroona-au01l025"
+    },
+    "code": {
+      "id": "AU01L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.865",
+      "lon": "115.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L065",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "West Arthur",
+      "en": "West Arthur",
+      "slug": "west-arthur-au01l065"
+    },
+    "code": {
+      "id": "AU01L065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.468",
+      "lon": "116.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L113",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Westonia",
+      "en": "Westonia",
+      "slug": "westonia-au01l113"
+    },
+    "code": {
+      "id": "AU01L113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.967",
+      "lon": "118.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wickepin",
+      "en": "Wickepin",
+      "slug": "wickepin-au01l028"
+    },
+    "code": {
+      "id": "AU01L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-32.782",
+      "lon": "117.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L084",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Williams",
+      "en": "Williams",
+      "slug": "williams-au01l084"
+    },
+    "code": {
+      "id": "AU01L084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.059",
+      "lon": "116.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L118",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wiluna",
+      "en": "Wiluna",
+      "slug": "wiluna-au01l118"
+    },
+    "code": {
+      "id": "AU01L118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.133",
+      "lon": "122.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L091",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wongan-Ballidu",
+      "en": "Wongan-Ballidu",
+      "slug": "wongan-ballidu-au01l091"
+    },
+    "code": {
+      "id": "AU01L091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-30.743",
+      "lon": "116.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Woodanilling",
+      "en": "Woodanilling",
+      "slug": "woodanilling-au01l003"
+    },
+    "code": {
+      "id": "AU01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-33.544",
+      "lon": "117.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L126",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wyalkatchem",
+      "en": "Wyalkatchem",
+      "slug": "wyalkatchem-au01l126"
+    },
+    "code": {
+      "id": "AU01L126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.178",
+      "lon": "117.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L085",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wyndham-East Kimberley",
+      "en": "Wyndham-East Kimberley",
+      "slug": "wyndham-east-kimberley-au01l085"
+    },
+    "code": {
+      "id": "AU01L085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.305",
+      "lon": "126.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L063",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yalgoo",
+      "en": "Yalgoo",
+      "slug": "yalgoo-au01l063"
+    },
+    "code": {
+      "id": "AU01L063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.323",
+      "lon": "116.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L132",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yilgarn",
+      "en": "Yilgarn",
+      "slug": "yilgarn-au01l132"
+    },
+    "code": {
+      "id": "AU01L132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.249",
+      "lon": "119.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AU01L098",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "York",
+      "en": "York",
+      "slug": "york-au01l098"
+    },
+    "code": {
+      "id": "AU01L098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AU01",
+      "level": 1,
+      "name": {
+        "local": "Western Australia",
+        "en": "Western Australia",
+        "slug": "western-australia-au01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AU01",
+        "level": 1,
+        "name": {
+          "local": "Western Australia",
+          "en": "Western Australia",
+          "slug": "western-australia-au01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-31.894",
+      "lon": "116.742"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
