@@ -3,7 +3,7 @@
 > 72 local government areas
 > Code: AU02
 > Coordinates: -23.034, 144.417
-> Last updated: 2026-08-04. License: CC-BY-4.0.
+> Last updated: 2026-08-07. License: CC-BY-4.0.
 
 ## Local Government Areas
 

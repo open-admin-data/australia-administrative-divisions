@@ -3,7 +3,7 @@
 > 77 local government areas
 > Code: AU04
 > Coordinates: -37.014, 143.48
-> Last updated: 2026-08-04. License: CC-BY-4.0.
+> Last updated: 2026-08-07. License: CC-BY-4.0.
 
 ## Local Government Areas
 

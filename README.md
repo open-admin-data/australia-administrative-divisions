@@ -11,7 +11,7 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-04 |
+| Last Updated | 2026-08-07 |
 | Website | [openadmindata.org/au](https://openadmindata.org/au/) |
 | API | [openadmindata.org/api/au](https://openadmindata.org/api/au/) |
 

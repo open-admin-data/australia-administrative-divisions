@@ -3,7 +3,7 @@
 > 136 local government areas
 > Code: AU01
 > Coordinates: -26.472, 122.066
-> Last updated: 2026-08-04. License: CC-BY-4.0.
+> Last updated: 2026-08-07. License: CC-BY-4.0.
 
 ## Local Government Areas
 
