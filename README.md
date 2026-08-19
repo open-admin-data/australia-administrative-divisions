@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-07 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/au](https://openadmindata.org/au/) |
 | API | [openadmindata.org/api/au](https://openadmindata.org/api/au/) |
+| National Anthem | [🎵 Listen & Download Australia National Anthem MP3](https://onlygames.me/national-anthems/au/) |
 
 ## Browse by State/Territory
 

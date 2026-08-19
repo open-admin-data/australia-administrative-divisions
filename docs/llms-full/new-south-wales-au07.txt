@@ -3,7 +3,7 @@
 > 151 local government areas
 > Code: AU07
 > Coordinates: -32.495, 146.587
-> Last updated: 2026-08-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Local Government Areas
 
