@@ -9,7 +9,7 @@
 - Total state/territorys: 8
 - Total local government areas: 550
 - Coordinates: included (all levels)
-- Last updated: 2026-08-19
+- Last updated: 2026-08-20
 - License: CC-BY-4.0
 
 ## Aggregate Data Files
